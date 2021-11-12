@@ -1,0 +1,114 @@
+{
+	"doc_id": 19,
+	"title": "Why Chevron And Exxon Shun Solar And Wind",
+	"company": "Chevron",
+	"url": "https://finance.yahoo.com/news/why-chevron-exxon-shun-solar-210000813.html",
+	"ticker_top": [
+		"CVX",
+		"XOM"
+	],
+	"contents": [
+		"<h3>Banco Bradesco S.A. Plans Monthly Dividend of $0.00 (NYSE:BBD)</h3>",
+		"<p>Banco Bradesco S.A. (NYSE:BBD) declared a monthly dividend on Wednesday, September 22nd, Wall Street Journal reports. Shareholders of record on Tuesday, October 5th will be given a dividend of 0.0035 per share by the bank on Monday, November 8th. This represents a $0.04 dividend on an annualized basis and a yield of 1.13%. The ex-dividend date of this dividend is Monday, October 4th.</p>",
+		"<p>Banco Bradesco has decreased its dividend by 64.8% over the last three years. Banco Bradesco has a payout ratio of 1.9% indicating that its dividend is sufficiently covered by earnings. Equities analysts expect Banco Bradesco to earn $0.55 per share next year, which means the company should continue to be able to cover its $0.01 annual dividend with an expected future payout ratio of 1.8%.</p>",
+		"<p>BBD stock traded up $0.06 during mid-day trading on Wednesday, reaching $3.77. 33,229,949 shares of the company traded hands, compared to its average volume of 27,279,943. The stock has a market cap of $36.64 billion, a price-to-earnings ratio of 9.21 and a beta of 0.93. The company has a quick ratio of 0.62, a current ratio of 1.51 and a debt-to-equity ratio of 1.24. Banco Bradesco has a fifty-two week low of $3.36 and a fifty-two week high of $5.70. The firm's 50 day moving average price is $4.39 and its 200 day moving average price is $4.65.</p>",
+		"<p>Banco Bradesco (NYSE:BBD) last announced its earnings results on Tuesday, August 3rd. The bank reported $0.13 earnings per share for the quarter, topping analysts' consensus estimates of $0.12 by $0.01. Banco Bradesco had a return on equity of 17.20% and a net margin of 20.84%. The firm had revenue of $4.10 billion for the quarter, compared to the consensus estimate of $4.66 billion. On average, analysts anticipate that Banco Bradesco will post 0.49 EPS for the current fiscal year.</p>",
+		"<p>An institutional investor recently raised its position in Banco Bradesco stock. Invesco Ltd. grew its position in shares of Banco Bradesco S.A. (NYSE:BBD) by 32.3% in the second quarter, according to its most recent 13F filing with the Securities and Exchange Commission (SEC). The institutional investor owned 35,634 shares of the bank's stock after purchasing an additional 8,709 shares during the period. Invesco Ltd.'s holdings in Banco Bradesco were worth $183,000 at the end of the most recent quarter. 2.37% of the stock is currently owned by institutional investors.</p>",
+		"<p>A number of brokerages have recently weighed in on BBD. Itau BBA Securities downgraded Banco Bradesco from an \"outperform\" rating to a \"market perform\" rating and set a $4.40 target price on the stock. in a research note on Monday, September 13th. Zacks Investment Research cut shares of Banco Bradesco from a \"hold\" rating to a \"sell\" rating in a report on Friday, August 6th. Finally, Scotiabank cut shares of Banco Bradesco from an \"outperform\" rating to a \"sector perform\" rating in a report on Wednesday, July 7th. One equities research analyst has rated the stock with a sell rating, two have given a hold rating and two have given a buy rating to the company. Based on data from MarketBeat.com, the stock currently has a consensus rating of \"Hold\" and an average price target of $4.70.</p>",
+		"<h6>About Banco Bradesco</h6>",
+		"<p>Banco Bradesco SA engages in the provision of financial and insurance services. It operates through Banking, and Insurance segments. The Banking segment includes banking activities. The Insurance segment covers auto, health, life, accident and property insurance, and pension plans aw well as capitalization bonds.</p>"
+	],
+	"summary": "Why Chevron And Exxon Shun Solar And Wind. Editor OilPrice.com. Europe's top oil and gas firms have all committed to becoming net-zero energy businesses by 2050 or sooner. Most of them say their oil production has either peaked already or is about to peak by the middle of this decade. And all of them bet on investments in renewable electricity generation—along with hydrogen, carbon capture and storage, biofuels, and electric vehicle charging networks—to deserve being called 'energy companies' instead of oil companies.",
+	"stock_matches": [
+		{
+			"index": 513,
+			"stock_name": "NRG Energy",
+			"ticker_symbol": "NRG",
+			"sector": "Utilities",
+			"industry": "Electric Utilities",
+			"comment": "NRG Energy, Inc. is a large American energy company, headquartered in Houston, Texas. It was formerly the wholesale arm of Northern States Power Company (NSP), which became Xcel Energy, but became independent in 2000. NRG Energy is involved in energy generation and retail electricity. Their portfolio includes natural gas generation, coal generation, oil generation, nuclear generation, wind generation, utility scale generation, and distributed solar generation. NRG serves 2.9 million retail customers in Texas, Connecticut, Delaware, Illinois, Maryland, Massachusetts, New Jersey, New York, Pennsylvania, Ohio, and the District of Columbia.",
+			"score": 0.7478572737047642
+		},
+		{
+			"index": 303,
+			"stock_name": "FuelCell Energy",
+			"ticker_symbol": "FCEL",
+			"sector": "Electronic Technology",
+			"industry": "Electronic Equipment/Instruments",
+			"comment": "FuelCell Energy, Inc. is an American fuel cell power company. It designs, manufactures, operates and services Direct Fuel Cell power plants (a type of molten carbonate fuel cell) that run on natural gas and biogas. Their power plants are not considered \"hydrogen fuel cells\" because their feedstock is not pure hydrogen and the byproducts of electric generation include carbon dioxide. As one of the biggest publicly traded fuel cell manufacturers in the U.S., the company operates over 50 plants all over the world. It operates the world’s largest fuel cell park, Gyeonggi Green Energy Fuel cell park, which is located in South Korea. The park consists of 21 power plants providing 59 Megawatt of electricity plus district heating to a number of customers in South Korea. It also operates the larges",
+			"score": 0.7409144353644559
+		},
+		{
+			"index": 268,
+			"stock_name": "Equinor",
+			"ticker_symbol": "EQNR",
+			"sector": "Energy Minerals",
+			"industry": "Integrated Oil",
+			"comment": "Equinor ASA (formerly Statoil and StatoilHydro) is a Norwegian state-owned multinational energy company headquartered in Stavanger. It is primarily a petroleum company, operating in 36 countries with additional investments in renewable energy. In the 2020 Forbes Global 2000, Equinor was ranked as the 169th-largest public company in the world. The company has about 20,200 employees.",
+			"score": 0.724927300576358
+		},
+		{
+			"index": 717,
+			"stock_name": "Valero",
+			"ticker_symbol": "VLO",
+			"sector": "Energy Minerals",
+			"industry": "Oil Refining/Marketing",
+			"comment": "Valero Energy Corporation is a Fortune 500 international manufacturer and marketer of transportation fuels, other petrochemical products, and power. It is headquartered in San Antonio, Texas, United States. Throughout the United States and Canada, the company owns and operates 15 refineries, and one in Wales, with a combined throughput capacity of approximately 3 million barrels (480,000 m3) per day, 11 ethanol plants with a combined production capacity of 1.2 billion US gallons (4,500,000 m3) per year, and a 50-megawatt wind farm. Before the 2013 spinoff of CST Brands, Valero was one of the United States' largest retail operators with approximately 6,800 retail and branded wholesale outlets in the United States, Canada, United Kingdom, and the Caribbean under the Valero, Diamond Shamrock,",
+			"score": 0.716425738847608
+		},
+		{
+			"index": 225,
+			"stock_name": "Diamondback Energy Inc",
+			"ticker_symbol": "FANG",
+			"sector": "Energy Minerals",
+			"industry": "Oil & Gas Production",
+			"comment": "Diamondback Energy is a company engaged in hydrocarbon exploration and headquartered in Midland, Texas. As of December 31, 2020, the company had 1,316 million barrels of oil equivalent (8.05×109 GJ) of estimated proved reserves, of which 58% was petroleum, 20% was natural gas, and 22% was natural gas liquids. The company's reserves are all in the Permian Basin.",
+			"score": 0.7121897525955857
+		},
+		{
+			"index": 172,
+			"stock_name": "Cloudera",
+			"ticker_symbol": "CLDR",
+			"sector": "Technology Services",
+			"industry": "Packaged Software",
+			"comment": "Cloudera, Inc. is a US-based company that provides an enterprise data cloud. Built on open source technology, Cloudera’s platform uses analytics and machine learning to yield insights from data through a secure connection. Cloudera’s platform works across hybrid, multi-cloud and on-premises architectures and provides multi-function analytics throughout the edge to AI data lifecycle.",
+			"score": 0.7117798882670069
+		},
+		{
+			"index": 122,
+			"stock_name": "Brookfield Renewable Partners",
+			"ticker_symbol": "BEP",
+			"sector": "Utilities",
+			"industry": "Electric Utilities",
+			"comment": "Brookfield Renewable Partners L.P. is a publicly traded limited partnership that owns and operates renewable power assets, with corporate headquarters in Toronto, Ontario, Canada. It is 60% owned by Brookfield Asset Management. As of the end of 2017, Brookfield Renewable owned over 200 hydroelectric plants, 100 wind farms, over 550 solar facilities, and four storage facilities, with approximately 16,400 MW of installed capacity.",
+			"score": 0.7085843198480967
+		},
+		{
+			"index": 121,
+			"stock_name": "Brookfield Infrastructure Partners",
+			"ticker_symbol": "BIP",
+			"sector": "Utilities",
+			"industry": "Alternative Power Generation",
+			"comment": "Brookfield Infrastructure Partners L.P. is a publicly traded limited partnership with corporate headquarters in Toronto, Canada, that engages in the acquisition and management of infrastructure assets on a global basis. Until a spin-off in January 2008, Brookfield Infrastructure was an operating unit of Brookfield Asset Management, which retains a 30 percent ownership and acts as the partnership's general manager. The company's assets carried a book value of US$21.3 billion, on December 31, 2016.",
+			"score": 0.7072673236837692
+		},
+		{
+			"index": 653,
+			"stock_name": "Sunrun",
+			"ticker_symbol": "RUN",
+			"sector": "Utilities",
+			"industry": "Alternative Power Generation",
+			"comment": "Sunrun Inc. is an American provider of residential solar panels and home batteries, headquartered in San Francisco, California.",
+			"score": 0.706287928595852
+		},
+		{
+			"index": 342,
+			"stock_name": "Hess Corporation",
+			"ticker_symbol": "HES",
+			"sector": "Energy Minerals",
+			"industry": "Oil & Gas Production",
+			"comment": "Hess Corporation (formerly Amerada Hess Corporation) is an American global independent energy company involved in the exploration and production of crude oil and natural gas. It was formed by the merger of Hess Oil and Chemical and Amerada Petroleum in 1968. Leon Hess served as CEO from the early 1960s through 1995, after which his son John B Hess succeeded him as chairman and CEO. Headquartered in New York City, the company ranked 394th in the 2016 annual ranking of Fortune 500 corporations. In 2020, Forbes Global 2000 ranked Hess as the 1,253rd largest public company in the world.",
+			"score": 0.6993911172809987
+		}
+	]
+}

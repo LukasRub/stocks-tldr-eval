@@ -1,0 +1,73 @@
+{
+	"doc_id": 5,
+	"title": "Better Beer Stock: Ambev or Boston Beer Company?",
+	"company": "Ambev",
+	"url": "https://stocknews.com/news/abev-sam-better-beer-stock-ambev-or-boston-beer-company/",
+	"ticker_top": [
+		"ABEV"
+	],
+	"contents": [
+		"<h3>Carnival says cruise bookings for 2022 second half above pre-pandemic levels</h3>",
+		"<p>KEY POINTS</p>",
+		"<p>1. Carnival Corp said on Friday cruise bookings for the second half of 2022 were ahead of pre-pandemic levels.</p>",
+		"<p>2. Carnival said its voyages for the third quarter were cash flow positive, adding that it expects the trend to continue.</p>",
+		"<p>3. The company, which reported a third-quarter adjusted loss of $1.99 billion, said its monthly average cash burn rate was $510 million during the reported quarter.</p>",
+		"<p>Carnival Corp said on Friday cruise bookings for the second half of 2022 were ahead of pre-pandemic levels, in a sign the cruise operator expects a rebound in business as it restarts voyages globally.</p>",
+		"<p>The cruise sector has been among those most affected by the pandemic as many ships docked at ports and anchored offshore for months without passengers, forcing operators to raise billions of dollars in debt to stay afloat.</p>",
+		"<p>Some cruise enthusiasts are looking forward to the resumption of more voyages from U.S. ports after the country’s health officials gave the green light earlier this year for Carnival and its rivals to restart operations.</p>",
+		"<p>Carnival said its voyages for the third quarter were cash flow positive, adding that it expects the trend to continue.</p>",
+		"<p>Eight of the company’s nine cruise line brands have resumed sailings with passengers onboard, and it expects more than half its total fleet capacity to be open for guests by the end of October.</p>",
+		"<p>However, Carnival said its booking volumes for future cruises during the third quarter were not as robust as the second quarter due to the spread of the Delta variant of the coronavirus.</p>",
+		"<p>Rival Norwegian Cruise Line said it saw a modest decrease in net new booking activity in July following a surge in Covid-19 cases, while Royal Caribbean also flagged a modest hit to its bookings from the fast-spreading variant.</p>",
+		"<p>Carnival expects its monthly average cash burn rate for the fourth quarter to be higher than the prior quarters, as it prepares its ships for voyages after more than a year.</p>",
+		"<p>The company, which reported a third-quarter adjusted loss of $1.99 billion, said its monthly average cash burn rate was $510 million during the reported quarter.</p>"
+	],
+	"summary": "Better Beer Stock: Ambev or Boston Beer Company?. ABEV – Even though beer consumption dipped last year, the reopening of restaurants this year has been pushing up beer company sales. That is why we think it could be wise now to evaluate established beer companies Ambev (ABEV) and Boston Beer (SAM) to identify which one is a better buy now? Read more to find out. Nimesh JaiswalBy Nimesh Jaiswal",
+	"stock_matches": [
+		{
+			"index": 51,
+			"stock_name": "Anheuser Busch Inbev NV",
+			"ticker_symbol": "BUD",
+			"sector": "Consumer Non-Durables",
+			"industry": "Beverages: Alcoholic",
+			"comment": "Anheuser-Busch InBev SA/NV, commonly known as AB InBev, is a multinational drink and brewing company based in Leuven, Belgium. AB InBev has a global functional management office in New York City, and regional headquarters in São Paulo, London, St. Louis, Mexico City, Bremen, Johannesburg and others. It has approximately 630 beer brands in 150 countries. AB InBev was formed through InBev (itself a merger between Interbrew from Belgium and AmBev from Brazil) acquiring Anheuser-Busch from the United States.",
+			"score": 0.7389573165854761
+		},
+		{
+			"index": 34,
+			"stock_name": "Ambev",
+			"ticker_symbol": "ABEV",
+			"sector": "Consumer Non-Durables",
+			"industry": "Beverages: Alcoholic",
+			"comment": "Ambev, formally Companhia de Bebidas das Américas (\"Americas' Beverage Company\" in English, hence the \"Ambev\" abbreviation), is a Brazilian brewing company now merged into Anheuser-Busch InBev. It was created on July 1, 1999, with the merger of two breweries, Brahma and Antarctica. The merger was approved by the board of directors of the Brazilian Administrative Council for Economic Defense (CADE) on March 30, 2000. The headquarters are in São Paulo, Brazil. It is one of the largest companies by market capitalization in Brazil and in the Southern hemisphere.",
+			"score": 0.7241059551929041
+		},
+		{
+			"index": 406,
+			"stock_name": "Keurig Dr Pepper",
+			"ticker_symbol": "KDP",
+			"sector": "Consumer Non-Durables",
+			"industry": "Beverages: Non-Alcoholic",
+			"comment": "Dr Pepper Snapple Group (also called Dr. Pepper/7up Inc.) was an American multinational soft drink company based in Plano, Texas, and as of July 2018 it is a business unit of the publicly traded conglomerate Keurig Dr Pepper. Formerly Cadbury Schweppes Americas Beverages, part of Cadbury Schweppes, on May 5, 2008 it was spun off from Cadbury Schweppes as Dr Pepper Snapple Group, with trading in its shares starting on May 7, 2008 on the NYSE as \"DPS\". The remainder of Cadbury Schweppes become Cadbury, a confectionery group, on May 5, 2008.",
+			"score": 0.7125382384436121
+		},
+		{
+			"index": 416,
+			"stock_name": "Kraft Heinz",
+			"ticker_symbol": "KHC",
+			"sector": "Consumer Non-Durables",
+			"industry": "Food: Major Diversified",
+			"comment": "The Kraft Heinz Company (KHC), commonly known as Kraft Heinz, is an American food company formed by the merger of Kraft Foods and Heinz. Co-headquartered in Chicago, Illinois, and Pittsburgh, Pennsylvania. Kraft Heinz is the third-largest food and beverage company in North America and the fifth-largest in the world with over $26.0 billion in annual sales as of 2020.",
+			"score": 0.709230439057623
+		},
+		{
+			"index": 195,
+			"stock_name": "Constellation Brands",
+			"ticker_symbol": "STZ",
+			"sector": "Consumer Non-Durables",
+			"industry": "Beverages: Alcoholic",
+			"comment": "Constellation Brands, Inc., a Fortune 500 company, is an American producer and marketer of beer, wine, and spirits. Constellation is the largest beer import company in the US, measured by sales, and has the third-largest market share (7.4 percent) of all major beer suppliers. It also has investments in medical and recreational cannabis. Based in Victor, New York, Constellation has about 40 facilities and approximately 9,000 employees.",
+			"score": 0.6990068767917604
+		}
+	]
+}

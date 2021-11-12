@@ -1,0 +1,119 @@
+{
+	"doc_id": 29,
+	"title": "Energy Transfer earnings climb as natgas pipeline revenues jump",
+	"company": "Energy Transfer Equity",
+	"url": "https://finance.yahoo.com/news/energy-transfer-earnings-climb-natgas-212958144.html",
+	"ticker_top": [
+		"ET"
+	],
+	"contents": [
+		"<h3>Alibaba stock tumbles after report says Beijing wants to break up Alipay</h3>",
+		"<p>Hong Kong (CNN Business) — Shares in Alibaba slumped again on Monday after the Financial Times reported that Beijing is planning to break up Alipay, the hugely popular payment app owned by its financial affiliate, Ant Group.</p>",
+		"<p>But that wasn't the only piece of news that led to the stock's decline. Investors are also concerned that Beijing is intensifying its ongoing crackdown on big tech, after regulators ordered internet firms — including Alibaba and Tencent — to stop blocking rivals' links on their platforms.</p>",
+		"<p>Alibaba (BABA) fell as much as 7% in Hong Kong, before trimming losses to 4.2% at the close. The stock has shed 46% since early November 2020, when Chinese regulators halted Ant Group's giant IPO at the last minute, erasing about $380 billion off Alibaba's market value. Ant Group was spun off from Jack Ma's Alibaba in 2011. Alibaba still owns a third of the fintech company.</p>",
+		"<p>Since yanking its IPO, regulators have already ordered Ant to restructure as a financial holding company, and now its superapp —Alipay —may be next in line. According to the Financial Times, China wants to break up Alipay and create a separate app for its loans business.</p>",
+		"<p>\"Chinese regulators have already ordered Ant to separate the back end of its two lending businesses, Huabei, which is similar to a traditional credit card, and Jiebei, which makes small unsecured loans, from the rest of its financial offerings and bring in outside shareholders,\" the paper said.</p>",
+		"<p>\"Now officials want the two businesses to be split into an independent app as well,\" it added, citing unnamed sources.</p>",
+		"<p>The regulators also want Ant to turn over the user data that underpins its lending decisions to a new credit scoring joint venture that will be partly state-owned, the report said.</p>",
+		"<p>Ant and the People's Bank of China didn't immediately reply to a request for comment.</p>",
+		"<p>Alipay, the digital payments app, boasts of more than 700 million active users every month. But while it has grown unchecked over the past decade, authorities are becoming increasingly mindful of how much influence the tech industry has on the country's economy. Ant, for example, controls more than half of the mobile payments market in China.</p>",
+		"<h6>No more blocking</h6>",
+		"<p>On Monday, China's Ministry of Industry and Information Technology ordered the country's internet firms to end a long-standing practice of blocking rivals' links on their platforms. The ministry said it will punish those who did not correct their actions within an unspecified deadline. It didn't specify the punishments.</p>",
+		"<p>The comments made at a press conference came after a state-owned newspaper reported on Saturday that the ministry met with a handful of internet companies late last week to discuss the issue.</p>",
+		"<p>Apart from Alibaba, other Chinese tech stocks also dropped sharply, following the comments by the ministry. Meituan lost 4.5%, and Tencent (TCEHY) fell 2.4%.</p>",
+		"<p>— CNN's Beijing bureau contributed to this article.</p>"
+	],
+	"summary": "NEW YORK, Aug 3 (Reuters) - Energy Transfer LP on Tuesday reported an increase in quarterly net income, driven by gains in its intrastate natural gas pipeline and storage business as well as natural gas liquids unit. Energy Transfer was among the biggest winners after Winter Storm Uri knocked out power and halted distribution of natural gas in Texas in February. The company had said it expected to gain roughly $2.4 billion due to the storm. Energy Transfer earnings climb as natgas pipeline revenues jump",
+	"stock_matches": [
+		{
+			"index": 265,
+			"stock_name": "EQT Corporation",
+			"ticker_symbol": "EQT",
+			"sector": "Energy Minerals",
+			"industry": "Oil & Gas Production",
+			"comment": "EQT Corporation is an American energy company engaged in hydrocarbon exploration and pipeline transport. It is headquartered in EQT Plaza in Pittsburgh, Pennsylvania. EQT is the largest natural gas producer in the Appalachian Basin with 19.802 trillion cubic feet equivalent of proved reserves across approximately 1.8 million gross acres, including approximately 1.5 million gross acres in the Marcellus Formation, as of December 31, 2019. Of the company's total proved reserves, 88% are located in the Marcellus Formation and 95% are natural gas.",
+			"score": 0.7555457635421291
+		},
+		{
+			"index": 54,
+			"stock_name": "Antero Resources Corporation",
+			"ticker_symbol": "AR",
+			"sector": "Energy Minerals",
+			"industry": "Oil & Gas Production",
+			"comment": "Antero Resources Corporation is a company engaged in hydrocarbon exploration. It is organized in Delaware and headquartered in Denver, Colorado. The company's reserves are entirely in the Appalachian Basin (92% were in the Marcellus Shale and 8% were in the Utica Shale) and are extracted using hydraulic fracturing. As of December 31, 2020, the company had 17,635 billion cubic feet (499 billion cubic meters) of estimated proved reserves, of which 61% was natural gas, 21% was ethane, 17% was natural gas liquids, and 1% was petroleum. The company is ranked 608th on the Fortune 500.",
+			"score": 0.7407045709586444
+		},
+		{
+			"index": 544,
+			"stock_name": "PBF Energy",
+			"ticker_symbol": "PBF",
+			"sector": "Energy Minerals",
+			"industry": "Oil Refining/Marketing",
+			"comment": "PBF Energy Inc. is a petroleum refiner and supplier of unbranded transportation fuels, heating oils, lubricants, petrochemical feedstocks, and other petroleum products. Headquartered in Parsippany, New Jersey, the company's refineries include facilities in Chalmette, Louisiana, Toledo, Ohio, Port of Paulsboro in Gibbstown, New Jersey, the Delaware City Refinery in Delaware City, the former ExxonMobil refinery in Torrance, California, and the former Shell refinery in Martinez, California. PBF produces a range of products including gasoline, ultra-low-sulfur diesel (ULSD), heating oil, jet fuel, lubricants, petrochemicals and asphalt.",
+			"score": 0.7386909822462027
+		},
+		{
+			"index": 259,
+			"stock_name": "Energy Transfer Equity",
+			"ticker_symbol": "ET",
+			"sector": "Industrial Services",
+			"industry": "Oil & Gas Pipelines",
+			"comment": "Energy Transfer LP is a company engaged in natural gas and propane pipeline transport. It is organized under Delaware state laws and headquartered in Dallas, Texas. It was founded in 1995 by Ray Davis and Kelcy Warren, who remains Chairman and CEO. It owns a 36.4% interest in Dakota Access, LLC, the company responsible for developing the controversial Dakota Access Pipeline.",
+			"score": 0.7370932898272811
+		},
+		{
+			"index": 342,
+			"stock_name": "Hess Corporation",
+			"ticker_symbol": "HES",
+			"sector": "Energy Minerals",
+			"industry": "Oil & Gas Production",
+			"comment": "Hess Corporation (formerly Amerada Hess Corporation) is an American global independent energy company involved in the exploration and production of crude oil and natural gas. It was formed by the merger of Hess Oil and Chemical and Amerada Petroleum in 1968. Leon Hess served as CEO from the early 1960s through 1995, after which his son John B Hess succeeded him as chairman and CEO. Headquartered in New York City, the company ranked 394th in the 2016 annual ranking of Fortune 500 corporations. In 2020, Forbes Global 2000 ranked Hess as the 1,253rd largest public company in the world.",
+			"score": 0.7323095425858327
+		},
+		{
+			"index": 568,
+			"stock_name": "Public Service Enterprise Group",
+			"ticker_symbol": "PEG",
+			"sector": "Utilities",
+			"industry": "Electric Utilities",
+			"comment": "The Public Service Enterprise Group (PSEG) is a publicly traded diversified energy company headquartered in Newark, New Jersey and was established in 1985 with a legacy dating back to 1903. The company's largest subsidiary is Public Service Electric and Gas Company (PSE&G). The Public Service Electric and Gas Company is a regulated gas and electric utility company established in 1928 serving the state of New Jersey and it is New Jersey's oldest and largest investor owned utility company; the Public Service Electric and Gas Company was established in 1928 and was originally a subsidiary of the New-Jersey-based Public Service Corporation.",
+			"score": 0.7274826949758293
+		},
+		{
+			"index": 513,
+			"stock_name": "NRG Energy",
+			"ticker_symbol": "NRG",
+			"sector": "Utilities",
+			"industry": "Electric Utilities",
+			"comment": "NRG Energy, Inc. is a large American energy company, headquartered in Houston, Texas. It was formerly the wholesale arm of Northern States Power Company (NSP), which became Xcel Energy, but became independent in 2000. NRG Energy is involved in energy generation and retail electricity. Their portfolio includes natural gas generation, coal generation, oil generation, nuclear generation, wind generation, utility scale generation, and distributed solar generation. NRG serves 2.9 million retail customers in Texas, Connecticut, Delaware, Illinois, Maryland, Massachusetts, New Jersey, New York, Pennsylvania, Ohio, and the District of Columbia.",
+			"score": 0.725998612714889
+		},
+		{
+			"index": 444,
+			"stock_name": "Marathon Petroleum",
+			"ticker_symbol": "MPC",
+			"sector": "Energy Minerals",
+			"industry": "Oil Refining/Marketing",
+			"comment": "Marathon Petroleum Corporation is an American petroleum refining, marketing, and transportation company headquartered in Findlay, Ohio. The company was a wholly owned subsidiary of Marathon Oil until a corporate spin-off in 2011.",
+			"score": 0.7252446964014998
+		},
+		{
+			"index": 145,
+			"stock_name": "Cenovus Energy Inc",
+			"ticker_symbol": "CVE",
+			"sector": "Energy Minerals",
+			"industry": "Oil & Gas Production",
+			"comment": "Cenovus Energy Inc. (pronounced se-nō-vus) is an integrated oil and natural gas company headquartered in Calgary, Alberta. Cenovus was formed in 2009 when Encana Corporation split into two distinct companies, with Cenovus becoming focused on oil sands assets. In 2017, Cenovus purchased ConocoPhillips' 50 percent share of their Foster Creek Christina Lake (FCCL) oil sands projects and most of their conventional assets in Alberta and British Columbia, including the Deep Basin. Cenovus completed the acquisition of Husky Energy for C$3.9 billion in stock in January 2021.",
+			"score": 0.7248418414718051
+		},
+		{
+			"index": 411,
+			"stock_name": "Kinder Morgan",
+			"ticker_symbol": "KMI",
+			"sector": "Industrial Services",
+			"industry": "Oil & Gas Pipelines",
+			"comment": "Kinder Morgan, Inc. is one of the largest energy infrastructure companies in North America. The company specializes in owning and controlling oil and gas pipelines and terminals. Kinder Morgan owns an interest in or operates approximately 85,000 miles (137 000 km) of pipelines and 152 terminals. The company's pipelines transports natural gas, liquefied natural gas, ethanol, biodiesel, hydrogen, refined petroleum products, crude oil, carbon dioxide, and more. Kinder Morgan also stores or handles a variety of products and materials at their terminals such as gasoline, jet fuel, ethanol, coal, petroleum coke and steel.",
+			"score": 0.7243795925677212
+		}
+	]
+}

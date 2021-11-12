@@ -1,0 +1,121 @@
+{
+	"doc_id": 34,
+	"title": "US Steel Output Spikes 20% YTD on Higher Capacity, Solid Demand",
+	"company": "United States Steel",
+	"url": "https://finance.yahoo.com/news/us-steel-output-spikes-20-095909198.html",
+	"ticker_top": [
+		"X"
+	],
+	"contents": [
+		"<h3>Uber drivers to stage 24-hour strike</h3>",
+		"<p>Drivers at ride hailing giant Uber are staging a strike on Tuesday over issues including pay and claims that workers are being unfairly dismissed.</p>",
+		"<p>Members of the App Drivers and Couriers Union (ADCU) will hold protests in London, Bristol, Birmingham, Nottingham, Sheffield, Manchester, Leeds and Glasgow, and are urging people not to use the service during the 24-hour walkout.</p>",
+		"<p>The union has accused the company of failing to implement a court ruling to pay waiting time, which it says makes up around 40% of an Uber driver’s working time, and claims that large numbers of drivers are being unfairly sacked.</p>",
+		"<p>Uber insisted it is working with unions to raise standards for drivers.</p>",
+		"<p>The union is also in dispute over the introduction of fixed price fares which it claims has led to reduced driver incomes.</p>",
+		"<p>Yaseen Aslam, ADCU president said: “It is shameful that Uber continues to defy the highest court in the land to cheat 70,000 workers out of pay for 40% of their true working time.</p>",
+		"<p>“The drivers know they deserve and are legally entitled to much more than Uber is offering.</p>",
+		"<p>“This strike is just the beginning and there will be much more unrest until Uber does the right thing and pays drivers all that they are owed, both pension contributions and working time.”</p>",
+		"<p>General secretary James Farrar added: “Uber has continued to intensify its use of junk surveillance tech and algorithmic management control to maximise profits.</p>",
+		"<p>“The results have been catastrophic, with hundreds of people unfairly dismissed and accused of unspecified ‘fraudulent activity’.</p>",
+		"<p>“Instead of trying to gag unions from exposing the flaws in their tech, Uber should instead guarantee all drivers protection from unfair dismissal and the right to access a proper, human-led appeals process.”</p>",
+		"<p>An Uber spokesperson said: “Following the historic trade union recognition deal with GMB, drivers have an even stronger voice within Uber.</p>",
+		"<p>“We are working together with our trade union partner to raise standards for drivers through greater transparency and engagement.</p>",
+		"<p>“GMB represents drivers in areas such as earnings, deactivations and the implementation of new worker benefits, such as holiday pay and pensions.”</p>",
+		"<p>Uber formally recognised the GMB earlier this year, saying the union could represent up to 70,000 Uber drivers across the UK.</p>",
+		"<p>Uber announced in March that 70,000 drivers will be treated as workers, earning at least the National Living Wage, with paid-for holiday time. Those eligible will be automatically enrolled into a pension plan.</p>"
+	],
+	"summary": "U.S. raw steel production edged down on a weekly comparison basis for the week ending Sep 4 as lower production across Southern and Midwest offset gains in North East and Great Lakes. Capacity utilization — a key metric in the steel industry — remained close to the 85% level amid strong domestic demand. US Steel Output Spikes 20% YTD on Higher Capacity, Solid Demand. Notwithstanding the modest weak-on-weak decline, U.S. steel output remains higher than at the same time last year when shutdowns across major steel-consuming sectors due to the coronavirus pandemic put a crimp on steel demand. Per AISI, output for the reported week represents a 23.5% rise from production of 1,511,000 for the same period a year ago. Domestic steel production is also up roughly 20% so far this year.",
+	"stock_matches": [
+		{
+			"index": 660,
+			"stock_name": "Taiwan Semiconductor",
+			"ticker_symbol": "TSM",
+			"sector": "Electronic Technology",
+			"industry": "Semiconductors",
+			"comment": "Taiwan Semiconductor Manufacturing Company, Limited (TSMC; Chinese: 台灣積體電路製造股份有限公司; pinyin: Táiwān jī tǐ diànlù zhìzào gǔfèn yǒuxiàn gōngsī, also called Taiwan Semiconductor) is a Taiwanese multinational semiconductor contract manufacturing and design company. It is the world's most valuable semiconductor company, the world's largest dedicated independent (pure-play) semiconductor foundry, and one of Taiwan's largest companies, with its headquarters and main operations located in the Hsinchu Science Park in Hsinchu. It is majority owned by foreign investors.",
+			"score": 0.7041393362355407
+		},
+		{
+			"index": 188,
+			"stock_name": "Companhia Siderurgica Nacional",
+			"ticker_symbol": "SID",
+			"sector": "Non-Energy Minerals",
+			"industry": "Steel",
+			"comment": "Companhia Siderúrgica Nacional (CSN) (en: National Siderurgy Company) is the largest fully integrated steel producer in Brazil and one of the largest in Latin America in terms of crude steel production. Its main plant is located in the city of Volta Redonda, in the state of Rio de Janeiro. Its current CEO is Benjamin Steinbruch.",
+			"score": 0.6981204723042571
+		},
+		{
+			"index": 430,
+			"stock_name": "Li Auto Inc.",
+			"ticker_symbol": "LI",
+			"sector": "Producer Manufacturing",
+			"industry": "Auto Parts: OEM",
+			"comment": "Li Auto Inc., also known as Li Xiang, is a Chinese electric vehicle manufacturer headquartered in Beijing, with manufacturing facilities in Changzhou.",
+			"score": 0.6842639998677793
+		},
+		{
+			"index": 513,
+			"stock_name": "NRG Energy",
+			"ticker_symbol": "NRG",
+			"sector": "Utilities",
+			"industry": "Electric Utilities",
+			"comment": "NRG Energy, Inc. is a large American energy company, headquartered in Houston, Texas. It was formerly the wholesale arm of Northern States Power Company (NSP), which became Xcel Energy, but became independent in 2000. NRG Energy is involved in energy generation and retail electricity. Their portfolio includes natural gas generation, coal generation, oil generation, nuclear generation, wind generation, utility scale generation, and distributed solar generation. NRG serves 2.9 million retail customers in Texas, Connecticut, Delaware, Illinois, Maryland, Massachusetts, New Jersey, New York, Pennsylvania, Ohio, and the District of Columbia.",
+			"score": 0.6816354763849028
+		},
+		{
+			"index": 171,
+			"stock_name": "Cleveland-Cliffs Inc.",
+			"ticker_symbol": "CLF",
+			"sector": "Non-Energy Minerals",
+			"industry": "Steel",
+			"comment": "Cleveland-Cliffs Inc., formerly Cliffs Natural Resources, is a Cleveland, Ohio-based company that specializes in the mining, beneficiation, and pelletizing of iron ore, as well as steelmaking, including stamping and tooling. It is the largest flat-rolled steel producer in North America.",
+			"score": 0.6773558574028453
+		},
+		{
+			"index": 645,
+			"stock_name": "Steel Dynamics",
+			"ticker_symbol": "STLD",
+			"sector": "Non-Energy Minerals",
+			"industry": "Steel",
+			"comment": "Steel Dynamics, Inc., sometimes abbreviated as \"SDI\", is an American steel producer based in Fort Wayne, Indiana. With a production capacity of 13 million tons of steel, the company is the 3rd largest producer of carbon steel products in the United States. It is among the most profitable American steel companies in terms of profit margins and operating margin per ton. The company is ranked 299th on the Fortune 500.",
+			"score": 0.6697767538211228
+		},
+		{
+			"index": 483,
+			"stock_name": "National Oilwell Varco",
+			"ticker_symbol": "NOV",
+			"sector": "Industrial Services",
+			"industry": "Oilfield Services/Equipment",
+			"comment": "NOV Inc. is an American multinational corporation based in Houston, Texas. It is a leading worldwide provider of equipment and components used in oil and gas drilling and production operations, oilfield services, and supply chain integration services to the upstream oil and gas industry. The company conducts operations in more than 600 locations across six continents, operating through three reporting segments: Rig Technologies, Wellbore Technologies, and Completion & Production Solutions.",
+			"score": 0.6681547845133877
+		},
+		{
+			"index": 706,
+			"stock_name": "Union Pacific",
+			"ticker_symbol": "UNP",
+			"sector": "Transportation",
+			"industry": "Railroads",
+			"comment": "The Union Pacific Corporation (Union Pacific) is a publicly traded railroad holding company. It was incorporated in Utah in 1969 and is headquartered in Omaha, Nebraska. It is the parent company of the current, Delaware-registered, form of the Union Pacific Railroad.",
+			"score": 0.6640053806567718
+		},
+		{
+			"index": 716,
+			"stock_name": "Vale",
+			"ticker_symbol": "VALE",
+			"sector": "Non-Energy Minerals",
+			"industry": "Steel",
+			"comment": "Vale S.A. (Portuguese pronunciation: [ˈvali]) is a Brazilian multinational corporation engaged in metals and mining and one of the largest logistics operators in Brazil. Vale, formerly Companhia Vale do Rio Doce (the Sweet River Valley Company, referring to the Doce River), is the largest producer of iron ore and nickel in the world. Vale also produces manganese, ferroalloys, copper, bauxite, potash, kaolin, and cobalt, currently operating nine hydroelectricity plants, and a large network of railroads, ships, and ports used to transport its products.",
+			"score": 0.6635333274900851
+		},
+		{
+			"index": 289,
+			"stock_name": "First Solar",
+			"ticker_symbol": "FSLR",
+			"sector": "Electronic Technology",
+			"industry": "Electronic Components",
+			"comment": "First Solar, Inc. is an American manufacturer of solar panels, and a provider of utility-scale PV power plants and supporting services that include finance, construction, maintenance and end-of-life panel recycling. First Solar uses rigid thin-film modules for its solar panels, and produces CdTe panels using cadmium telluride (CdTe) as a semiconductor. In 2009, First Solar became the first solar panel manufacturing company to lower its manufacturing cost to $1 per watt.",
+			"score": 0.6626256395586506
+		}
+	]
+}

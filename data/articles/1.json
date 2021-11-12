@@ -1,0 +1,113 @@
+{
+	"doc_id": 1,
+	"title": "Ford to build $11.4 billion mega campuses for electric car production",
+	"company": "Ford",
+	"url": "https://finance.yahoo.com/news/ford-to-build-two-114-billion-mega-campuses-for-electric-car-production-230016248.html",
+	"ticker_top": [
+		"F"
+	],
+	"contents": [
+		"<h3>Ford to build $11.4 billion mega campuses for electric car production</h3>",
+		"<p>Saying Ford is driving head on into a future of electric vehicles may be an understatement. Think more along the line of hauling a-–.</p>",
+		"<p>The Detroit-based auto giant said Monday it will partner with SK Innovation to invest $11.4 billion to construct two \"mega-sites\" — one in Tennessee and the other in Kentucky — that will build electric trucks and batteries. Ford's portion of the investment — $7 billion — is the largest manufacturing investment in the company's 118-year-old history.</p>",
+		"<p>“This is a transformative moment where Ford will lead America’s transition to electric vehicles and usher in a new era of clean, carbon-neutral manufacturing,” said Ford executive chairman Bill Ford, a long-time proponent of the push to electric vehicles. “With this investment and a spirit of innovation, we can achieve goals once thought mutually exclusive – protect our planet, build great electric vehicles Americans will love and contribute to our nation’s prosperity.”</p>",
+		"<p>Stanton, Tennessee will see the construction of Blue Oval City, which Ford says will aid in building an \"expanded\" electric-truck lineup. Currently, Ford has released the all-electric SUV called the Mach-E and soon will begin producing the all-electric F-150 Lightning. The 3,600-acre campus will cover nearly 6 square miles, at a total of $5.6 billion. It's expected to created 6,000 jobs.</p>",
+		"<p>Ford did not provide an opening date for the site.</p>",
+		"<p>No less impressive is the other mega campus slated to open in Glendale, Kentucky. Dubbed BlueOvalSK Battery Park, it will be a dedicated battery manufacturing complex for Ford's expanding roster of electric vehicles. The 1,500-acre site will cost $5.8 billion to build and create 5,000 jobs. The location is targeted to open in 2025.</p>",
+		"<p>“This is our moment — our biggest investment ever — to help build a better future for America,” said Ford CEO Jim Farley. “We are moving now to deliver breakthrough electric vehicles for the many rather than the few. It’s about creating good jobs that support American families, an ultra-efficient, carbon-neutral manufacturing system, and a growing business that delivers value for communities, dealers and shareholders.”</p>",
+		"<p>The campuses are part of Ford's $30 billion investment in electric vehicles through 2025. Ford expects 40% to 50% of its global vehicle volume to be fully electric by 2030.</p>"
+	],
+	"summary": "Ford to build $11.4 billion mega campuses for electric car production. Saying Ford is driving head on into a future of electric vehicles may be an understatement. Think more along the line of hauling a-–. Stanton, Tennessee will see the construction of Blue Oval City, which Ford says will aid in building an \"expanded\" electric-truck lineup. Currently, Ford has released the all-electric SUV called the Mach-E and soon will begin producing the all-electric F-150 Lightning. The 3,600-acre campus will cover nearly 6 square miles, at a total of $5.6 billion. It's expected to created 6,000 jobs.",
+	"stock_matches": [
+		{
+			"index": 430,
+			"stock_name": "Li Auto Inc.",
+			"ticker_symbol": "LI",
+			"sector": "Producer Manufacturing",
+			"industry": "Auto Parts: OEM",
+			"comment": "Li Auto Inc., also known as Li Xiang, is a Chinese electric vehicle manufacturer headquartered in Beijing, with manufacturing facilities in Changzhou.",
+			"score": 0.7154139739218546
+		},
+		{
+			"index": 566,
+			"stock_name": "Proterra",
+			"ticker_symbol": "PTRA",
+			"sector": "Finance",
+			"industry": "Financial Conglomerates",
+			"comment": "Proterra is an American automotive and energy storage company based in Burlingame, California. The company designs and manufactures electric transit buses and electric charging systems. Proterra's Catalyst series includes transit buses ranging from 35 feet (11 m) to 40 feet (12 m) in length and various battery configurations. Buses are charged through an overhead charging station that is placed at maintenance facilities as well as route terminals. Founded in 2004, it became a public company in June 2021 through a business transaction with a Nasdaq-listed special-purpose acquisition company.",
+			"score": 0.7129941805178528
+		},
+		{
+			"index": 140,
+			"stock_name": "Carvana Co.",
+			"ticker_symbol": "CVNA",
+			"sector": "Retail Trade",
+			"industry": "Specialty Stores",
+			"comment": "Carvana, based in Tempe, Arizona, is a leading e-commerce company that sells used cars through an easy-to-use technology platform. The Houston Chronicle dubbed the company the “Amazon of Auto”. The company is the fastest growing online used car dealer in the United States and is known for its multi-story car vending machines. Carvana is currently in hypergrowth mode and was recently added to the 2021 Fortune 500 List, one of the youngest companies to be added to the list.",
+			"score": 0.7125811319426255
+		},
+		{
+			"index": 513,
+			"stock_name": "NRG Energy",
+			"ticker_symbol": "NRG",
+			"sector": "Utilities",
+			"industry": "Electric Utilities",
+			"comment": "NRG Energy, Inc. is a large American energy company, headquartered in Houston, Texas. It was formerly the wholesale arm of Northern States Power Company (NSP), which became Xcel Energy, but became independent in 2000. NRG Energy is involved in energy generation and retail electricity. Their portfolio includes natural gas generation, coal generation, oil generation, nuclear generation, wind generation, utility scale generation, and distributed solar generation. NRG serves 2.9 million retail customers in Texas, Connecticut, Delaware, Illinois, Maryland, Massachusetts, New Jersey, New York, Pennsylvania, Ohio, and the District of Columbia.",
+			"score": 0.6716789473575936
+		},
+		{
+			"index": 631,
+			"stock_name": "Southern Company",
+			"ticker_symbol": "SO",
+			"sector": "Utilities",
+			"industry": "Electric Utilities",
+			"comment": "Southern Company is an American gas and electric utility holding company based in the southern United States. It is headquartered in Atlanta, Georgia, with executive offices also located in Birmingham, Alabama. The company is currently the second largest utility company in the U.S. in terms of customer base. Through its subsidiaries it serves 9 million gas and electric utility customers in 6 states. Southern Company's regulated regional electric utilities serve a 120,000-square-mile (310,000 km2) territory with 27,000 miles (43,000 km) of distribution lines.",
+			"score": 0.6642553020634479
+		},
+		{
+			"index": 242,
+			"stock_name": "DTE Energy Co",
+			"ticker_symbol": "DTE",
+			"sector": "Utilities",
+			"industry": "Electric Utilities",
+			"comment": "DTE Energy (formerly Detroit Edison until 1996) is a Detroit-based diversified energy company involved in the development and management of energy-related businesses and services in the United States and Canada. Its operating units include an electric utility serving 2.2 million customers and a natural gas utility serving 1.3 million customers in Michigan. The DTE Energy portfolio includes non-utility energy businesses focused on power and industrial projects, energy marketing and trading.",
+			"score": 0.6585570888917486
+		},
+		{
+			"index": 67,
+			"stock_name": "Arrival Group",
+			"ticker_symbol": "ARVL",
+			"sector": "Consumer Durables",
+			"industry": "Motor Vehicles",
+			"comment": "Arrival Ltd is a British-American electric vehicle manufacturer headquartered in London, UK, of primarily lightweight commercial vehicles. In June 2020, Arrival announced a new passenger bus designed for coronavirus-era social distancing. R&D takes place at their facility in Banbury, Oxfordshire. In March 2020, Arrival acquired a new factory in Bicester with plans to be operational by 2021 and start production in 2022. In December 2020, Arrival established its North American headquarters in Charlotte, NC, USA.",
+			"score": 0.656336895813964
+		},
+		{
+			"index": 298,
+			"stock_name": "Ford",
+			"ticker_symbol": "F",
+			"sector": "Consumer Durables",
+			"industry": "Motor Vehicles",
+			"comment": "Ford Motor Company (commonly known as Ford) is an American multinational automobile manufacturer headquartered in Dearborn, Michigan, United States. It was founded by Henry Ford and incorporated on June 16, 1903. The company sells automobiles and commercial vehicles under the Ford brand, and luxury cars under its Lincoln luxury brand. Ford also owns Brazilian SUV manufacturer Troller, an 8% stake in Aston Martin of the United Kingdom and a 32% stake in Jiangling Motors. It also has joint-ventures in China (Changan Ford), Taiwan (Ford Lio Ho), Thailand (AutoAlliance Thailand), Turkey (Ford Otosan), and Russia (Ford Sollers). The company is listed on the New York Stock Exchange and is controlled by the Ford family; they have minority ownership but the majority of the voting power.",
+			"score": 0.6538809163853827
+		},
+		{
+			"index": 197,
+			"stock_name": "Corning",
+			"ticker_symbol": "GLW",
+			"sector": "Electronic Technology",
+			"industry": "Electronic Components",
+			"comment": "Corning Incorporated is an American multinational technology company that specializes in specialty glass, ceramics, and related materials and technologies including advanced optics, primarily for industrial and scientific applications. The company was named Corning Glass Works until 1989. Corning divested its consumer product lines (including CorningWare and Visions Pyroceram-based cookware, Corelle Vitrelle tableware, and Pyrex glass bakeware) in 1998 by selling the Corning Consumer Products Company subsidiary (now known as Corelle Brands) to Borden, but still holds an interest of about 8 percent.",
+			"score": 0.6529045627879657
+		},
+		{
+			"index": 39,
+			"stock_name": "American Electric Power",
+			"ticker_symbol": "AEP",
+			"sector": "Utilities",
+			"industry": "Electric Utilities",
+			"comment": "American Electric Power (AEP), (railcar reporting mark: AEPX) is a major investor-owned electric utility in the United States, delivering electricity to more than five million customers in 11 states. AEP ranks among the nation's largest generators of electricity, owning nearly 38,000 megawatts of generating capacity in the U.S. AEP also owns the nation's largest electricity transmission system, a nearly 39,000-mile (63,000 km) network that includes 765 kilovolt ultra-high voltage transmission lines, more than all other U.S. transmission systems combined. AEP's transmission system directly or indirectly serves about 10 percent of the electricity demand in the Eastern Interconnection, the interconnected transmission system that covers 38 eastern and central U.S. states and eastern Canada, an",
+			"score": 0.6526923038760709
+		}
+	]
+}

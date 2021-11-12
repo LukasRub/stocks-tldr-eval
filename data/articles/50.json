@@ -1,0 +1,121 @@
+{
+	"doc_id": 50,
+	"title": "Uber drivers to stage 24-hour strike",
+	"company": "Uber",
+	"url": "https://uk.finance.yahoo.com/news/uber-drivers-stage-24-hour-110718418.html",
+	"ticker_top": [
+		"UBER"
+	],
+	"contents": [
+		"<h1>Uber drivers to stage 24-hour strike</h1>",
+		"<p>Drivers at ride hailing giant Uber are staging a strike on Tuesday over issues including pay and claims that workers are being unfairly dismissed.</p>",
+		"<p>Members of the App Drivers and Couriers Union (ADCU) will hold protests in London, Bristol, Birmingham, Nottingham, Sheffield, Manchester, Leeds and Glasgow, and are urging people not to use the service during the 24-hour walkout.</p>",
+		"<p>The union has accused the company of failing to implement a court ruling to pay waiting time, which it says makes up around 40% of an Uber driver’s working time, and claims that large numbers of drivers are being unfairly sacked.</p>",
+		"<p>Uber insisted it is working with unions to raise standards for drivers.</p>",
+		"<p>The union is also in dispute over the introduction of fixed price fares which it claims has led to reduced driver incomes.</p>",
+		"<p>Yaseen Aslam, ADCU president said: “It is shameful that Uber continues to defy the highest court in the land to cheat 70,000 workers out of pay for 40% of their true working time.</p>",
+		"<p>“The drivers know they deserve and are legally entitled to much more than Uber is offering.</p>",
+		"<p>“This strike is just the beginning and there will be much more unrest until Uber does the right thing and pays drivers all that they are owed, both pension contributions and working time.”</p>",
+		"<p>General secretary James Farrar added: “Uber has continued to intensify its use of junk surveillance tech and algorithmic management control to maximise profits.</p>",
+		"<p>“The results have been catastrophic, with hundreds of people unfairly dismissed and accused of unspecified ‘fraudulent activity’.</p>",
+		"<p>“Instead of trying to gag unions from exposing the flaws in their tech, Uber should instead guarantee all drivers protection from unfair dismissal and the right to access a proper, human-led appeals process.”</p>",
+		"<p>An Uber spokesperson said: “Following the historic trade union recognition deal with GMB, drivers have an even stronger voice within Uber.</p>",
+		"<p>“We are working together with our trade union partner to raise standards for drivers through greater transparency and engagement.</p>",
+		"<p>“GMB represents drivers in areas such as earnings, deactivations and the implementation of new worker benefits, such as holiday pay and pensions.”</p>",
+		"<p>Uber formally recognised the GMB earlier this year, saying the union could represent up to 70,000 Uber drivers across the UK.</p>",
+		"<p>Uber announced in March that 70,000 drivers will be treated as workers, earning at least the National Living Wage, with paid-for holiday time. Those eligible will be automatically enrolled into a pension plan.</p>"
+	],
+	"summary": "Uber drivers to stage 24-hour strike. Drivers at ride hailing giant Uber are staging a strike on Tuesday over issues including pay and claims that workers are being unfairly dismissed. Members of the App Drivers and Couriers Union (ADCU) will hold protests in London, Bristol, Birmingham, Nottingham, Sheffield, Manchester, Leeds and Glasgow, and are urging people not to use the service during the 24-hour walkout.",
+	"stock_matches": [
+		{
+			"index": 699,
+			"stock_name": "Uber",
+			"ticker_symbol": "UBER",
+			"sector": "Technology Services",
+			"industry": "Packaged Software",
+			"comment": "Uber Technologies, Inc., commonly known as Uber, is an American technology company. Its services include ride-hailing, food delivery (Uber Eats), package delivery, couriers, freight transportation, and, through a partnership with Lime, electric bicycle and motorized scooter rental. The company is based in San Francisco and has operations in over 900 metropolitan areas worldwide. It is one of the largest firms in the gig economy.",
+			"score": 0.6827746246667848
+		},
+		{
+			"index": 440,
+			"stock_name": "Lyft",
+			"ticker_symbol": "LYFT",
+			"sector": "Technology Services",
+			"industry": "Packaged Software",
+			"comment": "Lyft, Inc. develops, markets, and operates a mobile app, offering vehicles for hire, motorized scooters, a bicycle-sharing system, and food delivery. The company is based in San Francisco, California and operates in 644 cities in the United States and 12 cities in Canada. With a 30% market share, Lyft is the second-largest ridesharing company in the United States after Uber.",
+			"score": 0.6723957735038899
+		},
+		{
+			"index": 238,
+			"stock_name": "DoorDash Inc",
+			"ticker_symbol": "DASH",
+			"sector": "Technology Services",
+			"industry": "Internet Software/Services",
+			"comment": "DoorDash, Inc. operates an online food ordering and food delivery platform. It is based in San Francisco, California, United States. With a 56% market share, it is the largest food delivery company in the United States. It also has a 60% market share in the convenience delivery category. As of December 31, 2020, the platform served 450,000 merchants, 20,000,000 consumers, and 1 million deliverers.",
+			"score": 0.6663971650693943
+		},
+		{
+			"index": 396,
+			"stock_name": "JD.com",
+			"ticker_symbol": "JD",
+			"sector": "Retail Trade",
+			"industry": "Internet Retail",
+			"comment": "JD.com, Inc. (Chinese: 京东; pinyin: Jīngdōng), also known as Jingdong and formerly called 360buy, is a Chinese e-commerce company headquartered in Beijing. It is one of the two massive B2C online retailers in China by transaction volume and revenue, a member of the Fortune Global 500 and a major competitor to Alibaba-run Tmall.",
+			"score": 0.6619269171350561
+		},
+		{
+			"index": 226,
+			"stock_name": "DiDi Global Inc.",
+			"ticker_symbol": "DIDI",
+			"sector": "Technology Services",
+			"industry": "Packaged Software",
+			"comment": "Didi Chuxing Technology Co., (stylized DiDi, Chinese: 滴滴出行; pinyin: Dīdī Chūxíng, pronounced [tɨ́tɨ́ ʈʂʰúɕɪ̌ŋ]), formerly named Didi Dache (嘀嘀打车) and Didi Kuaidi (Chinese: 滴滴快的), is a Chinese vehicle for hire company headquartered in Beijing with over 550 million users and tens of millions of drivers. The company provides app-based transportation services, including taxi hailing, private car hailing, social ride-sharing, and bike sharing; on-demand delivery services; and automobile services, including sales, leasing, financing, maintenance, fleet operation, electric vehicle charging, and co-development of vehicles with automakers. The company is a subsidiary of Xiaoju Kuaizhi Inc.",
+			"score": 0.6514179953078151
+		},
+		{
+			"index": 520,
+			"stock_name": "Oatly",
+			"ticker_symbol": "OTLY",
+			"sector": "Consumer Non-Durables",
+			"industry": "Food: Major Diversified",
+			"comment": "Oatly Group AB is a Swedish food company that produces alternatives to dairy products from oats. Oatly was formed in the 1990s using research from Lund University. Oatly has headquarters in Malmö and a production and development center in Landskrona. Oatly's key markets are Sweden, Germany and the U.K., and its products were available in 60,000 retail stores and 32,200 coffee shops around the world as of 31 December 2020. Oatly can also be found in 11,000 coffee and tea shops in China, and at more than 6,000 retail and specialty shops across the country, including thousands of Starbucks locations.",
+			"score": 0.6494409030493256
+		},
+		{
+			"index": 667,
+			"stock_name": "Tata Motors",
+			"ticker_symbol": "TTM",
+			"sector": "Consumer Durables",
+			"industry": "Motor Vehicles",
+			"comment": "Tata Motors Limited is an Indian multinational automotive manufacturing company, headquartered in Mumbai, Maharashtra which is part of Tata Group. The company produces passenger cars, trucks, vans, coaches, buses, sports cars, construction equipment and military vehicles. On 17 January 2017, Natarajan Chandrasekaran was appointed chairman of the company Tata Group. Tata Motors increased its UV market share to over 8% in FY2019.",
+			"score": 0.6477699677406912
+		},
+		{
+			"index": 402,
+			"stock_name": "Jumia",
+			"ticker_symbol": "JMIA",
+			"sector": "Technology Services",
+			"industry": "Internet Software/Services",
+			"comment": "Jumia is an online marketplace for electronics, and fashion among others targeting several African countries. The company is also a logistics service, which enables the shipment and delivery of packages from sellers to consumers, and a payment service, which facilitates transactions among participants active and Jumia's platform in selected markets. It has partnered with more than 110,000 active sellers and individuals and is a direct competitor to Konga in Nigeria.",
+			"score": 0.6417003267196112
+		},
+		{
+			"index": 512,
+			"stock_name": "Novo Nordisk",
+			"ticker_symbol": "NVO",
+			"sector": "Health Technology",
+			"industry": "Pharmaceuticals: Major",
+			"comment": "Novo Nordisk A/S is a Danish multinational pharmaceutical company headquartered in Bagsværd, Denmark, with production facilities in eight countries, and affiliates or offices in 5 countries. Novo Nordisk is controlled by majority shareholder Novo Holdings A/S which holds approximately 25% of its shares and a supermajority (45%) of its voting shares. Novo Nordisk is a full member of the European Federation of Pharmaceutical Industries and Associations (EFPIA).",
+			"score": 0.6393758705618445
+		},
+		{
+			"index": 621,
+			"stock_name": "Slack",
+			"ticker_symbol": "WORK",
+			"sector": "Technology Services",
+			"industry": "Packaged Software",
+			"comment": "Slack Technologies, Inc. is an American international software company founded in 2009 in Vancouver, British Columbia. Its core team is largely drawn from the founders of Ludicorp, the company that created Flickr. Outside its headquarters in San Francisco, California, Slack operates offices in Dublin, Vancouver, New York City, Toronto, Denver, London, Tokyo, Pune, Paris, and Melbourne.",
+			"score": 0.6380013104160276
+		}
+	]
+}

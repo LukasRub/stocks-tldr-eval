@@ -1,0 +1,65 @@
+#left-column, 
+#right-column {
+    min-width: 460px;
+}
+
+.summary {
+    overflow-y: auto;
+    max-height: 200px;
+}
+
+.comment {
+    max-height: 150px;
+}
+
+.h-60 {
+    height: 60%;
+}
+
+.h-30 {
+    height: 30%;
+}
+
+.h-20 {
+    height: 20%;
+}
+
+.h-10 {
+    min-height: 10%;
+}
+
+#article-container {
+    overflow-y: auto;
+}
+
+#stock-matches {
+    overflow-y: auto;
+}
+
+#stock-matches thead th {
+    z-index: 1;
+    position: sticky; 
+    top: 0;
+    background: #fff;
+}
+
+#stock-matches tbody tr {
+    overflow: hidden;
+}
+
+#likert-scale label, 
+#likert-scale input,
+#likert-scale button {
+    min-width: 110px;   
+}
+
+#article-metadata {
+    width: 100%;
+    overflow-y: auto;
+}
+
+.vertical-align-middle {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}

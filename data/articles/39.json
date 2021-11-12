@@ -1,0 +1,119 @@
+{
+	"doc_id": 39,
+	"title": "Alibaba stock tumbles after report says Beijing wants to break up Alipay",
+	"company": "Alibaba",
+	"url": "https://edition.cnn.com/2021/09/13/investing/china-alipay-alibaba-stock-intl-hnk/index.html",
+	"ticker_top": [
+		"BABA"
+	],
+	"contents": [
+		"<h1>Alibaba stock tumbles after report says Beijing wants to break up Alipay</h1>",
+		"<p>Hong Kong (CNN Business) — Shares in Alibaba slumped again on Monday after the Financial Times reported that Beijing is planning to break up Alipay, the hugely popular payment app owned by its financial affiliate, Ant Group.</p>",
+		"<p>But that wasn't the only piece of news that led to the stock's decline. Investors are also concerned that Beijing is intensifying its ongoing crackdown on big tech, after regulators ordered internet firms — including Alibaba and Tencent — to stop blocking rivals' links on their platforms.</p>",
+		"<p>Alibaba (BABA) fell as much as 7% in Hong Kong, before trimming losses to 4.2% at the close. The stock has shed 46% since early November 2020, when Chinese regulators halted Ant Group's giant IPO at the last minute, erasing about $380 billion off Alibaba's market value. Ant Group was spun off from Jack Ma's Alibaba in 2011. Alibaba still owns a third of the fintech company.</p>",
+		"<p>Since yanking its IPO, regulators have already ordered Ant to restructure as a financial holding company, and now its superapp —Alipay —may be next in line. According to the Financial Times, China wants to break up Alipay and create a separate app for its loans business.</p>",
+		"<p>\"Chinese regulators have already ordered Ant to separate the back end of its two lending businesses, Huabei, which is similar to a traditional credit card, and Jiebei, which makes small unsecured loans, from the rest of its financial offerings and bring in outside shareholders,\" the paper said.</p>",
+		"<p>\"Now officials want the two businesses to be split into an independent app as well,\" it added, citing unnamed sources.</p>",
+		"<p>The regulators also want Ant to turn over the user data that underpins its lending decisions to a new credit scoring joint venture that will be partly state-owned, the report said.</p>",
+		"<p>Ant and the People's Bank of China didn't immediately reply to a request for comment.</p>",
+		"<p>Alipay, the digital payments app, boasts of more than 700 million active users every month. But while it has grown unchecked over the past decade, authorities are becoming increasingly mindful of how much influence the tech industry has on the country's economy. Ant, for example, controls more than half of the mobile payments market in China.</p>",
+		"<h4>No more blocking</h4>",
+		"<p>On Monday, China's Ministry of Industry and Information Technology ordered the country's internet firms to end a long-standing practice of blocking rivals' links on their platforms. The ministry said it will punish those who did not correct their actions within an unspecified deadline. It didn't specify the punishments.</p>",
+		"<p>The comments made at a press conference came after a state-owned newspaper reported on Saturday that the ministry met with a handful of internet companies late last week to discuss the issue.</p>",
+		"<p>Apart from Alibaba, other Chinese tech stocks also dropped sharply, following the comments by the ministry. Meituan lost 4.5%, and Tencent (TCEHY) fell 2.4%.</p>",
+		"<p>— CNN's Beijing bureau contributed to this article.</p>"
+	],
+	"summary": "Alibaba stock tumbles after report says Beijing wants to break up Alipay. But that wasn't the only piece of news that led to the stock's decline. Investors are also concerned that Beijing is intensifying its ongoing crackdown on big tech, after regulators ordered internet firms — including Alibaba and Tencent — to stop blocking rivals' links on their platforms. Alibaba (BABA) fell as much as 7% in Hong Kong, before trimming losses to 4.2% at the close. The stock has shed 46% since early November 2020, when Chinese regulators halted Ant Group's giant IPO at the last minute, erasing about $380 billion off Alibaba's market value. Ant Group was spun off from Jack Ma's Alibaba in 2011. Alibaba still owns a third of the fintech company.",
+	"stock_matches": [
+		{
+			"index": 161,
+			"stock_name": "China Mobile",
+			"ticker_symbol": "CHL",
+			"sector": "Communications",
+			"industry": "Telecommunications Equipment",
+			"comment": "China Mobile is the trade name of both China Mobile Limited (Chinese: 中国移动有限公司; pinyin: Zhōngguó Yídòng Yǒu Xiàn Gōngsī) and its ultimate controlling shareholder, China Mobile Communications Group Co., Ltd. (Chinese: 中国移动通信集团有限公司; pinyin: Zhōngguó Yídòng Tōngxìn Jítuán Gōngsī, formerly known as China Mobile Communications Corporation, \"CMCC\"), a Chinese state-owned company. China Mobile Limited provides mobile voice and multimedia services through its nationwide mobile telecommunications network across mainland China and Hong Kong.",
+			"score": 0.720578524586483
+		},
+		{
+			"index": 769,
+			"stock_name": "YY",
+			"ticker_symbol": "YY",
+			"sector": "Technology Services",
+			"industry": "Internet Software/Services",
+			"comment": "YY is a major Chinese video-based social network, a subsidiary of . It has over 300 million users. It features a virtual currency which users earn through activities such as karaoke or creating tutorial videos and which is later converted to real cash. Launched in 2005 as duowan.com (Nasdaq: YY), it originally targeted gamers, before broadening to include video streaming and chat features for uses such as concerts, fashion and sports. Users exchange \"virtual roses\" as a form of currency, with top users said to earn as much as $20,000 per month. In November 2012, YY was listed on the NASDAQ.",
+			"score": 0.701149166724488
+		},
+		{
+			"index": 23,
+			"stock_name": "Alibaba",
+			"ticker_symbol": "BABA",
+			"sector": "Retail Trade",
+			"industry": "Internet Retail",
+			"comment": "Alibaba Group Holding Limited, also known as Alibaba Group and Alibaba.com, is a Chinese multinational technology company specializing in e-commerce, retail, Internet, and technology. Founded on 28 June 1999 in Hangzhou, Zhejiang, the company provides consumer-to-consumer (C2C), business-to-consumer (B2C), and business-to-business (B2B) sales services via web portals, as well as electronic payment services, shopping search engines and cloud computing services. It owns and operates a diverse portfolio of companies around the world in numerous business sectors.",
+			"score": 0.698346693238561
+		},
+		{
+			"index": 468,
+			"stock_name": "Mizuho Financial Group",
+			"ticker_symbol": "MFG",
+			"sector": "Finance",
+			"industry": "Major Banks",
+			"comment": "Mizuho Financial Group, Inc. (株式会社みずほフィナンシャルグループ, Kabushiki-gaisha Mizuho Finansharu Gurūpu), abbreviated as MHFG, or simply called Mizuho, is a banking holding company headquartered in the Ōtemachi district of Chiyoda, Tokyo, Japan. The name \"mizuho (瑞穂)\" literally means \"abundant rice\" in Japanese and \"harvest\" in the figurative sense. Upon its founding, it was the largest bank in the world by assets. It is considered a systemically important bank by the Financial Stability Board.",
+			"score": 0.6968612792351147
+		},
+		{
+			"index": 628,
+			"stock_name": "Sogou",
+			"ticker_symbol": "SOGO",
+			"sector": "Technology Services",
+			"industry": "Internet Software/Services",
+			"comment": "Sogou, Inc. (Chinese: 搜狗; pinyin: Sōugǒu; lit. 'Search-dog') is a Chinese technology company that offers a search engine. It is a subsidiary of Sohu, Inc. The offices of Sogou are located on the southeast corner of Tsinghua University in Beijing. Sogou also has offices in Chengdu co-located with Tencent's office building. In April 2018, Sogou established a R&D center in Guangzhou.",
+			"score": 0.6945031071824269
+		},
+		{
+			"index": 469,
+			"stock_name": "Mobile TeleSystems PJSC",
+			"ticker_symbol": "MBT",
+			"sector": "Communications",
+			"industry": "Wireless Telecommunications",
+			"comment": "MTS (Russian: Мобильные ТелеСистемы, МТС, \"Mobile TeleSystems\"), headquartered in Moscow, is the largest mobile network operator in Russia, operating on GSM, UMTS and LTE standards. Apart from cellular network, the company also offers local telephone service, broadband, mobile television, cable television, satellite television and digital television. As of Q1 2021, the company serves over 84.9 million subscribers in Russia, Armenia and Belarus.",
+			"score": 0.691943002973612
+		},
+		{
+			"index": 471,
+			"stock_name": "Momo",
+			"ticker_symbol": "MOMO",
+			"sector": "Technology Services",
+			"industry": "Information Technology Services",
+			"comment": "Momo (Chinese: 陌陌; pinyin: mò mò) is a free social search and instant messaging mobile app. The app allows users to chat with nearby friends and strangers. Momo provides users with free instant messaging services through Wifi, 3G and 4G. The client software is available for Android, iOS, and Windows Phone. Momo officially began operations in July 2011, and a month later, launched the first version of the app for iOS. Momo filed for a NASDAQ IPO on November 7, 2014 and was listed in December 2014.",
+			"score": 0.6828205117979598
+		},
+		{
+			"index": 480,
+			"stock_name": "MUFJ Financial Group",
+			"ticker_symbol": "MUFG",
+			"sector": "Finance",
+			"industry": "Major Banks",
+			"comment": "Mitsubishi UFJ Financial Group, Inc. (MUFG; 株式会社三菱UFJフィナンシャル・グループ, Kabushiki gaisha Mitsubishi Yūefujei Finansharu Gurūpu) is a Japanese bank holding and financial services company headquartered in Chiyoda, Tokyo, Japan.",
+			"score": 0.6810848517489662
+		},
+		{
+			"index": 492,
+			"stock_name": "New Oriental Education & Tech Group",
+			"ticker_symbol": "EDU",
+			"sector": "Consumer Services",
+			"industry": "Other Consumer Services",
+			"comment": "New Oriental Education & Technology Group Inc. (Chinese: 新东方教育科技集团, NYSE: EDU), more commonly New Oriental (Chinese: 新东方), is a provider of private educational services in China. The headquarters of New Oriental is located in the Haidian district of Beijing. It is currently the largest comprehensive private educational company in China based on the number of program offerings, total student enrollments, and geographic presence. The business of New Oriental includes pre-school education, general courses for students of various age levels, online education, overseas study consulting, and textbook publishing. New Oriental was the first Chinese educational institution to enter the New York Stock Exchange in the United States, holding its IPO in 2006. As of 2016, New Oriental has built 67 short",
+			"score": 0.6760182625549938
+		},
+		{
+			"index": 503,
+			"stock_name": "Nomura",
+			"ticker_symbol": "NMR",
+			"sector": "Finance",
+			"industry": "Investment Banks/Brokers",
+			"comment": "Nomura Holdings, Inc. (野村ホールディングス株式会社, Nomura hōrudingusu kabushiki gaisha) is a Japanese financial holding company and a principal member of the Nomura Group. It, along with its broker-dealer, banking and other financial services subsidiaries, provides investment, financing and related services to individual, institutional, and government customers on a global basis with an emphasis on securities businesses.",
+			"score": 0.6752178490088405
+		}
+	]
+}

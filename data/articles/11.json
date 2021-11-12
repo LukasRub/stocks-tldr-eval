@@ -1,0 +1,117 @@
+{
+	"doc_id": 11,
+	"title": "AMD CEO Sees Chip Shortage Easing in 2022",
+	"company": "Advanced Micro Devices",
+	"url": "https://www.barrons.com/articles/amd-ceo-chip-shortage-51632784863",
+	"ticker_top": [
+		"AMD"
+	],
+	"contents": [
+		"<h3>New Benchmark Leak Reveals Impressive Performance Of Intel's 12900K, 12700K And 12600K Alder Lake Processors</h3>",
+		"<p>Benchmarks have leaked supposedly revealing the performance of Intel's Core i9-12900K, Core i7-12700K and Core i5-12600K Alder Lake CPUs, courtesy of www.cpu-monkey.com.</p>",
+		"<p>The new results show both single-threaded and multi-threaded scores in Cinebench R20 and give Intel a clear lead over all of AMD's current mainstream desktop CPUs.</p>",
+		"<p>Below you can see my own recent benchmark results from my reviews of Intel's 111th Gen CPUs such as the Core i9-11900K in Cinebench R20 along with the leaked results for the Core i5-12600K, Core i7-12700K and Core i9-12900K Alder Lake CPUs.</p>",
+		"<p>[Figure detailing a few of Intel CPUs specifications]</p>",
+		"<p>[Figure detailing Intel CPUs and competing CPUs performances on Cinebench R20 Single-threaded benchmark]</p>",
+		"<p>The Core i9-12900K's result of 817 in the single-threaded testis miles ahead of AMD's Ryzen 9 5950X - it's best result, and the latter is even bettered by the Core i5-12600K, which scored 750. Admittedly, single-threaded performance isn't an indicator of general performance, but we can see just how much faster the new CPUs are compared to both AMD and Intel's current models on a single-threaded basis.</p>",
+		"<p>[Figure detailing Intel CPUs and competing CPUs performances on Cinebench R20 Multi-threaded benchmark]</p>",
+		"<p>The multi-threaded test showed that only an overclocked 16-core Ryzen 9 5950X was able to beat the stock speed Intel Core i9-12900K, with the Intel CPU offering a sizable lead at stock speed. The Core i7-12700K was also snapping at the heels of the AMD 16-core CPU, despite a four-core deficit.</p>",
+		"<p>Speaking of cores, it's worth remembering that Intel will be using hybrid cores with its Alder Lake CPUs. Each CPU will comprise big or 'performance' cores as well as smaller 'efficient' cores.</p>",
+		"<p>The former are hyper-threaded, but the latter are not. For example, the Core i9-12900K will have two threads for each of its eight performance cores (16 threads) but only one thread for each of its efficient cores. This means that despite being a 16-core CPU like AMD's Ryzen 9 5950X, it only has 24 threads instead of 32.</p>",
+		"<p>However, as we can see above, if these benchmarks are to be believed, the thread deficit doesn't mean much as the CPU is gaining a lot of ground thanks to its new architecture as well as performance enhancements such as Thread Director, that will mean its Alder Lake CPUs will run faster on Windows 11.</p>",
+		"<p>I'll be reviewing the new CPUs when they're released so follow me here on Forbes for the latest PC hardware news and reviews and don't forget to check me out on YouTube, Instagram and Facebook as well.</p>"
+	],
+	"summary": "AMD CEO Sees Chip Shortage Easing in 2022. The semiconductor shortage will begin to ease in 2022, Advanced Micro Devices CEO Lisa Su said at a session Monday at the Code Conference in Beverly Hills. In an on-stage interview with Code Conference producer Kara Swisher and CNBC tech reporter Jon Fortt, the AMD (ticker: AMD) chief said that the semiconductor industry is investing aggressively in new capacity, with 20 new factories coming online this year and a similar number expected to come online in 2022.",
+	"stock_matches": [
+		{
+			"index": 11,
+			"stock_name": "Advanced Micro Devices",
+			"ticker_symbol": "AMD",
+			"sector": "Electronic Technology",
+			"industry": "Semiconductors",
+			"comment": "Advanced Micro Devices, Inc. (AMD) is an American multinational semiconductor company based in Santa Clara, California, that develops computer processors and related technologies for business and consumer markets. While it initially manufactured its own processors, the company later outsourced its manufacturing, a practice known as going fabless, after GlobalFoundries was spun off in 2009. AMD's main products include microprocessors, motherboard chipsets, embedded processors and graphics processors for servers, workstations, personal computers and embedded system applications.",
+			"score": 0.6930452300216631
+		},
+		{
+			"index": 430,
+			"stock_name": "Li Auto Inc.",
+			"ticker_symbol": "LI",
+			"sector": "Producer Manufacturing",
+			"industry": "Auto Parts: OEM",
+			"comment": "Li Auto Inc., also known as Li Xiang, is a Chinese electric vehicle manufacturer headquartered in Beijing, with manufacturing facilities in Changzhou.",
+			"score": 0.688008395976306
+		},
+		{
+			"index": 778,
+			"stock_name": "Zscaler",
+			"ticker_symbol": "ZS",
+			"sector": "Technology Services",
+			"industry": "Packaged Software",
+			"comment": "Zscaler (/ˈziːˌskeɪlər/) is an American cloud-based information security company headquartered in San Jose, California. As of August, 2020 the company has a market capitalization of over US$16 billion. The company has more than 150 data centers with customers in 185 countries. A majority of the customers are located in the United States, with most customers having greater than 10,000 employees.",
+			"score": 0.6761720914341022
+		},
+		{
+			"index": 769,
+			"stock_name": "YY",
+			"ticker_symbol": "YY",
+			"sector": "Technology Services",
+			"industry": "Internet Software/Services",
+			"comment": "YY is a major Chinese video-based social network, a subsidiary of . It has over 300 million users. It features a virtual currency which users earn through activities such as karaoke or creating tutorial videos and which is later converted to real cash. Launched in 2005 as duowan.com (Nasdaq: YY), it originally targeted gamers, before broadening to include video streaming and chat features for uses such as concerts, fashion and sports. Users exchange \"virtual roses\" as a form of currency, with top users said to earn as much as $20,000 per month. In November 2012, YY was listed on the NASDAQ.",
+			"score": 0.6752508961728062
+		},
+		{
+			"index": 610,
+			"stock_name": "Seagate Technology",
+			"ticker_symbol": "STX",
+			"sector": "Electronic Technology",
+			"industry": "Computer Peripherals",
+			"comment": "Seagate Technology Holdings plc, an Irish public limited company (commonly referred to as Seagate), is an American data storage company. It was incorporated in 1978 as Shugart Technology and commenced business in 1979. Since 2010, the company has been incorporated in Dublin, Ireland, with operational headquarters in Fremont, California, United States.",
+			"score": 0.6731742208722868
+		},
+		{
+			"index": 214,
+			"stock_name": "Daqo New Energy Corp",
+			"ticker_symbol": "DQ",
+			"sector": "Process Industries",
+			"industry": "Chemicals: Specialty",
+			"comment": "Daqo New Energy Corp. is a Chinese company engaged in the manufacture of monocrystalline silicon (mono-Si) and polysilicon (poly-Si), primarily for use in solar photovoltaic systems. The company operates a mono-Si and poly-Si manufacturing facility located in Shihezi, Xinjiang Province, China. Daqo formerly manufactured silicon wafers at a facility in Chongqing, China (discontinued in 2018) and photovoltaic modules at a facility in Nanjing, China (discontinued in 2012). The company is reportedly tied to the use of forced labor in Xinjiang.",
+			"score": 0.6718565333497368
+		},
+		{
+			"index": 762,
+			"stock_name": "Xilinx",
+			"ticker_symbol": "XLNX",
+			"sector": "Electronic Technology",
+			"industry": "Semiconductors",
+			"comment": "Xilinx, Inc. (/ˈzaɪlɪŋks/ ZY-links) is an American technology company that is primarily a supplier of programmable logic devices. The company invented the field-programmable gate array (FPGA). It is the semiconductor company that created the first fabless manufacturing model. Co-founded by Ross Freeman, Bernard Vonderschmitt, and James V Barnett II in 1984, the company went public on the NASDAQ in 1989. AMD announced its acquisition of Xilinx in October 2020.",
+			"score": 0.6649959034163119
+		},
+		{
+			"index": 660,
+			"stock_name": "Taiwan Semiconductor",
+			"ticker_symbol": "TSM",
+			"sector": "Electronic Technology",
+			"industry": "Semiconductors",
+			"comment": "Taiwan Semiconductor Manufacturing Company, Limited (TSMC; Chinese: 台灣積體電路製造股份有限公司; pinyin: Táiwān jī tǐ diànlù zhìzào gǔfèn yǒuxiàn gōngsī, also called Taiwan Semiconductor) is a Taiwanese multinational semiconductor contract manufacturing and design company. It is the world's most valuable semiconductor company, the world's largest dedicated independent (pure-play) semiconductor foundry, and one of Taiwan's largest companies, with its headquarters and main operations located in the Hsinchu Science Park in Hsinchu. It is majority owned by foreign investors.",
+			"score": 0.6618955500679314
+		},
+		{
+			"index": 620,
+			"stock_name": "Skyworks Solutions",
+			"ticker_symbol": "SWKS",
+			"sector": "Electronic Technology",
+			"industry": "Semiconductors",
+			"comment": "Skyworks Solutions, Inc. is an American semiconductor company headquartered in Irvine, California, United States. Skyworks manufactures semiconductors for use in Radio Frequency (RF) and mobile communications systems. Its products include power amplifiers, front-end modules and RF products for handsets and wireless infrastructure equipment. The company's portfolio includes amplifiers, attenuators, circulators, demodulators, detectors, diodes, directional couplers, front-end modules, hybrids, infrastructure RF subsystems, isolators, lighting and display products, mixers, modulators, optocouplers, opto-isolators, phase shifters, PLLs/synthesizers/VCOs, power dividers/combiners, power management devices, receivers, switches and technical ceramics.",
+			"score": 0.6578475314758854
+		},
+		{
+			"index": 346,
+			"stock_name": "Himax Technologies",
+			"ticker_symbol": "HIMX",
+			"sector": "Electronic Technology",
+			"industry": "Semiconductors",
+			"comment": "Himax Technologies, Inc. (Nasdaq: HIMX) is a leading supplier and fabless semiconductor manufacturer headquartered in Tainan City, Taiwan founded on 12 June 2001. The company is publicly traded and listed on the Nasdaq Stock Market under the symbol HIMX. The Himax Technologies Limited functions as a holding under the Cayman Islands Companies Law.",
+			"score": 0.6552785734237563
+		}
+	]
+}

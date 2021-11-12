@@ -1,0 +1,134 @@
+{
+	"doc_id": 15,
+	"title": "Can India’s proposed semiconductor deal with Taiwan be a gamechanger?",
+	"company": "Taiwan Semiconductor",
+	"url": "https://www.theweek.in/news/biz-tech/2021/09/28/can-india-proposed-semiconductor-deal-with-taiwan-gamechanger.html",
+	"ticker_top": [
+		"TSM"
+	],
+	"contents": [
+		"<h3>Why Chevron And Exxon Shun Solar And Wind</h3>",
+		"<p>The world's largest oil companies are under growing pressure from shareholders and society to reduce emissions and show efforts to fight the worst effects of climate change.</p>",
+		"<p>Everyone in the Big Oil club has announced various plans to cut emissions and invest in low-carbon energy over the past 18 months. Yet, there are stark differences in the ways the largest international oil companies are approaching the emissions problem.</p>",
+		"<p>Europe's top oil and gas firms have all committed to becoming net-zero energy businesses by 2050 or sooner. Most of them say their oil production has either peaked already or is about to peak by the middle of this decade. And all of them bet on investments in renewable electricity generation—along with hydrogen, carbon capture and storage, biofuels, and electric vehicle charging networks—to deserve being called 'energy companies' instead of oil companies.</p>",
+		"<p>Unlike their European peers, the two supermajors in the United States, ExxonMobil, and Chevron, are not touching solar and wind power. They are more focused on renewable fuels and carbon capture and storage (CCS), both to cut their own carbon footprint and to develop in partnership regional CCS hubs at heavily industrialized areas.</p>",
+		"<h6>European Oil Majors Bet On Renewables</h6>",
+		"<p>Together with the net-zero ambitions, all European oil and gas majors—BP, Shell, TotalEnergies, Equinor, Eni, and Repsol—vow increased investment in renewable power generation and low-carbon energy solutions such as hydrogen, CCS, and biofuels.</p>",
+		"<p>While hydrogen and CCS still need a lot of development, economies of scale, and major government support to become commercially viable solutions, investment in renewable electricity generation is immediately available for Big Oil.</p>",
+		"<p>If they want it, that is.</p>",
+		"<p>Europe's majors seem to want it, and almost weekly, they announce projects, investments, or joint ventures to bid in tenders.</p>",
+		"<p>Returns in renewables are not as high as in oil and gas, especially these days, with oil prices comfortably sitting at over $70 a barrel and gas prices surging to records for this time of the year.</p>",
+		"<p>However, European majors persevere and consider renewables as a key pillar of decarbonization of the global power sector and of reduction of their own emissions from operations.</p>",
+		"<p>For example, Equinor wants to be a big name in offshore wind, and Norway's major bid for offshore wind acreage in the major ScotWind leasing round earlier this year. So did BP and Shell.</p>",
+		"<p>BP's joint venture Lightsource bp, a solar power developer, announced just this week it would aim to develop 25 GW of solar power by 2025. Since its formation in 2010, Lightsource has developed 3.8 GW of solar projects globally.</p>",
+		"<p>\"Lightsource bp has developed more than 30 projects, which today have consistently delivered 8 to 10% returns. So when people ask if we really have the capability to deliver the returns we talk about, the answer couldn't be clearer – yes, we can because we are,\" said Dev Sanyal, BP's executive vice president of gas and low carbon.</p>",
+		"<h6>Exxon, Chevron Shun Solar And Wind</h6>",
+		"<p>Across the Atlantic, U.S. supermajors Exxon and Chevron are betting on renewable fuels and CCS, but they are steering clear of investments in solar and wind power generation.</p>",
+		"<p>Chevron doesn't have any plans to reduce its oil and gas business to invest in solar or wind power, chief financial officer Pierre Breber said earlier this year.</p>",
+		"<p>Shareholder returns are more important for Chevron than investing in wind and solar energy, chief executive Mike Wirth told CNBC in an interview last week.</p>",
+		"<p>\"These [wind and solar] are technologies that are relatively mature. There is plenty of capital that's available. The returns in wind and solar are actually being bid down, and we've concluded that management in our company can't create value for shareholders by going into wind and solar,\" Wirth told CNBC.</p>",
+		"<h6>Chevron Triples Planned Low-Carbon Energy Investment</h6>",
+		"<p>Days before the interview, Chevron said it would triple its planned capital investment in lower carbon businesses to $10 billion through 2028, including $2 billion to lower the carbon intensity of Chevron's operations.</p>",
+		"<p>Chevron's pillars of low carbon energy businesses are growing renewable natural gas production, raising renewable fuels production capacity, boosting hydrogen production, and increasing carbon capture and offsets to 25 million tons per year by developing regional hubs in partnership with others.</p>",
+		"<p>\"With the anticipated strong cash generation of our base business, we expect to grow our dividend, buy back shares and invest in lower carbon businesses,\" CEO Wirth said.</p>",
+		"<h6>ExxonMobil Low Carbon Solutions – Exxon's New Business</h6>",
+		"<p>Exxon, for its part, created earlier this year a new business, ExxonMobil Low Carbon Solutions, to commercialize its low-carbon technology portfolio, focusing first on CCS.</p>",
+		"<p>The new business is advancing plans for more than 20 new CCS opportunities globally to enable large-scale emission reductions. ExxonMobil plans to invest $3 billion on lower-emission energy solutions through 2025.</p>",
+		"<p>\"We are focused on proprietary projects and commercial partnerships that will have a demonstrably positive impact on our own emissions as well as those from the industrial, power generation and commercial transportation sectors, which together account for 80 percent of global CO2 emissions,\" Exxon's CEO Darren Woods said in February this year.</p>",
+		"<p>Shareholder pressure on Exxon has increased tremendously since then, and so has on Chevron.</p>",
+		"<p>The U.S. supermajors have not pledged any net-zero emission targets, but they are likely to accelerate announcements about investments in lower-carbon energy, which, apparently, will not include solar or wind.</p>"
+	],
+	"summary": "Can India’s proposed semiconductor deal with Taiwan be a gamechanger?. Moore's Law states that the number of transistors on a microchip will double every two years, even while costs go down. Mister Moore, God bless him, surely may not have accounted for COVID-19, developments in artificial intelligence and the perfect storm of it all coming together, leading to a global shortage of semiconductors threatening industries from automobiles to smartphones and consumer electronics. Moore's Law will also be put to test as India doubles down on closing a reported deal with Taiwan, the big daddy in the semiconductor scene. The deal, worth Rs 55,000 crore in today's dollar value, envisages a big-scale chip production facility with Taiwanese technology in the sub continent. The larger trade deal (that will, of course, make big bro Beijing see red) in the offing could see duty cuts on components and other raw materials. A mega IT park with space for 100 Taiwanese companies is also on the anvil.",
+	"stock_matches": [
+		{
+			"index": 762,
+			"stock_name": "Xilinx",
+			"ticker_symbol": "XLNX",
+			"sector": "Electronic Technology",
+			"industry": "Semiconductors",
+			"comment": "Xilinx, Inc. (/ˈzaɪlɪŋks/ ZY-links) is an American technology company that is primarily a supplier of programmable logic devices. The company invented the field-programmable gate array (FPGA). It is the semiconductor company that created the first fabless manufacturing model. Co-founded by Ross Freeman, Bernard Vonderschmitt, and James V Barnett II in 1984, the company went public on the NASDAQ in 1989. AMD announced its acquisition of Xilinx in October 2020.",
+			"score": 0.7161292987925151
+		},
+		{
+			"index": 660,
+			"stock_name": "Taiwan Semiconductor",
+			"ticker_symbol": "TSM",
+			"sector": "Electronic Technology",
+			"industry": "Semiconductors",
+			"comment": "Taiwan Semiconductor Manufacturing Company, Limited (TSMC; Chinese: 台灣積體電路製造股份有限公司; pinyin: Táiwān jī tǐ diànlù zhìzào gǔfèn yǒuxiàn gōngsī, also called Taiwan Semiconductor) is a Taiwanese multinational semiconductor contract manufacturing and design company. It is the world's most valuable semiconductor company, the world's largest dedicated independent (pure-play) semiconductor foundry, and one of Taiwan's largest companies, with its headquarters and main operations located in the Hsinchu Science Park in Hsinchu. It is majority owned by foreign investors.",
+			"score": 0.7126283868489455
+		},
+		{
+			"index": 747,
+			"stock_name": "Western Digital",
+			"ticker_symbol": "WDC",
+			"sector": "Electronic Technology",
+			"industry": "Computer Peripherals",
+			"comment": "Western Digital Corporation (WDC, commonly known as Western Digital or WD) is an American computer hard disk drive manufacturer and data storage company, headquartered in San Jose, California. It designs, manufactures and sells data technology products, including storage devices, data center systems and cloud storage services.",
+			"score": 0.6916175921808179
+		},
+		{
+			"index": 652,
+			"stock_name": "SunPower",
+			"ticker_symbol": "SPWR",
+			"sector": "Producer Manufacturing",
+			"industry": "Electrical Products",
+			"comment": "SunPower Corporation (NASDAQ:SPWR) is an American company specializing in solar power generation and energy storage.",
+			"score": 0.6892480069970219
+		},
+		{
+			"index": 465,
+			"stock_name": "Microchip Technology",
+			"ticker_symbol": "MCHP",
+			"sector": "Electronic Technology",
+			"industry": "Semiconductors",
+			"comment": "Microchip Technology Inc. is a publicly-listed American corporation that manufactures microcontroller, mixed-signal, analog and Flash-IP integrated circuits. Its products include microcontrollers (PIC, dsPIC, AVR and SAM), Serial EEPROM devices, Serial SRAM devices, embedded security devices, radio frequency (RF) devices, thermal, power and battery management analog devices, as well as linear, interface and wireless products.",
+			"score": 0.686847396494539
+		},
+		{
+			"index": 678,
+			"stock_name": "Texas Instruments",
+			"ticker_symbol": "TXN",
+			"sector": "Electronic Technology",
+			"industry": "Semiconductors",
+			"comment": "Texas Instruments Incorporated (TI) is an American technology company headquartered in Dallas, Texas, that designs and manufactures semiconductors and various integrated circuits, which it sells to electronics designers and manufacturers globally. It is one of the top 10 semiconductor companies worldwide based on sales volume. The company's focus is on developing analog chips and embedded processors, which account for more than 80% of its revenue. TI also produces TI digital light processing technology and education technology products including calculators, microcontrollers and multi-core processors. The company holds 45,000 patents worldwide as of 2016.",
+			"score": 0.6868363643857958
+		},
+		{
+			"index": 128,
+			"stock_name": "Cadence Design Systems",
+			"ticker_symbol": "CDNS",
+			"sector": "Technology Services",
+			"industry": "Packaged Software",
+			"comment": "Cadence Design Systems, Inc. (stylized as cādence), headquartered in San Jose, California, is an American multinational computational software company, founded in 1988 by the merger of SDA Systems and ECAD, Inc. The company produces software, hardware and silicon structures for designing integrated circuits, systems on chips (SoCs) and printed circuit boards.",
+			"score": 0.684435148769411
+		},
+		{
+			"index": 375,
+			"stock_name": "Intel",
+			"ticker_symbol": "INTC",
+			"sector": "Electronic Technology",
+			"industry": "Semiconductors",
+			"comment": "Intel Corporation is an American multinational corporation and technology company headquartered in Santa Clara, California, in Silicon Valley. It is the world's largest semiconductor chip manufacturer by revenue, and is the developer of the x86 series of microprocessors, the processors found in most personal computers (PCs). Incorporated in Delaware, Intel ranked No. 45 in the 2020 Fortune 500 list of the largest United States corporations by total revenue during nearly a decade, from 2007 to 2016 fiscal years.",
+			"score": 0.6843771785849234
+		},
+		{
+			"index": 11,
+			"stock_name": "Advanced Micro Devices",
+			"ticker_symbol": "AMD",
+			"sector": "Electronic Technology",
+			"industry": "Semiconductors",
+			"comment": "Advanced Micro Devices, Inc. (AMD) is an American multinational semiconductor company based in Santa Clara, California, that develops computer processors and related technologies for business and consumer markets. While it initially manufactured its own processors, the company later outsourced its manufacturing, a practice known as going fabless, after GlobalFoundries was spun off in 2009. AMD's main products include microprocessors, motherboard chipsets, embedded processors and graphics processors for servers, workstations, personal computers and embedded system applications.",
+			"score": 0.6839616507478875
+		},
+		{
+			"index": 525,
+			"stock_name": "ON Semiconductor",
+			"ticker_symbol": "ON",
+			"sector": "Electronic Technology",
+			"industry": "Semiconductors",
+			"comment": "ON Semiconductor is a semiconductor supplier company, formerly in the Fortune 500, but dropping into the Fortune 1000 (ranked 512) in 2020. Products include power and signal management, logic, discrete, and custom devices for automotive, communications, computing, consumer, industrial, LED lighting, medical, military/aerospace and power applications. ON Semiconductor runs a network of manufacturing facilities, sales offices and design centers in North America, Europe, and the Asia Pacific regions. Headquartered in Phoenix, Arizona, ON Semiconductor has revenues of $3.907 billion (2016), which puts it among the worldwide top 20 semiconductor sales leaders.",
+			"score": 0.6834658629813691
+		}
+	]
+}

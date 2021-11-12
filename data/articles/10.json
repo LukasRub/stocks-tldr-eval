@@ -1,0 +1,111 @@
+{
+	"doc_id": 10,
+	"title": "Fresno County Will Soon Be Home to the Largest Green Hydrogen Plant on the West Coast",
+	"company": "Plug Power",
+	"url": "https://www.triplepundit.com/story/2021/plug-power-green-hydrogen/728856",
+	"ticker_top": [
+		"PLUG"
+	],
+	"contents": [
+		"<h3>AMD CEO Sees Chip Shortage Easing in 2022</h3>",
+		"<p>The semiconductor shortage will begin to ease in 2022, Advanced Micro Devices CEO Lisa Su said at a session Monday at the Code Conference in Beverly Hills.</p>",
+		"<p>In an on-stage interview with Code Conference producer Kara Swisher and CNBC tech reporter Jon Fortt, the AMD (ticker: AMD) chief said that the semiconductor industry is investing aggressively in new capacity, with 20 new factories coming online this year and a similar number expected to come online in 2022.</p>",
+		"<p>But Su also noted that the pandemic has “taken demand to a new level,” with every industry seeking more components. “Nobody expected this much demand,” she says.</p>",
+		"<p>Su dodged a question about whether AMD was threatened by a shift by some electronics companies to chips designed in house.</p>",
+		"<p>Su also said the company continues to expect to close its pending acquisition of Xilinx (XLNX) by year end. She also said that consolidation in the chip industry is “inevitable.”</p>",
+		"<p>Asked about the use of AMD chips for crypto currency mining, Su said it is a small part of its business. She says the company is trying hard to get more products to gamers and the core business, rather than on crypto.</p>"
+	],
+	"summary": "Fresno County Will Soon Be Home to the Largest Green Hydrogen Plant on the West Coast. The project also includes the construction of a new wastewater treatment facility that will supply the water needed by the plant and provide recycled water to Mendota, an increasingly water-stressed agricultural hub in Fresno County. The California facility will expand Plug Power’s network of plants that already includes sites in New York, Tennessee and Georgia. Combined, they will supply 500 tons of liquid green hydrogen daily by 2025, preventing 4.3 million metric tons of carbon dioxide emissions from entering the atmosphere.",
+	"stock_matches": [
+		{
+			"index": 566,
+			"stock_name": "Proterra",
+			"ticker_symbol": "PTRA",
+			"sector": "Finance",
+			"industry": "Financial Conglomerates",
+			"comment": "Proterra is an American automotive and energy storage company based in Burlingame, California. The company designs and manufactures electric transit buses and electric charging systems. Proterra's Catalyst series includes transit buses ranging from 35 feet (11 m) to 40 feet (12 m) in length and various battery configurations. Buses are charged through an overhead charging station that is placed at maintenance facilities as well as route terminals. Founded in 2004, it became a public company in June 2021 through a business transaction with a Nasdaq-listed special-purpose acquisition company.",
+			"score": 0.7279331550918886
+		},
+		{
+			"index": 303,
+			"stock_name": "FuelCell Energy",
+			"ticker_symbol": "FCEL",
+			"sector": "Electronic Technology",
+			"industry": "Electronic Equipment/Instruments",
+			"comment": "FuelCell Energy, Inc. is an American fuel cell power company. It designs, manufactures, operates and services Direct Fuel Cell power plants (a type of molten carbonate fuel cell) that run on natural gas and biogas. Their power plants are not considered \"hydrogen fuel cells\" because their feedstock is not pure hydrogen and the byproducts of electric generation include carbon dioxide. As one of the biggest publicly traded fuel cell manufacturers in the U.S., the company operates over 50 plants all over the world. It operates the world’s largest fuel cell park, Gyeonggi Green Energy Fuel cell park, which is located in South Korea. The park consists of 21 power plants providing 59 Megawatt of electricity plus district heating to a number of customers in South Korea. It also operates the larges",
+			"score": 0.7223882961689293
+		},
+		{
+			"index": 631,
+			"stock_name": "Southern Company",
+			"ticker_symbol": "SO",
+			"sector": "Utilities",
+			"industry": "Electric Utilities",
+			"comment": "Southern Company is an American gas and electric utility holding company based in the southern United States. It is headquartered in Atlanta, Georgia, with executive offices also located in Birmingham, Alabama. The company is currently the second largest utility company in the U.S. in terms of customer base. Through its subsidiaries it serves 9 million gas and electric utility customers in 6 states. Southern Company's regulated regional electric utilities serve a 120,000-square-mile (310,000 km2) territory with 27,000 miles (43,000 km) of distribution lines.",
+			"score": 0.7182960073145478
+		},
+		{
+			"index": 513,
+			"stock_name": "NRG Energy",
+			"ticker_symbol": "NRG",
+			"sector": "Utilities",
+			"industry": "Electric Utilities",
+			"comment": "NRG Energy, Inc. is a large American energy company, headquartered in Houston, Texas. It was formerly the wholesale arm of Northern States Power Company (NSP), which became Xcel Energy, but became independent in 2000. NRG Energy is involved in energy generation and retail electricity. Their portfolio includes natural gas generation, coal generation, oil generation, nuclear generation, wind generation, utility scale generation, and distributed solar generation. NRG serves 2.9 million retail customers in Texas, Connecticut, Delaware, Illinois, Maryland, Massachusetts, New Jersey, New York, Pennsylvania, Ohio, and the District of Columbia.",
+			"score": 0.7137596653906624
+		},
+		{
+			"index": 586,
+			"stock_name": "Republic Services",
+			"ticker_symbol": "RSG",
+			"sector": "Industrial Services",
+			"industry": "Environmental Services",
+			"comment": "Republic Services, Inc is the second largest provider of non-hazardous solid waste collection, transfer, disposal, recycling, and energy services in the United States, as measured by revenue.",
+			"score": 0.7075737704150864
+		},
+		{
+			"index": 502,
+			"stock_name": "NIO",
+			"ticker_symbol": "NIO",
+			"sector": "Consumer Durables",
+			"industry": "Motor Vehicles",
+			"comment": "NIO (Chinese: 蔚来; pinyin: Wèilái) is a Chinese multinational automobile manufacturer headquartered in Shanghai, specializing in designing and developing electric vehicles. The company is also involved in the FIA Formula E Championship, although NIO has ended funding the team after selling to Lisheng Racing.",
+			"score": 0.7045718659361838
+		},
+		{
+			"index": 611,
+			"stock_name": "Sempra Energy",
+			"ticker_symbol": "SRE",
+			"sector": "Utilities",
+			"industry": "Gas Distributors",
+			"comment": "Sempra is a North American energy infrastructure company based in San Diego, California. Sempra's focus is on electric and natural gas infrastructure. Its operating companies include: Southern California Gas Company (SoCalGas) and San Diego Gas & Electric (SDG&E) in Southern California; Oncor Electric Delivery Company (Oncor) in Texas; Sempra LNG; and IEnova, based in Mexico.",
+			"score": 0.7015576065483523
+		},
+		{
+			"index": 559,
+			"stock_name": "Plug Power",
+			"ticker_symbol": "PLUG",
+			"sector": "Electronic Technology",
+			"industry": "Electronic Components",
+			"comment": "Plug Power Inc. is an American company engaged in the development of hydrogen fuel cell systems that replace conventional batteries in equipment and vehicles powered by electricity. The company is headquartered in Latham, New York, and has facilities in Spokane, Washington, and Rochester, New York.",
+			"score": 0.6999940388457699
+		},
+		{
+			"index": 39,
+			"stock_name": "American Electric Power",
+			"ticker_symbol": "AEP",
+			"sector": "Utilities",
+			"industry": "Electric Utilities",
+			"comment": "American Electric Power (AEP), (railcar reporting mark: AEPX) is a major investor-owned electric utility in the United States, delivering electricity to more than five million customers in 11 states. AEP ranks among the nation's largest generators of electricity, owning nearly 38,000 megawatts of generating capacity in the U.S. AEP also owns the nation's largest electricity transmission system, a nearly 39,000-mile (63,000 km) network that includes 765 kilovolt ultra-high voltage transmission lines, more than all other U.S. transmission systems combined. AEP's transmission system directly or indirectly serves about 10 percent of the electricity demand in the Eastern Interconnection, the interconnected transmission system that covers 38 eastern and central U.S. states and eastern Canada, an",
+			"score": 0.6995552801168867
+		},
+		{
+			"index": 150,
+			"stock_name": "ChargePoint Holdings",
+			"ticker_symbol": "CHPT",
+			"sector": "Retail Trade",
+			"industry": "Specialty Stores",
+			"comment": "ChargePoint (formerly Coulomb Technologies) is an American electric vehicle infrastructure company based in Campbell, California. ChargePoint operates the largest online network of independently owned EV charging stations operating in 14 countries and makes the technology used in it.",
+			"score": 0.6933455945517872
+		}
+	]
+}

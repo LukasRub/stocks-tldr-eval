@@ -1,0 +1,122 @@
+{
+	"doc_id": 35,
+	"title": "Mining Firm Responsible for 270-Death Disaster Behind New Canada Fiasco",
+	"company": "Vale",
+	"url": "https://www.thedailybeast.com/vale-the-firm-responsible-for-270-deaths-strikes-again-in-canada",
+	"ticker_top": [
+		"VALE"
+	],
+	"contents": [
+		"<h3>American Airlines vs. United: Which Airline Stock Is a Better Investment?</h3>",
+		"<p>AAL – Airlines stocks could be poised to make a comeback in the next 12-months, especially if the pandemic is brought under control. Which is why today I’m going to take a look at American Airlines (AAL) and United Airlines (UAL) to see which is the better investment.</p>",
+		"<p>The airline sector was among the worst hit amid the COVID-19 pandemic.  Traveling ground to a halt and airline companies burnt billions of dollars in cash to stay afloat.</p>",
+		"<p>Since the onset of the coronavirus, most airline stocks have modestly rebounded from their Spring 2020 lows but the U.S. Global Jets ETF (JETS) is still trading down more than 23% from it’s pre-covid level.  This could be an opportune time to take advantage of these cheaper prices, as economies around the world continue to reopen.</p>",
+		"<p>Which is why today I’m going to analyze two stocks in the airline industry, American Airlines (AAL) and United Airlines (UAL), to see which is currently a better buy.</p>",
+		"<h6>American Airlines disappointed investors in Q2</h6>",
+		"<p>In June this year, American Airlines claimed that its load factors and bookings were experiencing a surge. The load factor is the percentage of seats occupied by paying customers. However, its Q2 sales were still forecast to decline by almost 40% compared to the same period in 2019.</p>",
+		"<p>American Airlines later forecast that revenue decline in the June quarter of 2021 would be lower than expected at 37.5% compared to Q2 of 2019. Its capacity was also forecast to fall by 24.6% in the same period.</p>",
+		"<p>American Airlines reported a sequential growth of 87% in sales as it ended Q2 with revenue of $7.5 billion. In Q2 of 2019, its sales were $12 billion. The company’s pre-tax profit was positive due to a $1.4 billion grant by the federal government.</p>",
+		"<p>In Q3 it expects a revenue decline of 20% compared to 2019 as capacity might reduce between 15% and 20%. This suggests the nonfuel unit costs for American Airlines will rise between 8% and 12%.</p>",
+		"<p>Comparatively, the management has projected non-operating costs to increase from $251 million to $385 million due to its debt load. This will expectedly impact the bottom-line as its adjusted pre-tax margin will trend between -7% and -3%.</p>",
+		"<p>American Airlines ended Q2 with $17.95 billion in cash and $48.3 billion in debt. Analysts also expect the company to report an adjusted loss of $7.62 per share in 2021.</p>",
+		"<h6>United Airlines reported better than expected results in Q2</h6>",
+		"<p>In April 2021, United Airlines expected sales of $5 billion in Q2 with an adjusted EBITDA loss of $1 billion and a pre-tax loss of $2 billion. Less than two months later, it increased sales forecasts to $5.47 billion and narrowed EBITDA losses to $595 million. A faster-than-expected recovery in international flights and business-related travel also allowed the company to report a positive EBITDA of $212 million in the last month of Q2.</p>",
+		"<p>It finally reported revenue of $5.47 billion in Q2 with an adjusted loss of $1.6 billion in the quarter. After accounting for the federal benefit of $1.1 billion, United Airlines’ loss narrowed to $564 million. United Airlines’ cash balance stood at $21.07 billion while its debt balance is $41.76 billion.</p>",
+		"<h6>The verdict</h6>",
+		"<p>United Airlines and American Airlines are both experiencing a recovery in top-line and profit margins this year. But I believe United Airlines is currently the better investment due to its improved liquidity position and lower debt levels. Further, United Airlines also expected to report an adjusted profit in Q3 and Q4 of 2021, something American Airlines might struggle to achieve.</p>",
+		"<p>AAL shares rose $0.03 (+0.14%) in after-hours trading Thursday. Year-to-date, AAL has gained 32.53%, versus a 19.69% rise in the benchmark S&P 500 index during the same period.</p>"
+	],
+	"summary": "Mining Firm Responsible for 270-Death Disaster Behind New Canada Fiasco. After two grueling days trapped underground, most of the 39 workers stuck in a mine in the Canadian city of Sudbury finally climbed to the surface on Tuesday. The grueling rescue operation began after an elevator accident left workers stranded almost 4,000 feet below ground—that’s four times the height of the Eiffel Tower. While the rest of the workers are expected to escape unharmed, previous employees for the Brazilian firm Vale, which owns the Canadian Totten mine in Sudbury, were not as lucky.",
+	"stock_matches": [
+		{
+			"index": 716,
+			"stock_name": "Vale",
+			"ticker_symbol": "VALE",
+			"sector": "Non-Energy Minerals",
+			"industry": "Steel",
+			"comment": "Vale S.A. (Portuguese pronunciation: [ˈvali]) is a Brazilian multinational corporation engaged in metals and mining and one of the largest logistics operators in Brazil. Vale, formerly Companhia Vale do Rio Doce (the Sweet River Valley Company, referring to the Doce River), is the largest producer of iron ore and nickel in the world. Vale also produces manganese, ferroalloys, copper, bauxite, potash, kaolin, and cobalt, currently operating nine hydroelectricity plants, and a large network of railroads, ships, and ports used to transport its products.",
+			"score": 0.7492801669891549
+		},
+		{
+			"index": 412,
+			"stock_name": "Kinross Gold Corporation",
+			"ticker_symbol": "KGC",
+			"sector": "Non-Energy Minerals",
+			"industry": "Precious Metals",
+			"comment": "Kinross Gold Corporation is a Canadian-based gold and silver mining company founded in 1993 and headquartered in Toronto, Ontario, Canada. Kinross currently operates seven active gold mines, and was ranked fifth of the \"10 Top Gold-mining Companies\" of 2019 by InvestingNews. The company's mines are located in Brazil, Ghana, Mauritania, Russia and the United States. It trades under the KGC ticker in the New York Stock Exchange, and under K in the Toronto Stock Exchange.",
+			"score": 0.7174306827859908
+		},
+		{
+			"index": 669,
+			"stock_name": "Teck Resources",
+			"ticker_symbol": "TECK",
+			"sector": "Non-Energy Minerals",
+			"industry": "Other Metals/Minerals",
+			"comment": "Teck Resources Limited, known as Teck Cominco until late 2008, is a diversified natural resources company headquartered in Vancouver, British Columbia, that is engaged in mining and mineral development, including coal for the steelmaking industry, copper, zinc, and energy. Secondary products include lead, silver, gold, molybdenum, germanium, indium and cadmium. Teck Resources was formed from the amalgamation of Teck and Cominco in 2001. In the 2020 Forbes Global 2000, Teck Resources was ranked as the 1616th -largest public company in the world.",
+			"score": 0.6941581907242984
+		},
+		{
+			"index": 764,
+			"stock_name": "Yamana Gold",
+			"ticker_symbol": "AUY",
+			"sector": "Non-Energy Minerals",
+			"industry": "Precious Metals",
+			"comment": "Inc. is a Canadian company that owns and operates gold, silver and copper mines in Canada, Chile, Brazil and Argentina. Headquartered in Toronto, the company was founded in 1994 and became listed on the Toronto Stock Exchange in 1995, the New York Stock Exchange in 2007, and the London Stock Exchange in 2020. The company became a gold producer after its 2003 re-restructuring in which Peter Marrone took over as Chief Executive Officer and it merged with Brazilian company Santa Elina Mines Corporation. The combined company was able to use Yamana's access to capital with Santa Elina development properties to bring the Chapada mine into production. From there the company combined with other TSX-listed companies RNC Gold, Desert Sun Mining, Viceroy Exploration, Northern Orion Resources, Meridia",
+			"score": 0.6919642927171572
+		},
+		{
+			"index": 252,
+			"stock_name": "Eldorado Gold Corporation",
+			"ticker_symbol": "EGO",
+			"sector": "Non-Energy Minerals",
+			"industry": "Precious Metals",
+			"comment": "Eldorado Gold Corporation is a Canadian company that owns and operates gold mines in Turkey, Greece and Canada. Since its merger with European Goldfields in 2011 the company has been pursuing the development of the Skouries mine, Olympias mine and Stratoni mine in Greece. The company previously developed and operated gold mines in China, Brazil and Mexico. Headquartered in Vancouver and listed on the Toronto and New York Stock Exchanges, Eldorado Gold has developed and operated assets from several merged companies HRC Developments Corporation, Afcan Mining Corporation, Sino Gold Mining, Brazauro Resources, Integra Gold, as well as European Goldfields.",
+			"score": 0.6894049680363616
+		},
+		{
+			"index": 98,
+			"stock_name": "BHP Billiton",
+			"ticker_symbol": "BHP",
+			"sector": "Non-Energy Minerals",
+			"industry": "Other Metals/Minerals",
+			"comment": "BHP, formerly known as BHP Billiton, is the trading entity of BHP Group Limited and BHP Group plc, an Anglo-Australian multinational mining, metals and petroleum dual-listed public company headquartered in Melbourne, Victoria, Australia. The Broken Hill Proprietary Company was founded on 16 July 1885 in the mining town of Silverton, New South Wales. By 2017, BHP was the world's largest mining company, based on market capitalisation, and was Melbourne's third-largest company by revenue.",
+			"score": 0.6868747427866628
+		},
+		{
+			"index": 632,
+			"stock_name": "Southern Copper",
+			"ticker_symbol": "SCCO",
+			"sector": "Non-Energy Minerals",
+			"industry": "Other Metals/Minerals",
+			"comment": "Southern Copper Corporation is a mining company that was founded in 1952. The current incarnation of Southern Copper can be traced to the 2005 acquisition of Southern Peru Copper Corporation by the Mexican copper producer Minera México. The company is a major producer and refiner of copper, molybdenum, zinc, silver, lead, and gold, and operates mines and smelters in Mexico and in Peru, in the Andes mountains southeast of Lima.",
+			"score": 0.6863312220280119
+		},
+		{
+			"index": 288,
+			"stock_name": "First Majestic Silver Corp",
+			"ticker_symbol": "AG",
+			"sector": "Non-Energy Minerals",
+			"industry": "Precious Metals",
+			"comment": "First Majestic Silver Corp. is a Canadian silver-mining company that operates in Mexico. It has seven producing mines under its control: San Dimas Silver/Gold Mine, Santa Elena Silver/Gold Mine, La Encantada Silver Mine, La Parrilla Silver Mine, San Martin Silver Mine, Del Toro Silver Mine, and La Guitarra Silver Mine. First Majestic also produces and sells its own bullion rounds and bars (others produce and market bullion through private mints).",
+			"score": 0.6859451658122937
+		},
+		{
+			"index": 496,
+			"stock_name": "Newmont Mining",
+			"ticker_symbol": "NEM",
+			"sector": "Non-Energy Minerals",
+			"industry": "Precious Metals",
+			"comment": "Newmont, based in Greenwood Village, Colorado, United States, is the world's largest gold mining company. Incorporated in 1921, it has ownership of gold mines in Nevada, Colorado, Ontario, Quebec, Mexico, the Dominican Republic, Australia, Ghana, Argentina, Peru, and Suriname. In addition to gold, Newmont mines copper, silver, zinc and lead. Newmont has approximately 31,600 employees and contractors worldwide, and is the only gold company in the Standard & Poor's 500.",
+			"score": 0.6810450980189683
+		},
+		{
+			"index": 364,
+			"stock_name": "Iamgold Corp",
+			"ticker_symbol": "IAG",
+			"sector": "Non-Energy Minerals",
+			"industry": "Precious Metals",
+			"comment": "Iamgold Corporation (formerly Iamgold International African Mining Gold Corporation) is a Canadian company that owns and operates gold mines in Burkina Faso, Suriname and Canada. Headquartered in Toronto, the company was incorporated in 1990, and went public on the Toronto Stock Exchange in 1996, with additional shares being listed on the New York Stock Exchange beginning in 2005. The company formerly owned or had stakes in the Sadiola and Yatela gold mines in Mali, the Mupane gold mine in Botswana, the Niobec niobium mine in Quebec, as well as a royalty in the Diavik Diamond Mine. Iamgold's early exploration work in Western Mali, particularly around Sadiola, was based on the fieldwork of Canadian geologist James C. Snell. M.Tech, P.Eng. Snell provided exploration coordinates to company fo",
+			"score": 0.6804627799589918
+		}
+	]
+}

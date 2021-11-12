@@ -1,0 +1,22 @@
+{
+  "name": "stocks-tldr-eval",
+  "authors": [
+    "Lukas Rubikas <lukas.rubikas@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "react": "^16.1.0"
+  }
+}

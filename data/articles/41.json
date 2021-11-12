@@ -1,0 +1,115 @@
+{
+	"doc_id": 41,
+	"title": "Why Vipshop Stock Crashed (Further) Today",
+	"company": "Vipshop Holdings Limited",
+	"url": "https://www.fool.com/investing/2021/09/23/why-vipshop-stock-crashed-further-today/",
+	"ticker_top": [
+		"VIPS"
+	],
+	"contents": [
+		"<h1>Why Vipshop Stock Crashed (Further) Today</h1>",
+		"<p>What happened</p>",
+		"<p>Shares of Vipshop Holdings (NYSE:VIPS) slumped again on Thursday, losing as much as 10.6% before recovering some of its losses. As of 2:21 p.m. EDT, the stock was down 5.3%.</p>",
+		"<p>The Chinese e-commerce company plunged anew after a Wall Street analyst posited that its immediate future looks bleak.</p>",
+		"<h4>So what</h4>",
+		"<p>Vipshop has had a rough year thus far and the bad times could continue. So says J.P. Morgan analyst Andre Chang, who downgraded the stock from overweight (buy) to neutral (hold), while slashing its price target in half, from $22 to $11, according to a report by The Fly.</p>",
+		"<p>It's important to note that the stock has already lost nearly 74% of its value since hitting a new all-time high earlier this year. Chang believes that even after this rout, Vipshop stock could have further to fall in the coming months, as challenges remain for the online retailer. The analyst is forecasting revenue growth of just 5% year over year in the second half, with margins plunging even further.</p>",
+		"<p>Several issues are feeding this bearish view. Chang says the \"macro environment cool-down\" that hit sales was worse than originally anticipated. Vipshop relies heavily on the sale of consumer discretionary and discount items for much of its business, and these sales were among the hardest hit. This has led to concerns about the sustainability of its user engagement. Additionally, Vipshop hasn't scaled back very much on its sales and marketing expenses, leading Chang to conclude that margins will be hit hard, at least over the short term.</p>",
+		"<p>Now what</p>",
+		"<p>Investors should keep in mind that Vipshop has been extremely volatile. In the three years following its initial public offering in 2012, the stock surged to $30, gaining more than 5,000%. It spent the next three years falling, plunging to less than $5 per share, before rocketing to more than $45 per share earlier this year.</p>",
+		"<p>If the pandemic has illustrated anything, it's that e-commerce isn't going anywhere. For investors who are sold on Vipshop's discount online retail strategy, this is just another bump in the long road ahead.</p>"
+	],
+	"summary": "Why Vipshop Stock Crashed (Further) Today. What happened. The Chinese e-commerce company plunged anew after a Wall Street analyst posited that its immediate future looks bleak.",
+	"stock_matches": [
+		{
+			"index": 396,
+			"stock_name": "JD.com",
+			"ticker_symbol": "JD",
+			"sector": "Retail Trade",
+			"industry": "Internet Retail",
+			"comment": "JD.com, Inc. (Chinese: 京东; pinyin: Jīngdōng), also known as Jingdong and formerly called 360buy, is a Chinese e-commerce company headquartered in Beijing. It is one of the two massive B2C online retailers in China by transaction volume and revenue, a member of the Fortune Global 500 and a major competitor to Alibaba-run Tmall.",
+			"score": 0.6736741017487383
+		},
+		{
+			"index": 332,
+			"stock_name": "Hanesbrands",
+			"ticker_symbol": "HBI",
+			"sector": "Consumer Non-Durables",
+			"industry": "Apparel/Footwear",
+			"comment": "Hanesbrands Inc. is an American multinational clothing company based in Winston-Salem, North Carolina. It employs 65,300 people internationally. On September 6, 2006, the company and several brands were spun off by the Sara Lee Corporation. Hanesbrands owns several clothing brands, including Hanes, Champion, Playtex, Bali, L'eggs, Just My Size, , Barely There, Wonderbra, Dim, Berlei, Bonds, Duofold, , , , Celebrity, , , , Maidenform, , Ritmo, , , Sol, , , Bonds and Zorba.",
+			"score": 0.6675133739686469
+		},
+		{
+			"index": 730,
+			"stock_name": "Vipshop Holdings Limited",
+			"ticker_symbol": "VIPS",
+			"sector": "Retail Trade",
+			"industry": "Internet Retail",
+			"comment": "Vipshop (Chinese: 唯品会; pinyin: Wei Pin Hui) is a Chinese company that operates the e-commerce website VIP.com (formerly Vipshop.com) specializing in online discount sales. Vipshop is based out of Guangzhou, Guangdong, China, and was listed on New York Stock Exchange (NYSE) on March 23, 2012. As of 2017, Vipshop had 52.1 million customers, and there were 269.8 million orders for the year 2016. Following Tmall and JD.com, it is now the third largest e-commerce site in China.",
+			"score": 0.6556790913990949
+		},
+		{
+			"index": 23,
+			"stock_name": "Alibaba",
+			"ticker_symbol": "BABA",
+			"sector": "Retail Trade",
+			"industry": "Internet Retail",
+			"comment": "Alibaba Group Holding Limited, also known as Alibaba Group and Alibaba.com, is a Chinese multinational technology company specializing in e-commerce, retail, Internet, and technology. Founded on 28 June 1999 in Hangzhou, Zhejiang, the company provides consumer-to-consumer (C2C), business-to-consumer (B2C), and business-to-business (B2B) sales services via web portals, as well as electronic payment services, shopping search engines and cloud computing services. It owns and operates a diverse portfolio of companies around the world in numerous business sectors.",
+			"score": 0.6547332818245337
+		},
+		{
+			"index": 448,
+			"stock_name": "Marvell Technology",
+			"ticker_symbol": "MRVL",
+			"sector": "Electronic Technology",
+			"industry": "Semiconductors",
+			"comment": null,
+			"score": 0.6512328557664819
+		},
+		{
+			"index": 202,
+			"stock_name": "Coupang",
+			"ticker_symbol": "CPNG",
+			"sector": "Retail Trade",
+			"industry": "Internet Retail",
+			"comment": "Coupang (Korean: 쿠팡) is a South Korean e-commerce company based in Seoul, South Korea, and incorporated in Delaware, United States. Founded in 2010 by Bom Kim, the company expanded to become the largest online marketplace in South Korea. Its expansion led the company to the video streaming distribution after launch the service Coupang Play. Coupang is often referred to as the \"Amazon of South Korea\", due its position and corporate size in South Korean online market.",
+			"score": 0.6496226929034017
+		},
+		{
+			"index": 273,
+			"stock_name": "Evercore",
+			"ticker_symbol": "EVR",
+			"sector": "Finance",
+			"industry": "Investment Banks/Brokers",
+			"comment": "Evercore Inc., formerly known as Evercore Partners, is a global independent investment banking advisory firm founded in 1995 by Roger Altman, David Offensend, and Austin Beutner. Evercore's Investment Banking business advises its clients on mergers and acquisitions, divestitures, restructurings, financings, public offerings, private placements and other strategic transactions and also provides institutional investors with macro and fundamental equity research, sales and trading execution. Evercore's Investment Management business comprises wealth management, institutional asset management and private equity investing. Evercore serves clients from 28 offices in North America, Europe, South America and Asia. Since 1995, the firm has advised on more than $3 trillion of merger, acquisition, re",
+			"score": 0.647322022740374
+		},
+		{
+			"index": 533,
+			"stock_name": "Ozon",
+			"ticker_symbol": "OZON",
+			"sector": "Retail Trade",
+			"industry": "Internet Retail",
+			"comment": "Ozon is one of the first e-commerce companies in Russia, sometimes referred to as \"the Amazon of Russia.\" Established in 1998 as an online bookstore, Ozon was one of the three biggest online retail platforms in the country by 2019. It was named as the #3 most valuable Russian internet company of 2020 by Forbes. In October 2020 it was reported that Ozon plans to hold an IPO in the United States that could value the company at $3-5 billion. In November 2020, Ozon went public on the Nasdaq in an IPO that valued the company at $6.2 billion.",
+			"score": 0.6462243773800295
+		},
+		{
+			"index": 215,
+			"stock_name": "Darden Restaurants",
+			"ticker_symbol": "DRI",
+			"sector": "Consumer Services",
+			"industry": "Restaurants",
+			"comment": "Darden Restaurants, Inc. is an American multi-brand restaurant operator headquartered in Orlando. As of April 2017, the firm owns two fine dining restaurant chains: Eddie V's Prime Seafood and The Capital Grille; and six casual dining restaurant chains: Olive Garden, LongHorn Steakhouse, Bahama Breeze, Seasons 52, Yard House and Cheddar's Scratch Kitchen. Until July 28, 2014, Darden also owned Red Lobster. Darden has more than 1,500 restaurant locations and more than 150,000 employees, making it the world's largest full-service restaurant company. As of 2018, Darden is the only Fortune 500 company with its corporate headquarters in Greater Orlando.",
+			"score": 0.6458897365341503
+		},
+		{
+			"index": 159,
+			"stock_name": "Chewy",
+			"ticker_symbol": "CHWY",
+			"sector": "Retail Trade",
+			"industry": "Internet Retail",
+			"comment": "Chewy, Inc. is an American online retailer of pet food and other pet-related products based in Dania Beach, Florida. In 2017, Chewy was acquired by PetSmart for $3.35 billion, which was the largest ever acquisition of an e-commerce business at the time. The company completed its initial public offering in 2019, raising $1 billion. In 2020, total yearly net sales increased 47% to $7.15 billion from 2019 sales.",
+			"score": 0.6457257468820963
+		}
+	]
+}

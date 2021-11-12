@@ -1,0 +1,37 @@
+{
+	"doc_id": 8,
+	"title": "AMC takes advantage of pandemic to expand presence in one notable city: Tinseltown",
+	"company": "AMC",
+	"url": "https://www.bizjournals.com/kansascity/news/2021/09/27/amc-entertainment-theater-expansion-los-angeles.html",
+	"ticker_top": [
+		"AMC"
+	],
+	"contents": [
+		"<h3>China: New Oriental closes K-12 subsidiary</h3>",
+		"<p>New Oriental in China has decided to close down DFUB, its subsidiary focusing on K-12 online education.</p>",
+		"<p>Founded in 2016, DFUB is described as New Oriental’s most successful online education service, with over 2 million students registered in its 282 branches. It enabled students in less developed areas to be taught by experienced teachers in Beijing via online platforms.</p>",
+		"<p>The company estimates that it will finish issuing refunds and redundancy packages before October, according to a social media post by CEO of DFUB Yu Zhu.</p>",
+		"<p>“It’s heartbreaking that I have to leave but nobody can do anything about it,” a former teacher at DFUB told the PIE.</p>",
+		"<p>“But I’m glad about the compensation I received.” The teacher had worked at DFUB for a year and she received compensation that equals to two months of her salary.</p>",
+		"<p>The announcement comes in the wake of China’s recent national reforms to the tutoring industry, turning existing businesses into nonprofit entities by the end of the year and barring them from stock market financing.</p>",
+		"<p>The overhaul is part of measures to relieve pressure on school students and reduce cost burdens on parents, according to officials.</p>",
+		"<p>A former teacher at New Oriental in Beijing told the PIE that some of his colleagues had left the company and it is likely that there will be more people leaving the K-12 sector.</p>",
+		"<p>“The new policy banned tutoring companies from providing lessons on weekends and holidays, so fewer teachers are needed for the industry.”</p>",
+		"<p>New Oriental is among the leading education companies whose market value has dived under the influence of China’s new national tutoring rules. New Oriental’s US-listed shares have fallen by £5.4 billion since July, according to Reuters.</p>",
+		"<p>“We will strictly follow the rules, continue to improve the quality of education and facilitate the students’ all-round development,” said in a statement released by New Oriental.</p>",
+		"<p>Minhong Yu, the founder and chairman of New Oriental said “I wrote letters to our teachers every year to express appreciation but I don’t have the courage to do so this year,” according to his social media post on Chinese Teacher’s Day on September 10.</p>",
+		"<p>“Many teachers have been dismissed and there will be more teachers leaving New Oriental in the future. This is the saddest Teacher’s Day to me.”</p>"
+	],
+	"summary": "The move flooded the Los Angeles market with more than 400,000 square feet of movie theater real estate — \"an opportunity major chains such as Regal, AMC and Cinemark will likely capitalize on as the three make up nearly 70% of the regional cinema market,\" CBRE Group Inc. noted in a recent report. AMC takes advantage of pandemic to expand presence in one notable city: Tinseltown. \"The silver screen hasn't lost its luster as some of the biggest players in the industry move to increase their regional footprint,” the CBRE report said.",
+	"stock_matches": [
+		{
+			"index": 35,
+			"stock_name": "AMC",
+			"ticker_symbol": "AMC",
+			"sector": "Consumer Services",
+			"industry": "Movies/Entertainment",
+			"comment": "AMC Entertainment Holdings, Inc. (d/b/a AMC Theatres, originally an abbreviation for American Multi-Cinema; often referred to simply as AMC and known in some countries as AMC Cinemas or AMC Multi-Cinemas) is an American movie theater chain headquartered in Leawood, Kansas, and the largest movie theater chain in the world. Founded in 1920, AMC has the largest share of the U.S. theater market ahead of Regal and Cinemark Theatres.",
+			"score": 0.7203663768859229
+		}
+	]
+}

@@ -1,0 +1,83 @@
+{
+	"doc_id": 7,
+	"title": "Norwegian Cruise Line Officially Returns to New York",
+	"company": "Norwegian Cruise Line Holdings",
+	"url": "https://www.travelmarketreport.com/Cruise/articles/Norwegian-Cruise-Line-Officially-Returns-to-New-York",
+	"ticker_top": [
+		"NCLH"
+	],
+	"contents": [
+		"<h3>AMC takes advantage of pandemic to expand presence in one notable city: Tinseltown</h3>",
+		"<p>One of the casualties of the pandemic was the permanent closing of the ArcLight Cinemas and Pacific Theatres chains. ArcLight Cinemas had 11 locations, including a half-dozen in the Los Angeles area, as well as San Diego; two in Chicago; the Washington, D.C., area; and Boston. Pacific Theatres had six cinemas, all in the L.A. area.</p>",
+		"<p>The move flooded the Los Angeles market with more than 400,000 square feet of movie theater real estate — \"an opportunity major chains such as Regal, AMC and Cinemark will likely capitalize on as the three make up nearly 70% of the regional cinema market,\" CBRE Group Inc. noted in a recent report.</p>",
+		"<p>Leawood-based AMC Entertainment Holdings Inc. (NYSE: AMC) became one of the first movers when it took over Pacific Theatres' flagship theaters, signing long-term leases for the 30,000-square-foot Grove and 43,412-square-foot Americana at Brand cinemas at the Los Angeles and Glendale, California, retail and entertainment complexes owned by luxury real estate developer Caruso. And Regal Cinemas signed a lease to take over the 87,000-square-foot ArcLight theater at the Sherman Oaks Galleria.</p>",
+		"<p>That leaves several movie houses and hundreds of thousands of square feet still up for grabs in Tinseltown.</p>",
+		"<p>\"The silver screen hasn't lost its luster as some of the biggest players in the industry move to increase their regional footprint,” the CBRE report said.</p>"
+	],
+	"summary": "Norwegian Cruise Line Officially Returns to New York. On Sunday, Sept. 26, Norwegian Breakaway made its post-COVID debut back in New York City, the start of a season of week-long sailings to Bermuda for the ship. The ship will welcome guests from the Manhattan Cruise Terminal through the end of October, sailings that include overnight calls to the Royal Naval Dockyard.",
+	"stock_matches": [
+		{
+			"index": 509,
+			"stock_name": "Norwegian Cruise Line Holdings",
+			"ticker_symbol": "NCLH",
+			"sector": "Consumer Services",
+			"industry": "Hotels/Resorts/Cruise lines",
+			"comment": "Norwegian Cruise Line (NCL), also known in short as Norwegian, is an American cruise line founded in 1966, incorporated in Bermuda and headquartered in Miami. It is the third-largest cruise line in the world by passengers, controlling about 8.7% of the total worldwide share of the cruise market by passengers as of 2018. It is wholly owned by parent company Norwegian Cruise Line Holdings.",
+			"score": 0.7015301038112661
+		},
+		{
+			"index": 600,
+			"stock_name": "Royal Caribbean Cruises",
+			"ticker_symbol": "RCL",
+			"sector": "Consumer Services",
+			"industry": "Hotels/Resorts/Cruise lines",
+			"comment": "Royal Caribbean Group, formerly known as Royal Caribbean Cruises Ltd., is an American global cruise holding company incorporated in Liberia and based in Miami, Florida, US. It is the world's second-largest cruise line operator, after Carnival Corporation & plc. As of January 2021, Royal Caribbean Group fully owns three cruise lines: Royal Caribbean International, Celebrity Cruises, and Silversea Cruises. They also hold a 50% stake in TUI Cruises and the now-defunct Pullmantur Cruises and CDF Croisières de France. Previously Royal Caribbean Group also fully owned Azamara Cruises selling the cruise line to Sycamore Partners in January 2021, and 50% of Island Cruises, selling their stake to TUI Travel PLC in October 2008.",
+			"score": 0.6961821714867521
+		},
+		{
+			"index": 137,
+			"stock_name": "Carnival",
+			"ticker_symbol": "CCL",
+			"sector": "Consumer Services",
+			"industry": "Hotels/Resorts/Cruise lines",
+			"comment": "Carnival Corporation & plc is a British-American cruise operator, currently the world's largest travel leisure company, with a combined fleet of over 100 vessels across 10 cruise line brands. A dual-listed company, Carnival is composed of two companies – Panama-incorporated, US-headquartered Carnival Corporation, and UK-based Carnival plc – which function as one entity. Carnival Corporation is listed on the New York Stock Exchange, whereas Carnival plc is listed on the London Stock Exchange, with ADRs representing Carnival plc shares available on the New York Stock Exchange. Carnival is listed in both the S&P 500 and FTSE 250 indices.",
+			"score": 0.6871065192941734
+		},
+		{
+			"index": 635,
+			"stock_name": "Spirit Airlines",
+			"ticker_symbol": "SAVE",
+			"sector": "Transportation",
+			"industry": "Airlines",
+			"comment": "Spirit Airlines, Inc. (stylized as spirit) is an American ultra-low-cost carrier headquartered in Miramar, Florida in the Miami metropolitan area. Spirit operates scheduled flights throughout the United States and in the Caribbean and Latin America.",
+			"score": 0.6767971004117956
+		},
+		{
+			"index": 363,
+			"stock_name": "Hyatt Hotels",
+			"ticker_symbol": "H",
+			"sector": "Consumer Services",
+			"industry": "Hotels/Resorts/Cruise lines",
+			"comment": "Hyatt Hotels Corporation, commonly known as Hyatt Hotels & Resorts, is an American multinational hospitality company headquartered in the Riverside Plaza area of Chicago that manages and franchises luxury and business hotels, resorts, and vacation properties.",
+			"score": 0.6615998399180457
+		},
+		{
+			"index": 446,
+			"stock_name": "Marriott",
+			"ticker_symbol": "MAR",
+			"sector": "Consumer Services",
+			"industry": "Hotels/Resorts/Cruise lines",
+			"comment": "Marriott International, Inc. is an American multinational company that operates, franchises, and licenses lodging including hotel, residential, and timeshare properties. It is headquartered in Bethesda, Maryland. The company was founded by J. Willard Marriott and his wife Alice Marriott; the executive chairman of the company is now their son, Bill Marriott and the Marriott family retains majority ownership of the company. Marriott is the largest hotel chain in the world by the number of available rooms. It has 30 brands with 7,642 properties containing 1,423,044 rooms in 131 countries and territories. Of these 7,642 properties, 2,149 are operated by Marriott, and 5,493 are operated by others pursuant to franchise agreements. The company also operates 20 hotel reservation centers.",
+			"score": 0.651896245036631
+		},
+		{
+			"index": 398,
+			"stock_name": "JetBlue Airways",
+			"ticker_symbol": "JBLU",
+			"sector": "Transportation",
+			"industry": "Airlines",
+			"comment": "JetBlue Airways (stylized as jetBlue) is a major American low cost airline, and the seventh largest airline in North America by passengers carried. JetBlue Airways is headquartered in the Long Island City neighborhood of the New York City borough of Queens; it also maintains corporate offices in Utah and Florida.",
+			"score": 0.6504039193929813
+		}
+	]
+}

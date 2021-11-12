@@ -1,0 +1,114 @@
+{
+	"doc_id": 12,
+	"title": "New Benchmark Leak Reveals Impressive Performance Of Intel's 12900K, 12700K And 12600K Alder Lake Processors",
+	"company": "Intel",
+	"url": "https://www.forbes.com/sites/antonyleather/2021/09/27/new-benchmark-leak-reveals-impressive-performance-of-intels-12900k-12700k-and-12600k-alder-lake-processors/",
+	"ticker_top": [
+		"INTC"
+	],
+	"contents": [
+		"<h3>Why Nvidia Investors Are Nervous Today</h3>",
+		"<p>What happened</p>",
+		"<p>Product shortages are generally bad for business -- unless you're in the business of making the product that's in short supply. It's for this reason that shares of semiconductor manufacturer Nvidia (NASDAQ:NVDA) -- a supplier of chips for everything from playing video games to mining cryptocurrency to performing artificial intelligence tasks -- have benefited so much from the global semiconductor shortage over the past couple of years, more than doubling in 2020 and gaining another 65% so far this year. But all good things must come to an end. As of 11:29 a.m. EDT today, shares were down 2.22%.</p>",
+		"<p>And Elon Musk says this semiconductor shortage will end as well.</p>",
+		"<h6>So what</h6>",
+		"<p>As Reuters reports, the CEO of electric car company Tesla (NASDAQ:TSLA) characterized the shortage that's been strangling production of automobiles this year as \"short term I think,\" when speaking on a panel Friday during Italian Tech Week.</p>",
+		"<p>Chipmakers are building new semiconductor plants, and planning to build even more, to capitalize on the global shortage of computer chips and the high prices that this has spawned. As a result, Musk predicts that \"we will have good capacity for providing chips by next year.\"</p>",
+		"<h6>Now what</h6>",
+		"<p>Precisely when next year this capacity will come on line, and how long it will take for chip production to catch up with backlogged demand, remains an open question. Still, Musk's comments tally with predictions from market intelligence source IDC earlier last week, which forecast \"easing\" of the shortage \"through 4Q21,\" \"normalization and balance by the middle of 2022,\" and even \"a potential for overcapacity in 2023 as larger scale capacity expansions begin to come online toward the end of 2022.\"</p>",
+		"<p>Suffice it to say this is probably why Nvidia investors are nervous today and bidding its stock down. The semiconductors industry has historically been cyclical, characterized by busts as well as booms. If this cycle resumes in 2022, or even 2023, then the gains Nvidia stock has enjoyed over the past two years could prove just as short term as the chip shortage itself.</p>"
+	],
+	"summary": "New Benchmark Leak Reveals Impressive Performance Of Intel's 12900K, 12700K And 12600K Alder Lake Processors. Benchmarks have leaked supposedly revealing the performance of Intel's Core i9-12900K, Core i7-12700K and Core i5-12600K Alder Lake CPUs, courtesy of www.cpu-monkey.com. The new results show both single-threaded and multi-threaded scores in Cinebench R20 and give Intel a clear lead over all of AMD's current mainstream desktop CPUs.",
+	"stock_matches": [
+		{
+			"index": 517,
+			"stock_name": "Nvidia",
+			"ticker_symbol": "NVDA",
+			"sector": "Electronic Technology",
+			"industry": "Semiconductors",
+			"comment": "Nvidia Corporation (/ɛnˈvɪdiə/ en-VID-ee-ə) is an American multinational technology company incorporated in Delaware and based in Santa Clara, California. It designs graphics processing units (GPUs) for the gaming and professional markets, as well as system on a chip units (SoCs) for the mobile computing and automotive market. Its primary GPU line, labeled \"GeForce\", is in direct competition with the GPUs of the \"Radeon\" brand by Advanced Micro Devices (AMD). Nvidia expanded its presence in the gaming industry with its handheld game consoles Shield Portable, Shield Tablet, and Shield Android TV and its cloud gaming service GeForce Now. Its professional line of GPUs are used in workstations for applications in such fields as architecture, engineering and construction, media and entertainmen",
+			"score": 0.7521620778605305
+		},
+		{
+			"index": 11,
+			"stock_name": "Advanced Micro Devices",
+			"ticker_symbol": "AMD",
+			"sector": "Electronic Technology",
+			"industry": "Semiconductors",
+			"comment": "Advanced Micro Devices, Inc. (AMD) is an American multinational semiconductor company based in Santa Clara, California, that develops computer processors and related technologies for business and consumer markets. While it initially manufactured its own processors, the company later outsourced its manufacturing, a practice known as going fabless, after GlobalFoundries was spun off in 2009. AMD's main products include microprocessors, motherboard chipsets, embedded processors and graphics processors for servers, workstations, personal computers and embedded system applications.",
+			"score": 0.7420163694904705
+		},
+		{
+			"index": 610,
+			"stock_name": "Seagate Technology",
+			"ticker_symbol": "STX",
+			"sector": "Electronic Technology",
+			"industry": "Computer Peripherals",
+			"comment": "Seagate Technology Holdings plc, an Irish public limited company (commonly referred to as Seagate), is an American data storage company. It was incorporated in 1978 as Shugart Technology and commenced business in 1979. Since 2010, the company has been incorporated in Dublin, Ireland, with operational headquarters in Fremont, California, United States.",
+			"score": 0.7050080790693973
+		},
+		{
+			"index": 375,
+			"stock_name": "Intel",
+			"ticker_symbol": "INTC",
+			"sector": "Electronic Technology",
+			"industry": "Semiconductors",
+			"comment": "Intel Corporation is an American multinational corporation and technology company headquartered in Santa Clara, California, in Silicon Valley. It is the world's largest semiconductor chip manufacturer by revenue, and is the developer of the x86 series of microprocessors, the processors found in most personal computers (PCs). Incorporated in Delaware, Intel ranked No. 45 in the 2020 Fortune 500 list of the largest United States corporations by total revenue during nearly a decade, from 2007 to 2016 fiscal years.",
+			"score": 0.7019485372564481
+		},
+		{
+			"index": 762,
+			"stock_name": "Xilinx",
+			"ticker_symbol": "XLNX",
+			"sector": "Electronic Technology",
+			"industry": "Semiconductors",
+			"comment": "Xilinx, Inc. (/ˈzaɪlɪŋks/ ZY-links) is an American technology company that is primarily a supplier of programmable logic devices. The company invented the field-programmable gate array (FPGA). It is the semiconductor company that created the first fabless manufacturing model. Co-founded by Ross Freeman, Bernard Vonderschmitt, and James V Barnett II in 1984, the company went public on the NASDAQ in 1989. AMD announced its acquisition of Xilinx in October 2020.",
+			"score": 0.6930071907238591
+		},
+		{
+			"index": 322,
+			"stock_name": "GoPro",
+			"ticker_symbol": "GPRO",
+			"sector": "Consumer Durables",
+			"industry": "Electronics/Appliances",
+			"comment": "GoPro, Inc. (marketed as GoPro and sometimes stylized as GoPRO) is an American technology company founded in 2002 by Nick Woodman. It manufactures action cameras and develops its own mobile apps and video-editing software. Founded as Woodman Labs, Inc, the company eventually focused on the connected sports genre, developing its line of action cameras and, later, video editing software. It is based in San Mateo, California.",
+			"score": 0.6873826562963187
+		},
+		{
+			"index": 66,
+			"stock_name": "Arista Networks",
+			"ticker_symbol": "ANET",
+			"sector": "Electronic Technology",
+			"industry": "Computer Communications",
+			"comment": "Arista Networks (formerly Arastra) is an American computer networking company headquartered in Santa Clara, California. The company designs and sells multilayer network switches to deliver software-defined networking (SDN) solutions for large datacenter, cloud computing, high-performance computing, and high-frequency trading environments. These products include an array of 10/25/40/50/100 Gigabit Ethernet low-latency cut-through switches, including the 7124SX, which remained the fastest switch using SFP+ optics through September 2012, with its sub-500 nanosecond (ns) latency, and the 7500 series, Arista's modular 10G/40G/100Gbit/s switch. Arista's own Linux-based network operating system, Extensible Operating System (EOS), runs on all Arista products.",
+			"score": 0.6861794798983645
+		},
+		{
+			"index": 747,
+			"stock_name": "Western Digital",
+			"ticker_symbol": "WDC",
+			"sector": "Electronic Technology",
+			"industry": "Computer Peripherals",
+			"comment": "Western Digital Corporation (WDC, commonly known as Western Digital or WD) is an American computer hard disk drive manufacturer and data storage company, headquartered in San Jose, California. It designs, manufactures and sells data technology products, including storage devices, data center systems and cloud storage services.",
+			"score": 0.6860310921698826
+		},
+		{
+			"index": 346,
+			"stock_name": "Himax Technologies",
+			"ticker_symbol": "HIMX",
+			"sector": "Electronic Technology",
+			"industry": "Semiconductors",
+			"comment": "Himax Technologies, Inc. (Nasdaq: HIMX) is a leading supplier and fabless semiconductor manufacturer headquartered in Tainan City, Taiwan founded on 12 June 2001. The company is publicly traded and listed on the Nasdaq Stock Market under the symbol HIMX. The Himax Technologies Limited functions as a holding under the Cayman Islands Companies Law.",
+			"score": 0.6786975894995133
+		},
+		{
+			"index": 488,
+			"stock_name": "NetApp",
+			"ticker_symbol": "NTAP",
+			"sector": "Electronic Technology",
+			"industry": "Computer Peripherals",
+			"comment": "NetApp, Inc. is an American hybrid cloud data services and data management company headquartered in Sunnyvale, California. It has ranked in the Fortune 500 since 2012. Founded in 1992 with an IPO in 1995, NetApp offers cloud data services for management of applications and data both online and physically.",
+			"score": 0.6757133284690819
+		}
+	]
+}
