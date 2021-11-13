@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Task One</title>
+        <!-- styles -->
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='bower_components/bootstrap/dist/css/bootstrap.min.css') }}">
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+    </head>
+    <body style>
+        <div class="container-fluid">
+            <div class="row">
+                <div id="left-column" class="col">
+                    <div class="list-group list-group-flush border-bottom overflow-auto vh-100">
+                        {% for article in articles %}
+                            <a href="{{url_for('task_one.get_article', doc_id=article.doc_id)}}" class="list-group-item list-group-item-action py-3 lh-tight article">
+                                <div id="{{article.doc_id}}">  
+                                    <strong>{{article.title}}</strong>
+                                    <p class="summary">{{article.summary}}</p>
+                                    <p>Ratings: {{article.count}}</p>
+                                </div>
+                            </a>
+                        {% endfor %}
+                    </div>
+                </div>
+                <div id="main-area" class="col-7" style="height:100vh">
+                    <div id="article-container" class="h-60">
+                        {% for content_piece in article.contents %}
+                            {{content_piece|safe}}
+                        {% endfor %}
+                    </div>
+                    <div id="stock-matches" class="h-30">
+                        <table class="table table-hover">
+                            <thead>
+                                <tr>
+                                    <th colspan=7>Model results</th>
+                                </tr>
+                                <tr>
+                                    <th scope="col">rank</th>
+                                    {% for key in article.stock_matches[0].keys() if key != "score" %}
+                                        <th scope="col">{{key}}</th>
+                                    {% endfor %}
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {% for stock in article.stock_matches %}
+                                    <tr>
+                                        <th>{{loop.index}}</th>
+                                        {% for key, value in stock.items() if key != "score"%}
+                                            {% if key == "comment" %}
+                                                <td>
+                                                    <span class="comment">{{value}}</span>
+                                                </td>
+                                            {% else %}
+                                                <td>{{value}}</td>
+                                            {% endif %}
+                                        {% endfor %}
+                                    </tr>
+                                {% endfor %}
+                            </tbody>
+                        </table>
+                    </div>
+                    <div id="likert-scale" class="h-10 row">
+                        {# <form style="display:inherit;">
+                            <div class="col vertical-align-middle">
+                                <div>
+                                    <h5 style="padding-top:10px;">Evaluation:</h5>
+                                </div>
+                            </div>
+                            <div class="col-8 row">
+                                <div class="vertical-align-middle">
+                                    <input type="radio" class="btn-check" name="rating" id="rating-1" autocomplete="off">
+                                    <label class="btn btn-outline-primary" for="rating-1">Very Poor</label>
+
+                                    <input type="radio" class="btn-check" name="rating" id="rating-2" autocomplete="off">
+                                    <label class="btn btn-outline-primary" for="rating-2">Poor</label>
+
+                                    <input type="radio" class="btn-check" name="rating" id="rating-3" autocomplete="off">
+                                    <label class="btn btn-outline-primary" for="rating-3">Acceptable</label>
+
+                                    <input type="radio" class="btn-check" name="rating" id="rating-4" autocomplete="off">
+                                    <label class="btn btn-outline-primary" for="rating-4">Good</label>
+
+                                    <input type="radio" class="btn-check" name="rating" id="rating-5" autocomplete="off">
+                                    <label class="btn btn-outline-primary" for="rating-5">Very Good</label>
+                                </div> 
+                            </div>
+                            <div id="submit-component" class="col vertical-align-middle"></div>
+                            <div id="like_button_container"></div>
+                        </form> #}
+                    </div>
+                </div>
+                <div id="right-column" class="col" style="height:100vh">
+                    <div id="article-metadata" class="h-25">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th cope="rows" colspan="2">Article metadata</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {% for key, value in article.items() if key in ["title", "url", "company", "ticker_top"] %}
+                                    <tr>
+                                        <th scope="row">{{key}}</th>
+                                        {% if key == "url" %}
+                                            <td><a href="{{value}}">{{value}}</a></td>
+                                        {% else %}
+                                            <td>{{value}}</td>
+                                        {% endif %}
+                                    </tr>
+                                {% endfor %}
+                            </tbody>
+                        </table>
+                    </div>
+                    <div id="evaluation-instructions">
+                        <h3> Evaluation instructions: Task One </h3>
+                        <p>You are asked to evaluate model performance on a `stock retrieval task` for a given article.</p>
+                        <p>The model produces a list of stocks from a pre-defined list based on their `relatedness` to a given article. </p>
+                        <p>Task One is to evaluate the the validity and coherence of such lists.</p>
+                        <p>The `rank` column of model results reflect the `relatedness` of the company to the article and can be considered when evaluating model results.</p>
+                        <p>You should use the following evaluation criteria in your evaluations as well as fill optional checklist below.</p>
+                        <ul>
+                            <li>Do model results reflect the economy sector discussed in the article?</li>
+                            <li>Do model results reflect the economy industry discussed in the article?</li>
+                            <li>Is the topic company(ies) (if there is one) present in model results?</li>
+                            <li>Are companies (if there are some) that are related to the topic company in some way present in model results?</li>
+                            <li>Personal knowledge on the topic of the article/sector/industry/topic company(ies)/related companies.</li>
+                        </ul>
+                        <h5>Reasons for evaluation (optional):</h5>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="optional-reason-1" id="optional-reason-1">
+                                <label class="form-check-label" for="optional-reason-1">Topic company is/is not present in model results</label>
+                            </div>
+
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="optional-reason-2" id="optional-reason-2">
+                                <label class="form-check-label" for="optional-reason-2">Model results contains companies that are/are not is similar economic sector</label>
+                            </div>
+
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="optional-reason-3" id="optional-reason-3">
+                                <label class="form-check-label" for="optional-reason-3">Model results contains companies that are/are not is similar economic industry</label>
+                            </div>
+
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="optional-reason-4" id="optional-reason-4">
+                                <label class="form-check-label" for="optional-reason-4">Model results contain companies that are/are not related to the topic company</label>
+                            </div>
+
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="optional-reason-5" id="optional-reason-5">
+                                <label class="form-check-label" for="optional-reason-5">Personal knowledge on the topic company and/or on the topic of the article</label>
+                            </div>
+
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="optional-reason-6" id="optional-reason-6">
+                                <label class="form-check-label" for="optional-reason-6">Other reasons</label>
+                            </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="{{ url_for('static', filename='bower_components/react/react.development.js') }}"></script>
+        <script src="{{ url_for('static', filename='bower_components/react/react-dom.development.js') }}"></script>
+        <script>
+            // Scroll to the article in the navigation column
+            document.getElementById("{{ article.doc_id }}").scrollIntoView({behavior: "smooth", block: "start"});
+
+            class EvaluationForm extends React.Component {
+                constructor(props) {
+                    super(props);
+                    this.state = {value: '', optional: null, submitted: false};
+                    this.handleChange = this.handleChange.bind(this)
+                    this.handleSubmit = this.handleSubmit.bind(this)
+                }
+
+                handleChange(event) {
+                    this.setState({value: event.target.value});
+                }
+
+                handleSubmit(event) {
+                    if (this.state.value === '') {
+                        alert('Please select an evaluation rating');
+                        event.preventDefault();
+                    }
+                    else {
+                        var checkboxes = document.getElementsByClassName("form-check-input")
+                        var checkedValues = []
+                        for (var index = 0; index < checkboxes.length; index++) {
+                            if (checkboxes[index].checked == true) {
+                                checkedValues.push(checkboxes[index].value)
+                            }
+                            checkboxes[index].disabled = true;
+                        }
+                        this.setState({submitted: true, optional: checkedValues}, () => {
+                            const requestOptions = {
+                                method: 'POST',
+                                headers: {'Content-Type': 'application/json'},
+                                body: JSON.stringify({ 
+                                    doc_id: "{{ article.doc_id }}",
+                                    value: this.state.value,
+                                    optional_reasons: this.state.optional
+                                })
+                            };
+                            fetch(window.location.href, requestOptions);
+                        })                      
+                        event.preventDefault();
+                    }
+                }
+
+                render() {
+                    var attribs_check = function(radio_id, this_) {
+                        return {
+                            type: "radio", 
+                            className: "btn-check",
+                            name: "rating",
+                            id: radio_id,
+                            value: radio_id,
+                            autoComplete: "off",
+                            disabled: this_.state.submitted
+                        }
+                    }
+                    var attribs_submit = {
+                        type: "submit", 
+                        className: "btn btn-success",
+                        disabled: this.state.submitted, 
+                    }
+                    return React.createElement("div", {className:"col vertical-align-middle"}, 
+                        React.createElement("div", {}, 
+                                React.createElement("h5", {style: {paddingTop: "10px"}}, "Model evaluation:")
+                        ),
+                        React.createElement("div", {className:"col-8 row"}, 
+                            React.createElement("div", {className: "vertical-align-middle", onChange: this.handleChange}, 
+                                React.createElement("input", attribs_check("rating-1", this), null),
+                                React.createElement("label", {className: "btn btn-outline-primary", htmlFor: "rating-1"}, "Very Poor"),
+
+                                React.createElement("input", attribs_check("rating-2", this), null),
+                                React.createElement("label", {className: "btn btn-outline-primary", htmlFor: "rating-2"}, "Poor"),
+
+                                React.createElement("input", attribs_check("rating-3", this), null),
+                                React.createElement("label", {className: "btn btn-outline-primary", htmlFor: "rating-3"}, "Acceptable"),
+
+                                React.createElement("input", attribs_check("rating-4", this), null),
+                                React.createElement("label", {className: "btn btn-outline-primary", htmlFor: "rating-4"}, "Good"),
+
+                                React.createElement("input", attribs_check("rating-5", this), null),
+                                React.createElement("label", {className: "btn btn-outline-primary", htmlFor: "rating-5"}, "Very Good")
+
+                            )
+                        ),
+                        React.createElement("form", {style: {display:"inherit"}, onSubmit: this.handleSubmit},
+                            React.createElement("div", {className:"col vertical-align-middle", onSubmit: this.handleSubmit},
+                                React.createElement("button", attribs_submit, this.state.submitted ? "Submitted" : "Submit")
+                            )
+                        )
+                    )
+                }
+            }
+
+            const domContainer = document.querySelector('#likert-scale');
+            ReactDOM.render(React.createElement(EvaluationForm), domContainer);
+        </script>
+    </body>
+</html>

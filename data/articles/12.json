@@ -7,16 +7,19 @@
 		"INTC"
 	],
 	"contents": [
-		"<h3>Why Nvidia Investors Are Nervous Today</h3>",
-		"<p>What happened</p>",
-		"<p>Product shortages are generally bad for business -- unless you're in the business of making the product that's in short supply. It's for this reason that shares of semiconductor manufacturer Nvidia (NASDAQ:NVDA) -- a supplier of chips for everything from playing video games to mining cryptocurrency to performing artificial intelligence tasks -- have benefited so much from the global semiconductor shortage over the past couple of years, more than doubling in 2020 and gaining another 65% so far this year. But all good things must come to an end. As of 11:29 a.m. EDT today, shares were down 2.22%.</p>",
-		"<p>And Elon Musk says this semiconductor shortage will end as well.</p>",
-		"<h6>So what</h6>",
-		"<p>As Reuters reports, the CEO of electric car company Tesla (NASDAQ:TSLA) characterized the shortage that's been strangling production of automobiles this year as \"short term I think,\" when speaking on a panel Friday during Italian Tech Week.</p>",
-		"<p>Chipmakers are building new semiconductor plants, and planning to build even more, to capitalize on the global shortage of computer chips and the high prices that this has spawned. As a result, Musk predicts that \"we will have good capacity for providing chips by next year.\"</p>",
-		"<h6>Now what</h6>",
-		"<p>Precisely when next year this capacity will come on line, and how long it will take for chip production to catch up with backlogged demand, remains an open question. Still, Musk's comments tally with predictions from market intelligence source IDC earlier last week, which forecast \"easing\" of the shortage \"through 4Q21,\" \"normalization and balance by the middle of 2022,\" and even \"a potential for overcapacity in 2023 as larger scale capacity expansions begin to come online toward the end of 2022.\"</p>",
-		"<p>Suffice it to say this is probably why Nvidia investors are nervous today and bidding its stock down. The semiconductors industry has historically been cyclical, characterized by busts as well as booms. If this cycle resumes in 2022, or even 2023, then the gains Nvidia stock has enjoyed over the past two years could prove just as short term as the chip shortage itself.</p>"
+		"<h3>New Benchmark Leak Reveals Impressive Performance Of Intel's 12900K, 12700K And 12600K Alder Lake Processors</h3>",
+		"<p>Benchmarks have leaked supposedly revealing the performance of Intel's Core i9-12900K, Core i7-12700K and Core i5-12600K Alder Lake CPUs, courtesy of www.cpu-monkey.com.</p>",
+		"<p>The new results show both single-threaded and multi-threaded scores in Cinebench R20 and give Intel a clear lead over all of AMD's current mainstream desktop CPUs.</p>",
+		"<p>Below you can see my own recent benchmark results from my reviews of Intel's 111th Gen CPUs such as the Core i9-11900K in Cinebench R20 along with the leaked results for the Core i5-12600K, Core i7-12700K and Core i9-12900K Alder Lake CPUs.</p>",
+		"<p>[Figure detailing a few of Intel CPUs specifications]</p>",
+		"<p>[Figure detailing Intel CPUs and competing CPUs performances on Cinebench R20 Single-threaded benchmark]</p>",
+		"<p>The Core i9-12900K's result of 817 in the single-threaded testis miles ahead of AMD's Ryzen 9 5950X - it's best result, and the latter is even bettered by the Core i5-12600K, which scored 750. Admittedly, single-threaded performance isn't an indicator of general performance, but we can see just how much faster the new CPUs are compared to both AMD and Intel's current models on a single-threaded basis.</p>",
+		"<p>[Figure detailing Intel CPUs and competing CPUs performances on Cinebench R20 Multi-threaded benchmark]</p>",
+		"<p>The multi-threaded test showed that only an overclocked 16-core Ryzen 9 5950X was able to beat the stock speed Intel Core i9-12900K, with the Intel CPU offering a sizable lead at stock speed. The Core i7-12700K was also snapping at the heels of the AMD 16-core CPU, despite a four-core deficit.</p>",
+		"<p>Speaking of cores, it's worth remembering that Intel will be using hybrid cores with its Alder Lake CPUs. Each CPU will comprise big or 'performance' cores as well as smaller 'efficient' cores.</p>",
+		"<p>The former are hyper-threaded, but the latter are not. For example, the Core i9-12900K will have two threads for each of its eight performance cores (16 threads) but only one thread for each of its efficient cores. This means that despite being a 16-core CPU like AMD's Ryzen 9 5950X, it only has 24 threads instead of 32.</p>",
+		"<p>However, as we can see above, if these benchmarks are to be believed, the thread deficit doesn't mean much as the CPU is gaining a lot of ground thanks to its new architecture as well as performance enhancements such as Thread Director, that will mean its Alder Lake CPUs will run faster on Windows 11.</p>",
+		"<p>I'll be reviewing the new CPUs when they're released so follow me here on Forbes for the latest PC hardware news and reviews and don't forget to check me out on YouTube, Instagram and Facebook as well.</p>"
 	],
 	"summary": "New Benchmark Leak Reveals Impressive Performance Of Intel's 12900K, 12700K And 12600K Alder Lake Processors. Benchmarks have leaked supposedly revealing the performance of Intel's Core i9-12900K, Core i7-12700K and Core i5-12600K Alder Lake CPUs, courtesy of www.cpu-monkey.com. The new results show both single-threaded and multi-threaded scores in Cinebench R20 and give Intel a clear lead over all of AMD's current mainstream desktop CPUs.",
 	"stock_matches": [

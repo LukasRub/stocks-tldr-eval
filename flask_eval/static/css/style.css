@@ -1,7 +1,9 @@
 #left-column, 
 #right-column {
     min-width: 460px;
+    max-width: 550px;
 }
+
 
 .summary {
     overflow-y: auto;
@@ -10,6 +12,10 @@
 
 .comment {
     max-height: 150px;
+}
+
+h3 {
+    margin-top: 15px;
 }
 
 .h-60 {

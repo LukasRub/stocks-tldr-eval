@@ -1,0 +1,38 @@
+{
+	"doc_id": "oos_4",
+	"title": "Student loans: Expert explains what the government can do as pandemic pause ends",
+	"url": "https://finance.yahoo.com/news/student-loans-expert-government-pandemic-pause-171204756.html",
+	"type": "out of sample",
+	"contents": [
+		"<h3>Student loans: Expert explains what the government can do as pandemic pause ends</h3>",
+		"<p>Student loan repayments are expected to restart at the end of January next year.</p>",
+		"<p>But with one in five borrowers defaulting on their debt pre-pandemic, the government should tread carefully with at-risk borrowers, according to one expert.</p>",
+		"<p>\"For people who struggle to repay afterwards for various reasons... we need to continue to have sort of what I think of as off-ramps — ways for those people to move out of repayments so that they aren't permanently stuck in debt that they'll never be able to repay,\" Kevin Miller, associate director of higher education at the Bipartisan Policy Center, said on Yahoo Finance Live (video above).</p>",
+		"<p>Outstanding student loan debt currently stands at $1.58 trillion as of the third quarter, which is a $14 billion rise from the previous ,according to the New York Fed.</p>",
+		"<p>About 5.3% of student loans were in serious delinquency or default, but since the government is reporting all federal students as on-time until January 31, 2022, the number is lower than pre-pandemic levels.</p>",
+		"<p>Overall, the growth of student loans over the past decade has been historic: Federal student loans have grown from $642 billion in 2007 to $1.566 trillion in 2020 — a 144% increase, according to new report on the topic from the Bipartisan Policy Center (BPC).</p>",
+		"<p>The number of borrowers, however, has only increased by 52% over the same period. That's because students are borrowing more: Between 2007 and 2020, the average amount of federal student loan debt per borrower has increased from $22,680 to $36,510 in real terms, the BPC report stated.</p>",
+		"<p>\"Ultimately, that's going to be the responsibility of the federal government, because the federal government holds these debts,\" Miller said, adding that defaults lead to \"billions of dollars that are not flowing back into the federal government where they're supposed to be.\"</p>",
+		"<p>Miller estimated that the federal government could be accruing \"maybe $50 billion a year\" in costs due to uncollectible debt.</p>",
+		"<p>'People end up with permanent debt'</p>",
+		"<p>Milled noted that the Education Department (ED), which owns the vast majority of student loans, could do \"a more active job\" of getting people into income-driven repayment (IDR) plans and avoid mass defaults.</p>",
+		"<p>\"Those are plans where if you have a really low income, your repayment rate per month can be as low as zero dollars,\" he explained. \"So at that point, you won't default on the loan.\"</p>",
+		"<p>ED has many types of IDR plans made available for federal borrowers as explained on its website, and the government may be considering a new plan in the coming months.</p>",
+		"<p>But given how much effort is required to get rid of student loans, such as through bankruptcy or forgiveness, \"people end up with permanent debt,\" Miller said. \"What we want is a system that, first, discourages that from happening in the first place.\"</p>",
+		"<p>Ultimately, the taxpayer is on the hook when a borrower can't repay their student loan debt.</p>",
+		"<p>\"Unpayable student debt is essentially going to be on the federal government's balance sheet... the federal government, the taxpayer, ends up bearing that cost,\" Miller said. \"And so one of the things we need to think about really broadly as a society is how we finance college. Are we letting people access college in a way that is affordable?... the reality right now is that for most people, the answer is, no.\"</p>",
+		"<p>So, he added, as the Biden administration considers reforms to the student loan machinery, \"we need to think about building a system that's fair to borrowers, but also is going to rein in some of these costs over the long term.\"</p>"
+	],
+	"summary": "But with one in five borrowers defaulting on their debt pre-pandemic, the government should tread carefully with at-risk borrowers, according to one expert. Student loan repayments are expected to restart at the end of January next year. Student loans: Expert explains what the government can do as pandemic pause ends",
+	"stock_matches": [
+		{
+			"index": 485,
+			"stock_name": "Navient Corporation",
+			"ticker_symbol": "NAVI",
+			"sector": "Finance",
+			"industry": "Finance/Rental/Leasing",
+			"comment": "Navient is a U.S. corporation based in Wilmington, Delaware, whose operations include servicing and collecting student loans. Managing nearly $300 billion in student loans for more than 12 million debtors, the company was formed in 2014 by the split of Sallie Mae into two distinct entities: Sallie Mae Bank and Navient. Navient employs 6,000 individuals at offices across the U.S. As of 2018, Navient services 25% of student loans in the United States.",
+			"score": 0.6906398757691323
+		}
+	]
+}

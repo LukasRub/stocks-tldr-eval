@@ -1,0 +1,71 @@
+{
+	"doc_id": "oos_0",
+	"title": "Bezos’ Blue Origin loses NASA lawsuit over SpaceX $2.9 billion lunar lander contract",
+	"url": "https://www.cnbc.com/2021/11/04/bezos-blue-origin-loses-lawsuit-against-nasa-over-spacex-lunar-lander.html",
+	"type": "out of sample",
+	"contents": [
+		"<h3>Bezos’ Blue Origin loses NASA lawsuit over SpaceX $2.9 billion lunar lander contract</h3>",
+		"<p>KEY POINTS</p>",
+		"<p>1. The U.S. Court of Federal Claims ruled against Jeff Bezos’ Blue Origin in the company’s lawsuit against NASA over a $2.9 billion lunar lander contract awarded to SpaceX.</p>",
+		"<p>2. Federal judge Richard Hertling sided with the defense in his ruling, completing a months-long battle.</p>",
+		"<p>3. A Blue Origin spokesperson said in a statement that the company’s lawsuit “highlighted the important safety issues with the Human Landing System procurement process that must still be addressed.”</p>",
+		"<p>4. Musk, in a tweet replying to CNBC’s report on the ruling, posted a photo from the 2012 movie “Dredd.”</p>",
+		"<p>The U.S. Court of Federal Claims ruled against Jeff Bezos’ Blue Origin on Thursday in the company’s lawsuit versus NASA over a lucrative astronaut lunar lander contract awarded to Elon Musk’s SpaceX earlier this year.</p>",
+		"<p>Federal Judge Richard Hertling sided with the defense in his ruling, completing a monthslong battle after Blue Origin sued NASA in August.</p>",
+		"<p>NASA said in a statement that work with SpaceX will resume “as soon as possible” now that the ruling has been issued.</p>",
+		"<p>“There will be forthcoming opportunities for companies to partner with NASA in establishing a long-term human presence at the Moon under the agency’s Artemis program,” the agency added.</p>",
+		"<p>A Blue Origin spokesperson said in a statement to CNBC that the company’s lawsuit “highlighted the important safety issues with the Human Landing System procurement process that must still be addressed.”</p>",
+		"<p>“Returning astronauts safely to the Moon through NASA’s public-private partnership model requires an unprejudiced procurement process alongside sound policy that incorporates redundant systems and promotes competition. Blue Origin remains deeply committed to the success of the Artemis program,” the company said.</p>",
+		"<p>Bezos personally added in a tweet that the ruling was “not the decision we wanted,” but noted that “we respect the court’s judgment” – implying that his company will not appeal the decision further.</p>",
+		"<p>SpaceX did not respond to a request for comment on the ruling.</p>",
+		"<p>Musk, in a tweet replying to CNBC’s report on the ruling, posted a photo from the 2012 movie “Dredd.”</p>",
+		"<p>NASA in April awarded SpaceX with the sole contract for the agency’s Human Landing System program under a competitive process. Worth $2.9 billion, the SpaceX contract will see the company use its Starship rocket to deliver astronauts to the moon’s surface for NASA’s upcoming Artemis missions.</p>",
+		"<p>SpaceX was competing with Blue Origin and Dynetics for what was expected to be two contracts, before NASA only awarded a single contract due to a lower-than-expected allocation for the program from Congress.</p>",
+		"<p>Blue Origin quickly protested the decision with the U.S. Government Accountability Office, but the GAO in late July denied the company’s appeal – leading Bezos’ space company to escalate its legal action. Bezos is also the founder of e-commerce giant Amazon.</p>",
+		"<p>A redacted version of Blue Origin’s lawsuit revealed the company’s complaint focused on proving that NASA wrongly awarded the contract to only SpaceX and “disregarded key flight safety requirements” in the process.</p>",
+		"<p>Hertling’s ruling dismissed Blue Origin’s claims. The court’s opinion is currently sealed, as the case contains information proprietary to the companies, but the parties were ordered by Hertling to deliver proposed redactions by Nov. 18, to publicly release the opinion.</p>",
+		"<p>NASA’s work with SpaceX on the HLS contract was halted during the lawsuit but is scheduled to resume Monday.</p>",
+		"<p>The court’s decision, a blow to Blue Origin’s ambitions, comes at a mixed time of success and scrutiny for the company.</p>",
+		"<p>Bezos has personally increased his involvement at Blue Origin, after he stepped down as the CEO of Amazon. While the company has flown two successful crewed flights of its suborbital New Shepard rocket to date, Blue Origin has suffered from soaring employee turnover and allegations of safety issues, as well as a “toxic” work culture, by former workers.</p>",
+		"<p>But Blue Origin has continued to work toward achieving Bezos’ vision for the company, which is “millions of people are living and working in space to benefit Earth,” especially by moving “industries that stress Earth into space.” Last month Blue Origin announced a private space station called Orbital Reef in partnership with a consortium of space companies, with aims to deploy it in orbit later this decade.</p>"
+	],
+	"summary": "Bezos’ Blue Origin loses NASA lawsuit over SpaceX $2.9 billion lunar lander contract. KEY POINTS. 2. Federal judge Richard Hertling sided with the defense in his ruling, completing a months-long battle.",
+	"stock_matches": [
+		{
+			"index": 731,
+			"stock_name": "Virgin Galactic",
+			"ticker_symbol": "SPCE",
+			"sector": "Electronic Technology",
+			"industry": "Aerospace & Defense",
+			"comment": "Virgin Galactic (VG) is an American spaceflight company founded by Richard Branson and his British Virgin Group retains an 18% stake through Virgin Investments Limited. It is headquartered in California, USA, and operates from New Mexico. The company is developing commercial spacecraft and aims to provide suborbital spaceflights to space tourists. Virgin Galactic's suborbital spacecraft are air launched from beneath a carrier airplane known as White Knight Two. Virgin Galactic‘s maiden spaceflight occurred in 2018 with its VSS Unity spaceship. Branson had originally hoped to see a maiden spaceflight by 2010, but the date was delayed for several years, primarily due to the October 2014 crash of VSS Enterprise.",
+			"score": 0.7157517413857688
+		},
+		{
+			"index": 434,
+			"stock_name": "Lockheed Martin",
+			"ticker_symbol": "LMT",
+			"sector": "Electronic Technology",
+			"industry": "Aerospace & Defense",
+			"comment": "Lockheed Martin Corporation is an American aerospace, arms, defense, information security, and technology company with worldwide interests. It was formed by the merger of Lockheed Corporation with Martin Marietta in March 1995. It is headquartered in North Bethesda, Maryland, in the Washington, D.C., area. Lockheed Martin employs approximately 110,000 people worldwide as of January 2020. Half of the company’s annual sales are to the U.S. Department of Defense. Lockheed Martin is also a contractor for the U.S. Department of Energy and the National Aeronautics and Space Administration (NASA).",
+			"score": 0.6958408002763261
+		},
+		{
+			"index": 621,
+			"stock_name": "Slack",
+			"ticker_symbol": "WORK",
+			"sector": "Technology Services",
+			"industry": "Packaged Software",
+			"comment": "Slack Technologies, Inc. is an American international software company founded in 2009 in Vancouver, British Columbia. Its core team is largely drawn from the founders of Ludicorp, the company that created Flickr. Outside its headquarters in San Francisco, California, Slack operates offices in Dublin, Vancouver, New York City, Toronto, Denver, London, Tokyo, Pune, Paris, and Melbourne.",
+			"score": 0.6825970250889075
+		},
+		{
+			"index": 417,
+			"stock_name": "Kratos",
+			"ticker_symbol": "KTOS",
+			"sector": "Electronic Technology",
+			"industry": "Aerospace & Defense",
+			"comment": "Kratos Defense & Security Solutions, Inc, (Nasdaq: KTOS), headquartered in San Diego, California, specializes in directed-energy weapons, unmanned systems, satellite communications, cyber security/warfare, microwave electronics, missile defense, training and combat systems. Customers include the U.S. federal government, foreign governments, commercial enterprises and state and local government agencies. Kratos is organized into six major divisions: Defense and Rocket Support Services, Microwaves Electronics, Modular Systems, Public Safety and Security, Technology and Training, and Unmanned Systems.",
+			"score": 0.6783961745290613
+		}
+	]
+}

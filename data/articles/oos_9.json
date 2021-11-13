@@ -1,0 +1,135 @@
+{
+	"doc_id": "oos_9",
+	"title": "The privacy paradox: we claim we care about our data, so why don’t our actions match?",
+	"url": "https://theconversation.com/the-privacy-paradox-we-claim-we-care-about-our-data-so-why-dont-our-actions-match-143354",
+	"type": "out of sample",
+	"contents": [
+		"<h3>The privacy paradox: we claim we care about our data, so why don’t our actions match?</h3>",
+		"<p>Imagine how you’d feel if you discovered footage from your private home security camera had been broadcast over the internet. This is exactly what happened to several unsuspecting Australians last month, when the website Insecam streamed their personal lives online.</p>",
+		"<p>According to an ABC report, Insecam broadcasts live streams of dozens of Australian businesses and homes at any given time. Some cameras can be accessed because owners don’t secure them. Some may be hacked into despite being “secured”.</p>",
+		"<p>When asked if they care about their personal information being shared online, most people say they do. A 2017 survey found 69% of Australians were more concerned about their online privacy than in 2012.</p>",
+		"<p>However, a much smaller percentage of people actually take the necessary actions to preserve their privacy. This is referred to as the “privacy paradox”, a concept first studied about two decades ago.</p>",
+		"<p>To investigate this phenomenon further, we conducted a research project and found that, despite being concerned about privacy, participants were willing to sacrifice some of it in exchange for the convenience afforded by an internet-connected device.</p>",
+		"<h6>Unpacking the privacy paradox</h6>",
+		"<p>Any “smart” device connected to the internet is called an Internet of Things (IoT) device. These can be remotely monitored and controlled by the owners.</p>",
+		"<p>The projected growth of IoT devices is staggering. By 2025, they’re expected to reach 75.44 billion – an increase of 146% from 2020.</p>",
+		"<p>Are device owners genuinely concerned about their privacy? Recent worldwide anxiety about personal information shared through COVID-19 tracing apps seems to suggest so.</p>",
+		"<p>But as the privacy paradox highlights, users expressing privacy concerns often fail to act in accordance with them. They freely divulge personal information in exchange for services and convenience.</p>",
+		"<p>Explanations for the privacy paradox abound. Some suggest:</p>",
+		"<p>1. people find it difficult to associate a specific value to their privacy and therefore, the value of protecting it</p>",
+		"<p>2. people do not consider their personal information to be their own and thus might not appreciate the need to secure it</p>",
+		"<p>3. people completely lack awareness of their right to privacy or privacy issues and believe their desired goals (such as a personalised experience) outweigh the potential risks (such as big tech companies using their data for profiling).</p>",
+		"<p>4. The likely explanation for the privacy paradox is a mix of all these factors.</p>",
+		"<h6>What if we proved your device harvests data?</h6>",
+		"<p>To understand whether and how the privacy paradox applies to IoT devices, we conducted an experiment involving 46 Saudi Arabian participants. This is because in Saudi Arabia the use of IoT is exploding and the country does not have strong privacy regulations.</p>",
+		"<p>We gave participants a smart plug that let them switch a table lamp on or off using an app on their smartphone. We then showed them the device’s privacy policy and measured participants’ privacy concerns and trust in the device.</p>",
+		"<p>None of the participants read the privacy policy. They simply agreed to commence with the study.</p>",
+		"<p>After two hours, we presented evidence of how much of their data the IoT-connected plug was harvesting, then remeasured their privacy concerns and trust.</p>",
+		"<p>After the participants saw evidence of privacy violation, their privacy concerns increased and trust in the device decreased. However their behaviour did not align with their concern, as shown by the fact that:</p>",
+		"<p>1. 15 participants continued to use the device regardless</p>",
+		"<p>2. 13 continued to use it with their personal information removed</p>",
+		"<p>only three opted to block all outbound traffic to unusual IP addresses.</p>",
+		"<p>3. The rest preferred “light-touch” responses, such as complaining on social media, complaining to the device’s manufacturer or falsifying their shared information.</p>",
+		"<p>After one month, we measured participants’ attitudes a third time and discovered their privacy concerns and trust in the device had reverted to pre-experiment levels.</p>",
+		"<h6>How to prevent complacency</h6>",
+		"<p>Two decades since the first privacy paradox studies were conducted and despite a great deal of research, there is still a mismatch between people’s stated privacy concerns and their protective behaviours. How can we improve this?</p>",
+		"<p>The first step is to simply be aware our judgement of IoT device risks and benefits may not be accurate. With that in mind, we should always take time to read the privacy policies of our devices.</p>",
+		"<p>Besides informing us of the risks, reading privacy policies can help us stop and think before connecting a new device to the internet. Ask yourself: “is this really going to benefit me?”</p>",
+		"<p>As citizen surveillance increases, it’s not wise to mindlessly scroll through privacy policies, tick a box and move on.</p>",
+		"<p>Second, we should not assume our personal information is trivial and would not interest anyone. Time after time we have witnessed how our digital traces can be valuable to malicious individuals or large corporations.</p>",
+		"<p>And finally, always change the default password on any new IoT device to a stronger one. Write down this password and secure it, perhaps with other physical valuables, so you don’t have to worry about forgetting it.</p>"
+	],
+	"summary": "The privacy paradox: we claim we care about our data, so why don’t our actions match?. When asked if they care about their personal information being shared online, most people say they do. A 2017 survey found 69% of Australians were more concerned about their online privacy than in 2012. Imagine how you’d feel if you discovered footage from your private home security camera had been broadcast over the internet. This is exactly what happened to several unsuspecting Australians last month, when the website Insecam streamed their personal lives online.",
+	"stock_matches": [
+		{
+			"index": 153,
+			"stock_name": "Check Point Software Technologies",
+			"ticker_symbol": "CHKP",
+			"sector": "Technology Services",
+			"industry": "Internet Software/Services",
+			"comment": "Check Point is an American-Israeli multinational provider of software and combined hardware and software products for IT security, including network security, endpoint security, cloud security, mobile security, data security and security management.",
+			"score": 0.6759263287789492
+		},
+		{
+			"index": 572,
+			"stock_name": "Qualcomm",
+			"ticker_symbol": "QCOM",
+			"sector": "Electronic Technology",
+			"industry": "Telecommunications Equipment",
+			"comment": "Qualcomm (/ˈkwɒlkɒm/) is an American multinational corporation headquartered in San Diego, California, and incorporated in Delaware. It creates semiconductors, software, and services related to wireless technology. It owns patents critical to the 5G, 4G, CDMA2000, TD-SCDMA and WCDMA mobile communications standards. Over the years, Qualcomm has expanded into selling semiconductor products in a predominantly fabless manufacturing model. It also developed semiconductor components or software for vehicles, watches, laptops, wi-fi, smartphones, and other devices.",
+			"score": 0.6649657395566185
+		},
+		{
+			"index": 488,
+			"stock_name": "NetApp",
+			"ticker_symbol": "NTAP",
+			"sector": "Electronic Technology",
+			"industry": "Computer Peripherals",
+			"comment": "NetApp, Inc. is an American hybrid cloud data services and data management company headquartered in Sunnyvale, California. It has ranked in the Fortune 500 since 2012. Founded in 1992 with an IPO in 1995, NetApp offers cloud data services for management of applications and data both online and physically.",
+			"score": 0.660757372892603
+		},
+		{
+			"index": 777,
+			"stock_name": "Zoom",
+			"ticker_symbol": "ZM",
+			"sector": "Technology Services",
+			"industry": "Packaged Software",
+			"comment": "Zoom Video Communications, Inc. (stylized as zoom or simply Zoom) is an American communications technology company headquartered in San Jose, California. It provides videotelephony and online chat services through a cloud-based peer-to-peer software platform and is used for teleconferencing, telecommuting, distance education, and social relations.",
+			"score": 0.6607557179615976
+		},
+		{
+			"index": 454,
+			"stock_name": "McAfee Corp",
+			"ticker_symbol": "MCFE",
+			"sector": "Technology Services",
+			"industry": "Packaged Software",
+			"comment": "McAfee Corp. (/ˈmækəfiː/; formerly known as McAfee Associates, Inc. from 1987 to 1997 and 2004 to 2014, Network Associates Inc. from 1997 to 2004, and Intel Security Group from 2014 to 2017) is an American global computer security software company headquartered in San Jose, CA. The company was purchased by Intel in February 2011, and became part of the Intel Security division.",
+			"score": 0.6592375584078213
+		},
+		{
+			"index": 747,
+			"stock_name": "Western Digital",
+			"ticker_symbol": "WDC",
+			"sector": "Electronic Technology",
+			"industry": "Computer Peripherals",
+			"comment": "Western Digital Corporation (WDC, commonly known as Western Digital or WD) is an American computer hard disk drive manufacturer and data storage company, headquartered in San Jose, California. It designs, manufactures and sells data technology products, including storage devices, data center systems and cloud storage services.",
+			"score": 0.6567302844825071
+		},
+		{
+			"index": 733,
+			"stock_name": "VMware",
+			"ticker_symbol": "VMW",
+			"sector": "Technology Services",
+			"industry": "Information Technology Services",
+			"comment": "VMware, Inc. is an American cloud computing and virtualization technology company headquartered in California. VMware was the first commercially successful company to virtualize the x86 architecture. VMware's desktop software runs on Microsoft Windows, Linux, and macOS, while its enterprise software hypervisor for servers, VMware ESXi, is a bare-metal hypervisor that runs directly on server hardware without requiring an additional underlying operating system.",
+			"score": 0.6541051572894632
+		},
+		{
+			"index": 538,
+			"stock_name": "Palo Alto Networks",
+			"ticker_symbol": "PANW",
+			"sector": "Electronic Technology",
+			"industry": "Computer Communications",
+			"comment": "Palo Alto Networks, Inc. (NYSE: PANW) is an American multinational cybersecurity company with headquarters in Santa Clara, California. Its core products are a platform that includes advanced firewalls and cloud-based offerings that extend those firewalls to cover other aspects of security. The company serves over 70,000 organizations in over 150 countries, including 85 of the Fortune 100. It is home to the Unit 42 threat research team and hosts the Ignite cybersecurity conference.",
+			"score": 0.6519284596953104
+		},
+		{
+			"index": 554,
+			"stock_name": "Pinterest",
+			"ticker_symbol": "PINS",
+			"sector": "Technology Services",
+			"industry": "Internet Software/Services",
+			"comment": "Pinterest is an American image sharing and social media service designed to enable saving and discovery of information (specifically \"ideas\") on the internet using images and, on a smaller scale, animated GIFs and videos, in the form of pinboards. The site was created by Ben Silbermann, Paul Sciarra, and Evan Sharp and had over 478 million global monthly active users as of March 2021. It is operated by Pinterest, Inc., based in San Francisco.",
+			"score": 0.6491264366549233
+		},
+		{
+			"index": 763,
+			"stock_name": "Xpeng",
+			"ticker_symbol": "XPEV",
+			"sector": "Consumer Durables",
+			"industry": "Motor Vehicles",
+			"comment": "Xpeng or Xiaopeng Motors (Chinese: 小鹏汽车), also known as XMotors.ai, is a Chinese electric vehicle manufacturer. The company is headquartered in Guangzhou, with offices in Mountain View, California in the US and is publicly traded on the New York Stock Exchange.",
+			"score": 0.6473734670668705
+		}
+	]
+}

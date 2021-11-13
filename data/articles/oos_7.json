@@ -1,0 +1,67 @@
+{
+	"doc_id": "oos_7",
+	"title": "Human space traveler No. 600 is launched into orbit",
+	"url": "https://www.npr.org/2021/11/10/1054575533/spacex-launch",
+	"type": "out of sample",
+	"contents": [
+		"<h3>Human space traveler No. 600 is launched into orbit</h3>",
+		"<p>CAPE CANAVERAL, Fla. — A SpaceX rocket carried four astronauts toward orbit Wednesday night, including the 600th person to reach space in 60 years.</p>",
+		"<p>The repeatedly delayed flight occurred just two days after SpaceX brought four other astronauts home from the International Space Station. They should have been up there to welcome the newcomers, but NASA and SpaceX decided to switch the order based on Monday's ideal recovery weather in the Gulf of Mexico.</p>",
+		"<p>Germany's Matthias Maurer claimed the No. 600 position, according to NASA, based on his mission assignment. He and his three NASA crewmates should arrive at the space station in under 24 hours, well over a week late.</p>",
+		"<p>One of the astronauts — NASA isn't saying which one — was sidelined last week by an undisclosed medical issue. The crew member is fully recovered, according to NASA. Officials won't say whether it was an illness or injury, but noted it wasn't COVID-19.</p>",
+		"<p>Bad weather also contributed to their flight delays.</p>",
+		"<p>Wednesday's night it was drizzling when the four astronauts said goodbye to their families, with umbrellas held over them. Forecasters promised the weather would improve and it did.</p>",
+		"<p>The list of 600 travelers ranges from those who have barely scratched space — like actor William Shatner last month — to U.S. and Russian astronauts who have spent a year or more in orbit. This year's surge in space tourists helped push the tally over the 600 mark.</p>",
+		"<p>That averages out to 10 people per year since Yuri Gagarin's pioneering flight in 1961, Maurer noted.</p>",
+		"<p>\"But I think in a very few years, we will see an exponential rise of that one because now we're entering the era of commercial spaceflight,\" he said after arriving at NASA's Kennedy Space Center two weeks ago.</p>",
+		"<p>The crew launch marked SpaceX's fourth for NASA in 1 1/2 years and the company's fifth passenger flight overall — a charter flight for four that skipped the space station. The Dragon capsule's toilet leaked during their three days in orbit in September, necessitating a quick redesign of the flushing system in the newest capsule, named Endurance by its crew.</p>",
+		"<p>A balky parachute during Monday's descent had SpaceX engineers poring over the data, before giving the go-ahead for Wednesday's launch. One of the four chutes opened more than a minute late, a problem seen in testing and well within safety limits, SpaceX officials said Tuesday.</p>",
+		"<p>Mauer is one of three newbies on the crew. The 51-year-old was a finalist when he first applied to be an astronaut with the European Space Agency. Encouraged, he left his research job at a medical company and joined the space agency as an engineer, and made the astronaut cut in 2015.</p>",
+		"<p>Also on board:</p>",
+		"<p>— Air Force Col. Raja Chari, 44, the first space rookie in decades to lead a mission to orbit for NASA. A test pilot from Cedar Falls, Iowa, Chari accumulated more than 2,500 hours in fighter jets, including combat missions in Iraq.</p>",
+		"<p>— Dr. Thomas Marshburn, 61, will be the oldest person to live aboard the space station and perform a spacewalk. Born in Statesville, North Carolina, he pursued a career in emergency medicine, then joined NASA in 1994 as a flight surgeon. This is his third trip to the space station.</p>",
+		"<p>— Kayla Barron, 34, a Navy lieutenant commander from Richland, Washington. She was among the first women to serve as submarine warfare officers. Added to the flight in May, she's No. 601 in space.</p>",
+		"<p>During their six-month station stay, they will welcome two groups of tourists. A Russian film crew recently spent two weeks at the station, making a movie.</p>",
+		"<p>The new crew will be joining three station residents — two Russians and NASA's Mark Vande Hei, who celebrated his 55th birthday on Wednesday.</p>",
+		"<p>\"NASA and @SpaceX are lighting a big candle in the sky for you tonight,\" NASA tweeted before the launch.</p>"
+	],
+	"summary": "Human space traveler No. 600 is launched into orbit. CAPE CANAVERAL, Fla. — A SpaceX rocket carried four astronauts toward orbit Wednesday night, including the 600th person to reach space in 60 years. The repeatedly delayed flight occurred just two days after SpaceX brought four other astronauts home from the International Space Station. They should have been up there to welcome the newcomers, but NASA and SpaceX decided to switch the order based on Monday's ideal recovery weather in the Gulf of Mexico.",
+	"stock_matches": [
+		{
+			"index": 731,
+			"stock_name": "Virgin Galactic",
+			"ticker_symbol": "SPCE",
+			"sector": "Electronic Technology",
+			"industry": "Aerospace & Defense",
+			"comment": "Virgin Galactic (VG) is an American spaceflight company founded by Richard Branson and his British Virgin Group retains an 18% stake through Virgin Investments Limited. It is headquartered in California, USA, and operates from New Mexico. The company is developing commercial spacecraft and aims to provide suborbital spaceflights to space tourists. Virgin Galactic's suborbital spacecraft are air launched from beneath a carrier airplane known as White Knight Two. Virgin Galactic‘s maiden spaceflight occurred in 2018 with its VSS Unity spaceship. Branson had originally hoped to see a maiden spaceflight by 2010, but the date was delayed for several years, primarily due to the October 2014 crash of VSS Enterprise.",
+			"score": 0.6829875402253336
+		},
+		{
+			"index": 507,
+			"stock_name": "Northrop Grumman",
+			"ticker_symbol": "NOC",
+			"sector": "Electronic Technology",
+			"industry": "Aerospace & Defense",
+			"comment": "Northrop Grumman Corporation (NYSE: NOC) is an American multinational aerospace and defense technology company. With 90,000 employees and an annual revenue in excess of $30 billion, it is one of the world's largest weapons manufacturers and military technology providers. The firm ranks No. 96 on the 2020 Fortune 500 list of America's largest corporations. Northrop Grumman and its industry partners have won the Collier Trophy eight times, most recently for developing the X-47B, the first unmanned, autonomous air system to operate from an aircraft carrier.",
+			"score": 0.6426169747360254
+		},
+		{
+			"index": 434,
+			"stock_name": "Lockheed Martin",
+			"ticker_symbol": "LMT",
+			"sector": "Electronic Technology",
+			"industry": "Aerospace & Defense",
+			"comment": "Lockheed Martin Corporation is an American aerospace, arms, defense, information security, and technology company with worldwide interests. It was formed by the merger of Lockheed Corporation with Martin Marietta in March 1995. It is headquartered in North Bethesda, Maryland, in the Washington, D.C., area. Lockheed Martin employs approximately 110,000 people worldwide as of January 2020. Half of the company’s annual sales are to the U.S. Department of Defense. Lockheed Martin is also a contractor for the U.S. Department of Energy and the National Aeronautics and Space Administration (NASA).",
+			"score": 0.642215727391374
+		},
+		{
+			"index": 339,
+			"stock_name": "Heico",
+			"ticker_symbol": "HEI",
+			"sector": "Electronic Technology",
+			"industry": "Aerospace & Defense",
+			"comment": "HEICO Corporation is an aerospace and electronics company that focuses on niche markets. HEICO’s products are found in aircraft, spacecraft, defense equipment, medical equipment, and telecommunications systems. HEICO's Flight Support Group is the world's largest independent provider of FAA-approved aircraft replacement parts; a significant provider of aircraft accessories component repair & overhaul services for avionic, electro-mechanical, flight surface, hydraulic and pneumatic applications; Commercial and Military aircraft parts distribution; and a manufacturer of other aircraft parts.",
+			"score": 0.6358391975997778
+		}
+	]
+}

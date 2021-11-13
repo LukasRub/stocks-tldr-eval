@@ -1,0 +1,119 @@
+{
+	"doc_id": "oos_1",
+	"title": "Oil recovers from U.S. inflation-driven plunge",
+	"url": "https://www.reuters.com/business/energy/oil-prices-steady-after-falling-signs-us-may-release-more-reserves-2021-11-11/",
+	"type": "out of sample",
+	"contents": [
+		"<h3>Oil recovers from U.S. inflation-driven plunge</h3>",
+		"<p>Summary</p>",
+		"<p>1. OPEC lowers oil demand forecast for end of 2021</p>",
+		"<p>2. Biden administration could order oil reserves release</p>",
+		"<p>3. Brent looks to be consolidating below $85 a barrel -analyst</p>",
+		"<p>LONDON, Nov 11 (Reuters) - Oil prices rose above $83 a barrel in volatile trading on Thursday, recovering from sharp falls triggered by concerns over increasing U.S. inflation as OPEC cut its 2021 oil demand forecast due to high energy prices.</p>",
+		"<p>Brent crude futures rose 63 cents, or 0.76%, to $83.27 a barrel by 1443 GMT after falling earlier to $81.66. U.S. West Texas Intermediate (WTI) futures were up 63 cents, or 0.77%, at $81.97 after hitting a session low of $80.20.</p>",
+		"<p>The Organization of the Petroleum Exporting Countries (OPEC) said in a monthly report it expects oil demand to average 99.49 million barrels per day (bpd) in the fourth quarter of 2021, down 330,000 bpd from last month's forecast. read more</p>",
+		"<p>\"A slowdown in the pace of recovery in the fourth quarter of 2021 is now assumed due to elevated energy prices,\" OPEC said in the report, also citing slower-than-expected demand in China and India for the downward revision.</p>",
+		"<p>OPEC sees world consumption surpassing the 100 million bpd mark in the third quarter of 2022, three months later than forecast last month.</p>",
+		"<p>On Wednesday, data showed U.S. inflation increased by 6.2%, the fastest rate in 30 years, driven largely by steeper energy prices, pushing the dollar higher and sending Brent and WTI crude down by 2.5% and 3.3% respectively. read more</p>",
+		"<p>A rise in U.S. oil stocks after a government release of some strategic reserves put further pressure on prices.</p>",
+		"<p>In response to the rising inflation, U.S. President Joe Biden said he asked the National Economic Council to work to reduce energy costs and the Federal Trade Commission to push back on market manipulation in the energy sector to reverse inflation.</p>",
+		"<p>\"Crude prices are trying to find their footing after yesterday's slide as runaway inflation in America is adding pressure on the Biden administration to tap the Strategic Petroleum Reserve (SPR),\" said Edward Moya, senior analyst at OANDA.</p>",
+		"<p>\"Energy traders know that an SPR release will only deliver a very short-term drop in prices that won't provide much relief for the American consumer.\"</p>",
+		"<p>The Brent crude price has gained more than 60% this year and hit a three-year high of $86.70 on Oct. 25, supported by recovering demand and supply restraint by OPEC and its allies, together known as OPEC+.</p>",
+		"<p>But oil prices appear to be consolidating below $85 a barrel, Norbert Rucker, head of economics at Julius Baer, said in a note.</p>",
+		"<p>\"We could be looking at early signs of a fundamental transition towards an easing market, not least as oil demand should only grow gradually going forward with the pick-up in U.S. shale and petro-nation supply.\"</p>"
+	],
+	"summary": "Summary. 2. Biden administration could order oil reserves release. Oil recovers from U.S. inflation-driven plunge",
+	"stock_matches": [
+		{
+			"index": 147,
+			"stock_name": "CenterPoint Energy",
+			"ticker_symbol": "CNP",
+			"sector": "Utilities",
+			"industry": "Electric Utilities",
+			"comment": "CenterPoint Energy, Inc. is an American Fortune 500 electric and natural gas utility serving several markets in the American states of Arkansas, Indiana, Louisiana, Minnesota, Mississippi, Oklahoma, and Texas. It was formerly known as Reliant Energy (from which it is now separated), NorAm Energy, Houston Industries, and HL&P. The company is headquartered in the CenterPoint Energy Tower at 1111 Louisiana Street in Downtown Houston. Some of its notable subscribers include Retail Electric Providers (REPs), such as NRG Energy, Champion Energy, , Dynowatt, Ambit Energy, Texas Power, , MXenergy, Direct Energy, Stream Energy, , Gexa Energy, , and .",
+			"score": 0.6650882196039795
+		},
+		{
+			"index": 690,
+			"stock_name": "Tradeweb Markets",
+			"ticker_symbol": "TW",
+			"sector": "Technology Services",
+			"industry": "Internet Software/Services",
+			"comment": "Tradeweb Markets Inc. (Tradeweb) is an international financial services company that builds and operates electronic over-the-counter (OTC) marketplaces for trading fixed income products, ETFs, and derivatives. The company was co-founded in 1996 by Lee Olesky and Jim Toffey. Its customers include banks, asset managers, central banks, pension funds and insurance companies. It is known for having used technology to move the bond-trading market towards greater efficiency and transparency for institutions that trade fixed income and derivatives products.",
+			"score": 0.6634379897957043
+		},
+		{
+			"index": 175,
+			"stock_name": "CME Group (Class A)",
+			"ticker_symbol": "CME",
+			"sector": "Finance",
+			"industry": "Investment Banks/Brokers",
+			"comment": "CME Group Inc. (Chicago Mercantile Exchange, Chicago Board of Trade, New York Mercantile Exchange, The Commodity Exchange) is an American global markets company. It is the world's largest financial derivatives exchange, and trades in asset classes that include agricultural products, currencies, energy, interest rates, metals, stock indexes and cryptocurrencies futures. The company offers futures contracts and options on futures using its CME Globex trading platforms, fixed income trading via BrokerTec and foreign exchange trading on the EBS platform. In addition, it operates a central counterparty clearing provider, CME Clearing. With a range of pre- and post-trade products and services underpinning the entire lifecycle of a trade, CME Group also offers optimization and reconciliation serv",
+			"score": 0.6603884917058818
+		},
+		{
+			"index": 342,
+			"stock_name": "Hess Corporation",
+			"ticker_symbol": "HES",
+			"sector": "Energy Minerals",
+			"industry": "Oil & Gas Production",
+			"comment": "Hess Corporation (formerly Amerada Hess Corporation) is an American global independent energy company involved in the exploration and production of crude oil and natural gas. It was formed by the merger of Hess Oil and Chemical and Amerada Petroleum in 1968. Leon Hess served as CEO from the early 1960s through 1995, after which his son John B Hess succeeded him as chairman and CEO. Headquartered in New York City, the company ranked 394th in the 2016 annual ranking of Fortune 500 corporations. In 2020, Forbes Global 2000 ranked Hess as the 1,253rd largest public company in the world.",
+			"score": 0.6543073923943469
+		},
+		{
+			"index": 503,
+			"stock_name": "Nomura",
+			"ticker_symbol": "NMR",
+			"sector": "Finance",
+			"industry": "Investment Banks/Brokers",
+			"comment": "Nomura Holdings, Inc. (野村ホールディングス株式会社, Nomura hōrudingusu kabushiki gaisha) is a Japanese financial holding company and a principal member of the Nomura Group. It, along with its broker-dealer, banking and other financial services subsidiaries, provides investment, financing and related services to individual, institutional, and government customers on a global basis with an emphasis on securities businesses.",
+			"score": 0.6490570919144893
+		},
+		{
+			"index": 444,
+			"stock_name": "Marathon Petroleum",
+			"ticker_symbol": "MPC",
+			"sector": "Energy Minerals",
+			"industry": "Oil Refining/Marketing",
+			"comment": "Marathon Petroleum Corporation is an American petroleum refining, marketing, and transportation company headquartered in Findlay, Ohio. The company was a wholly owned subsidiary of Marathon Oil until a corporate spin-off in 2011.",
+			"score": 0.6469486360822457
+		},
+		{
+			"index": 54,
+			"stock_name": "Antero Resources Corporation",
+			"ticker_symbol": "AR",
+			"sector": "Energy Minerals",
+			"industry": "Oil & Gas Production",
+			"comment": "Antero Resources Corporation is a company engaged in hydrocarbon exploration. It is organized in Delaware and headquartered in Denver, Colorado. The company's reserves are entirely in the Appalachian Basin (92% were in the Marcellus Shale and 8% were in the Utica Shale) and are extracted using hydraulic fracturing. As of December 31, 2020, the company had 17,635 billion cubic feet (499 billion cubic meters) of estimated proved reserves, of which 61% was natural gas, 21% was ethane, 17% was natural gas liquids, and 1% was petroleum. The company is ranked 608th on the Fortune 500.",
+			"score": 0.6459637467555944
+		},
+		{
+			"index": 483,
+			"stock_name": "National Oilwell Varco",
+			"ticker_symbol": "NOV",
+			"sector": "Industrial Services",
+			"industry": "Oilfield Services/Equipment",
+			"comment": "NOV Inc. is an American multinational corporation based in Houston, Texas. It is a leading worldwide provider of equipment and components used in oil and gas drilling and production operations, oilfield services, and supply chain integration services to the upstream oil and gas industry. The company conducts operations in more than 600 locations across six continents, operating through three reporting segments: Rig Technologies, Wellbore Technologies, and Completion & Production Solutions.",
+			"score": 0.6454151179885494
+		},
+		{
+			"index": 413,
+			"stock_name": "KKR & Co",
+			"ticker_symbol": "KKR",
+			"sector": "Finance",
+			"industry": "Investment Managers",
+			"comment": "KKR & Co. Inc. (formerly known as Kohlberg Kravis Roberts & Co. and KKR & Co. L.P.) is an American global investment company that manages multiple alternative asset classes, including private equity, energy, infrastructure, real estate, credit, and, through its strategic partners, hedge funds. The firm has completed more than 280 private equity investments in portfolio companies with approximately $545 billion of total enterprise value as of June 30, 2017. As of September 30, 2017, Assets Under Management (\"AUM\") and Fee Paying Assets Under Management (\"FPAUM\") were $153 billion and $114 billion, respectively.",
+			"score": 0.6445909152391599
+		},
+		{
+			"index": 766,
+			"stock_name": "YPF",
+			"ticker_symbol": "YPF",
+			"sector": "Energy Minerals",
+			"industry": "Integrated Oil",
+			"comment": "YPF S.A. (Yacimientos Petrolíferos Fiscales; English: \"Fiscal Oilfields\") is a vertically integrated Argentine energy company, engaged in oil and gas exploration and production, and the transportation, refining, and marketing of gas and petroleum products. In the 2020 Forbes Global 2000, YPF was ranked as the 1360th -largest public company in the world. Founded in 1922 under President Hipólito Yrigoyen's administration, YPF was the first oil company established as a state enterprise outside of the Soviet Union, and the first state oil company to become vertically integrated.",
+			"score": 0.6444592033066561
+		}
+	]
+}

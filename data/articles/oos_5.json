@@ -1,0 +1,120 @@
+{
+	"doc_id": "oos_5",
+	"title": "COVID-19: What you need to know about the coronavirus pandemic on 10 November",
+	"url": "https://www.weforum.org/agenda/2021/11/covid-19-coronavirus-pandemic-news-10-november-2021/",
+	"type": "out of sample",
+	"contents": [
+		"<h3>COVID-19: What you need to know about the coronavirus pandemic on 10 November</h3>",
+		"<p>1. How COVID-19 is affecting the globe</p>",
+		"<p>Confirmed cases of COVID-19 have passed 250.9 million globally, according to Johns Hopkins University. The number of confirmed deaths has now passed 5.06 million. More than 7.34 billion vaccination doses have been administered globally, according to Our World in Data.</p>",
+		"<p>The United States government is set to buy another $1 billion worth of the COVID-19 pill made by Merck and its partner Ridgeback Biotherapeutics, the companies announced yesterday.</p>",
+		"<p>AstraZeneca is creating a separate division for vaccines and antibody therapies, the drugmaker said on Tuesday, to focus on its COVID-19 shot and the development of coronavirus treatments.</p>",
+		"<p>Moderna has applied for European authorization of its COVID-19 vaccine in children aged 6-11 years, weeks after it delayed a similar filing in the United States.</p>",
+		"<p>Guinea will begin vaccinating children aged 12-17 against COVID-19 with a consignment of Pfizer and Moderna vaccines on Wednesday, the health ministry said. Most African countries have been reliant on the COVAX vaccine sharing initiative for doses, and have inoculated only a small fraction of their populations.</p>",
+		"<p>Canada has authorized a booster dose of the Pfizer/BioNTech COVID-19 vaccine for people aged 18 and above.</p>",
+		"<p>Vietnam will by the end of this month have sufficient vaccines to cover its population against COVID-19, a deputy prime minister said on Wednesday.</p>",
+		"<p>Russian authorities have said that last week's nationwide workplace shutdowns have helped turn the tide of surging COVID-19 cases, but the country reported its largest one-day death toll of the pandemic so far on Tuesday.</p>",
+		"<p>A group of hospitals in the southern Dutch province of Limburg on Tuesday called for the government to take new measures to stem rising COVID-19 cases, saying they have no space or staff to handle more coronavirus patients.</p>",
+		"<p>2. WHO warns of syringe shortage</p>",
+		"<p>The World Health Organization is warning of a syringe shortage next year, which could impact not just COVID-19 vaccinations, but also routine immunisations and undermine needle safety.</p>",
+		"<p>The WHO said the shortage could run to between one and two billion. National health authorities should plan their needs well in advance to avoid the \"hoarding, panic buying and type of situation\" seen early in the pandemic with the lack of personal protective equipment, WHO expert Lisa Hedman said.</p>",
+		"<p>\"We could have a global shortage of immunisation syringes that could in turn lead to serious problems such as slowing down immunisation efforts as well as safety concerns,\" she told a U.N. briefing.</p>",
+		"<p>3. Health workers in England to be required to get COVID-19 vaccine</p>",
+		"<p>Health workers in England will be required to get a COVID-19 vaccine by 1 April, health minister Sajid Javid announced yesterday. He made it a mandatory condition of employment for those on the frontline of the National Health Service.</p>",
+		"<p>Javid said he had to balance the benefit to patients and colleagues with concern that workers might decide to leave their jobs rather than get the shots. He said workplace pressures were one reason the measure would not come in until the spring.</p>",
+		"<p>\"All those working in the NHS and social care will have to be vaccinated. We must avoid preventable harm and protect patients in the NHS, protect colleagues in the NHS and of course protect the NHS itself,\" Javid told parliament. \"We intend the enforcement of this condition to start on the 1st of April.\"</p>"
+	],
+	"summary": "The United States government is set to buy another $1 billion worth of the COVID-19 pill made by Merck and its partner Ridgeback Biotherapeutics, the companies announced yesterday. COVID-19: What you need to know about the coronavirus pandemic on 10 November. Confirmed cases of COVID-19 have passed 250.9 million globally, according to Johns Hopkins University. The number of confirmed deaths has now passed 5.06 million. More than 7.34 billion vaccination doses have been administered globally, according to Our World in Data.",
+	"stock_matches": [
+		{
+			"index": 103,
+			"stock_name": "BioNTech SE",
+			"ticker_symbol": "BNTX",
+			"sector": "Health Technology",
+			"industry": "Biotechnology",
+			"comment": "BioNTech SE (/ˌbaɪ.ɒnˈtɛk/ BYE-on-TEK or /ˌbiː.ɒnˈtɛk/ BEE-on-TEK; short for Biopharmaceutical New Technologies) is a German biotechnology company based in Mainz that develops and manufactures active immunotherapies for patient-specific approaches to the treatment of diseases. It develops pharmaceutical candidates based on messenger ribonucleic acid (mRNA) for use as individualized cancer immunotherapies, as vaccines against infectious diseases and as protein replacement therapies for rare diseases, and also engineered cell therapy, novel antibodies and small molecule immunomodulators as treatment options for cancer.",
+			"score": 0.678363652541268
+		},
+		{
+			"index": 511,
+			"stock_name": "Novavax",
+			"ticker_symbol": "NVAX",
+			"sector": "Health Technology",
+			"industry": "Biotechnology",
+			"comment": "Novavax, Inc., is an American biotechnology company based in Gaithersburg, Maryland that develops vaccines to counter serious infectious diseases. Prior to 2020, company scientists developed experimental vaccines for Ebola, influenza, respiratory syncytial virus (RSV), and other emerging infectious diseases. During 2020, the company redirected its efforts to focus on development and approval of its vaccine for COVID-19. Novavax has indicated it recognizes a continued need for innovative vaccines in other therapeutic areas and reports it has taken steps to ensure continued advancement of its influenza vaccine.",
+			"score": 0.6667494937801159
+		},
+		{
+			"index": 316,
+			"stock_name": "GlaxoSmithKline plc",
+			"ticker_symbol": "GSK",
+			"sector": "Health Technology",
+			"industry": "Pharmaceuticals: Major",
+			"comment": "GlaxoSmithKline plc (GSK) is a British multinational pharmaceutical company headquartered in London, England. Established in 2000 by a merger of Glaxo Wellcome and SmithKline Beecham, GSK was the world's sixth largest pharmaceutical company according to Forbes as of 2019, after Pfizer, Novartis, Roche, Sanofi, and Merck & Co. GSK is the tenth largest pharmaceutical company and #296 on the 2019 Fortune 500, ranked behind other pharmaceutical companies including China Resources, Johnson & Johnson, Roche, Sinopharm, Pfizer, Novartis, Bayer, Merck, and Sanofi.",
+			"score": 0.6627045690261522
+		},
+		{
+			"index": 677,
+			"stock_name": "Teva Pharmaceutical Industries",
+			"ticker_symbol": "TEVA",
+			"sector": "Health Technology",
+			"industry": "Pharmaceuticals: Generic",
+			"comment": "Teva Pharmaceutical Industries Ltd., also known as Teva Pharmaceuticals, is an Israeli-American multinational pharmaceutical company with headquarters in Petah Tikva, Israel and Parsippany, New Jersey, United States. It specializes primarily in generic drugs, but other business interests include active pharmaceutical ingredients and, to a lesser extent, proprietary pharmaceuticals. In 2020, Teva Pharmaceuticals was the second largest generic drug manufacturer and the eighteenth largest pharmaceutical company in the world.",
+			"score": 0.6515448139618826
+		},
+		{
+			"index": 606,
+			"stock_name": "Sanofi",
+			"ticker_symbol": "SNY",
+			"sector": "Health Technology",
+			"industry": "Pharmaceuticals: Major",
+			"comment": "Sanofi S.A. is a French multinational pharmaceutical company headquartered in Paris, France, as of 2013 the world's fifth-largest by prescription sales. Originally, the company was established in 1973 and merged with Synthélabo in 1999 to form Sanofi-Synthélabo. In 2004, Sanofi-Synthélabo merged with Aventis and renamed to Sanofi-Aventis, which were each the product of several previous mergers. It changed its name back to Sanofi in May 2011. The company is a component of the Euro Stoxx 50 stock market index.",
+			"score": 0.6483334635376181
+		},
+		{
+			"index": 246,
+			"stock_name": "DXC Technology",
+			"ticker_symbol": "DXC",
+			"sector": "Technology Services",
+			"industry": "Data Processing Services",
+			"comment": "DXC Technology is an American multinational corporation that provides business-to-business information technology services.",
+			"score": 0.6480683973926246
+		},
+		{
+			"index": 70,
+			"stock_name": "AstraZeneca PLC",
+			"ticker_symbol": "AZN",
+			"sector": "Health Technology",
+			"industry": "Pharmaceuticals: Major",
+			"comment": "AstraZeneca plc (/ˌæstrəˈzɛnəkə/) is a British-Swedish multinational pharmaceutical and biotechnology company with its headquarters at the Cambridge Biomedical Campus in Cambridge, England. It has a portfolio of products for major diseases in areas including oncology, cardiovascular, gastrointestinal, infection, neuroscience, respiratory, and inflammation. It is perhaps best known for its involvement in developing the Oxford-AstraZeneca COVID-19 vaccine.",
+			"score": 0.6478554392498018
+		},
+		{
+			"index": 5,
+			"stock_name": "AbbVie",
+			"ticker_symbol": "ABBV",
+			"sector": "Health Technology",
+			"industry": "Pharmaceuticals: Major",
+			"comment": "AbbVie is an American publicly traded biopharmaceutical company founded in 2013. It originated as a spin-off of Abbott Laboratories.",
+			"score": 0.6468047636087412
+		},
+		{
+			"index": 65,
+			"stock_name": "Arcturus Therapeutics Holdings Inc",
+			"ticker_symbol": "ARCT",
+			"sector": "Health Technology",
+			"industry": "Pharmaceuticals: Major",
+			"comment": "Arcturus Therapeutics is an American RNA medicines biotechnology company focused on the discovery, development and commercialization of therapeutics for rare diseases and infectious diseases. Arcturus has developed a novel, potent, and safe RNA therapeutics platform called LUNAR, a proprietary lipid-enabled delivery system for nucleic acid medicines including small interfering RNA (siRNA), messenger RNA (mRNA), gene editing RNA, DNA, antisense oligonucleotides (ASO), and microRNA.",
+			"score": 0.6379965184272144
+		},
+		{
+			"index": 470,
+			"stock_name": "Moderna",
+			"ticker_symbol": "MRNA",
+			"sector": "Health Technology",
+			"industry": "Biotechnology",
+			"comment": "Moderna, Inc (/məˈdɜːrnə/ mə-DUR-nə) is an American pharmaceutical and biotechnology company based in Cambridge, Massachusetts. It focuses on vaccine technologies based on messenger RNA (mRNA). Moderna's vaccine platform inserts synthetic nucleoside-modified messenger RNA (modRNA) into human cells using a coating of lipid nanoparticles. This mRNA then reprograms the cells to prompt immune responses. Moderna develops mRNA therapeutic vaccines that are delivered in lipid nanoparticles, using mRNA with pseudouridine nucleosides. Candidates are designed to have improved folding and translation efficiency via insertional mutagenesis.",
+			"score": 0.6366916242427519
+		}
+	]
+}
