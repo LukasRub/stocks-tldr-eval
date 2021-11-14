@@ -47,7 +47,7 @@
                                         <th>{{loop.index}}</th>
                                         {% for key, value in stock.items() if key != "score"%}
                                             {% if key == "comment" %}
-                                                <td>
+                                                <td style="min-width: 40px">
                                                     <span class="comment">{{value}}</span>
                                                 </td>
                                             {% else %}
@@ -111,12 +111,12 @@
                             </tbody>
                         </table>
                     </div>
-                    <div id="evaluation-instructions">
+                    <div id="evaluation-instructions" class="h-75">
                         <h3> Evaluation instructions: Task One </h3>
-                        <p>You are asked to evaluate model performance on a `stock retrieval task` for a given article.</p>
-                        <p>The model produces a list of stocks from a pre-defined list based on their `relatedness` to a given article. </p>
-                        <p>Task One is to evaluate the the validity and coherence of such lists.</p>
-                        <p>The `rank` column of model results reflect the `relatedness` of the company to the article and can be considered when evaluating model results.</p>
+                        <p>You are asked to evaluate model performance on a `stock retrieval task` for a given article.
+                        <p>The model produces a list of stocks from a pre-defined list based on their `relatedness` to a given article.
+                        <p>Task One is to evaluate the the validity and coherence of such lists.
+                        <p>The `rank` column of model results reflect the `relatedness` of the company to the article and can be considered when evaluating model results.
                         <p>You should use the following evaluation criteria in your evaluations as well as fill optional checklist below.</p>
                         <ul>
                             <li>Do model results reflect the economy sector discussed in the article?</li>

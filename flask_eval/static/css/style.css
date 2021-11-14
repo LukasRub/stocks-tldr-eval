@@ -1,13 +1,17 @@
 #left-column, 
 #right-column {
-    min-width: 460px;
-    max-width: 550px;
+    /* min-width: 476px; */
+    max-width: 476px;
 }
 
+#evaluation-instructions {
+    overflow-y:scroll;
+    padding: 10pxz;
+}
 
 .summary {
     overflow-y: auto;
-    max-height: 200px;
+    max-height: 175px;
 }
 
 .comment {
