@@ -1,0 +1,6 @@
+**/__pycache__/
+node_modules
+bower_components
+test
+tests
+workspace.code-workspace
