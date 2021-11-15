@@ -151,8 +151,8 @@
                 </div>
             </div>
         </div>
-        <script src="{{ url_for('static', filename='bower_components/react/react.development.js') }}"></script>
-        <script src="{{ url_for('static', filename='bower_components/react/react-dom.development.js') }}"></script>
+        <script src="https://unpkg.com/react@16.7.0/umd/react.production.min.js"></script>
+        <script src="https://unpkg.com/react-dom@16.7.0/umd/react-dom.production.min.js"></script>
         <script>
             // Scroll to the article in the navigation column
             document.getElementById("{{ stock.ticker_symbol }}").scrollIntoView({behavior: "smooth", block: "start"});
