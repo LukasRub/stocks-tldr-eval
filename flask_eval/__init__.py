@@ -23,12 +23,13 @@ def create_app(test_config=None):
     except OSError:
         pass
 
-    article_dir = "data/articles"
-
     from . import db
     db.init_app(app)
 
     from . import task_one
     app.register_blueprint(task_one.bp)
+
+    from . import task_two
+    app.register_blueprint(task_two.bp)
 
     return app
