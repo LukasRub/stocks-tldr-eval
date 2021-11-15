@@ -36,7 +36,7 @@ def create_app(test_config=None):
 
     @app.route("/")
     def index():
-        return redirect("/task-one")
+        return "Nice"
 
 
     return app
