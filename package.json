@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "",
-  "scripts": {
-    "postinstall": "./node_modules/bower/bin/bower install"
-  },
+  "scripts": {},
   "engines": {
     "node": "16.x"
   },
