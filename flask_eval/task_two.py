@@ -5,7 +5,7 @@ from flask import (Blueprint, flash, g, request, render_template,
                    abort, Markup, redirect, url_for, jsonify, current_app)
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy import func
-from .models import StockEval
+from .models import StockEval, db
 
 
 STOCKS_PATH = "data/stocks/stocks.json"
