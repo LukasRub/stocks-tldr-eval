@@ -42,7 +42,7 @@ def key(path):
         return int(stem)
 
 
-def fetching_eval_counts(db):
+def fetching_eval_counts():
     with app.app_context():
         evaluations = (ArticleEval
                         .query
@@ -68,8 +68,8 @@ def get_article(article_dir=str(ARTICLE_DIR), doc_id=None):
         articles_dict[str(article["doc_id"])] = article
 
     # Fetching rating counts
-    db = SQLAlchemy(current_app)
-    for (doc_id_, count) in fetching_eval_counts(db):
+    # db = SQLAlchemy(current_app)
+    for (doc_id_, count) in fetching_eval_counts():
         articles_dict[doc_id_]["count"] = count
     articles_list = sorted(articles_dict.values(), key=lambda x: x["count"])
 
