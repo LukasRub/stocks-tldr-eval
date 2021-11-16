@@ -31,6 +31,8 @@ def create_app(test_config=None):
     except OSError:
         pass
 
+    db = SQLAlchemy(app)
+
     from . import task_one
     app.register_blueprint(task_one.bp)
 

@@ -102,7 +102,7 @@ def get_article(article_dir=str(ARTICLE_DIR), doc_id=None):
                 db.session.commit()
 
             # Fetching rating counts
-            for (doc_id_, count) in fetching_eval_counts(db):
+            for (doc_id_, count) in fetching_eval_counts():
                 articles_dict[doc_id_]["count"] = count
             articles_list = sorted(articles_dict.values(), key=lambda x: x["count"])  
 
