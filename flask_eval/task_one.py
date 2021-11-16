@@ -5,7 +5,7 @@ from flask import (Blueprint, flash, g, request, render_template,
                    abort, Markup, redirect, url_for, jsonify, current_app)
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy import func
-from .models import ArticleEval
+from .models import ArticleEval, db
 
 
 ARTICLE_DIR = "data/articles"
@@ -16,7 +16,7 @@ VALID_OPTIONAL = ["optional-reason-1", "optional-reason-2", "optional-reason-3",
 
 bp = Blueprint('task_one', __name__, url_prefix='/task-one')
 app = current_app
-
+db = SQLAlchemy()
 
 
 def get_article_path(paths, doc_id):

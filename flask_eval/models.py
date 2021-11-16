@@ -5,7 +5,7 @@ from flask.cli import with_appcontext
 
 
 app = Flask(__name__)
-db = SQLAlchemy(app)
+db = SQLAlchemy()
 
 
 class ArticleEval(db.Model):
