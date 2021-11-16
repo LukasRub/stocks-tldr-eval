@@ -30,7 +30,7 @@ def create_app(test_config=None):
     except OSError:
         pass
 
-    from models import db
+    from .models import db
     db.init_app(app)
 
     from . import task_one
