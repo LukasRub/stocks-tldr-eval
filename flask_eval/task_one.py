@@ -16,7 +16,6 @@ VALID_OPTIONAL = ["optional-reason-1", "optional-reason-2", "optional-reason-3",
 
 bp = Blueprint('task_one', __name__, url_prefix='/task-one')
 app = current_app
-db = SQLAlchemy()
 
 
 def get_article_path(paths, doc_id):
