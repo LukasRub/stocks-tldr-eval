@@ -14,12 +14,7 @@ class ArticleEval(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     doc_id = db.Column(db.String())
     rating = db.Column(db.String())
-    optional_reason = db.Column(db.String())
-
-    # def __init__(self, doc_id, rating, optional_reason):
-    #     self.doc_id = doc_id
-    #     self.rating = rating
-    #     self.optional_reason = optional_reason
+    optional_reasons = db.Column(db.String())
 
     def __repr__(self):
         return ("<Article_rating(id='{}', doc_id='{}', rating='{}')>"
@@ -32,12 +27,7 @@ class StockEval(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     ticker_symbol = db.Column(db.String())
     rating = db.Column(db.String())
-    optional_reason = db.Column(db.String())
-
-    # def __init__(self, ticker_symbol, rating, optional_reason):
-    #     self.ticker_symbol = doc_id
-    #     self.rating = rating
-    #     self.optional_reason = optional_reason
+    optional_reasons = db.Column(db.String())
 
     def __repr__(self):
         return ("<Stock_rating(id='{}', ticker_symbol='{}', rating='{}')>"
@@ -45,5 +35,7 @@ class StockEval(db.Model):
 
 
 if __name__ == "__main__":
-    app.config["SQLALCHEMY_DATABASE_URI"] = "postgresql://postgres:postgres@localhost:5432/evaluations"
+    app = Flask(__name__)
+    db = SQLAlchemy(app)
+    app.config["SQLALCHEMY_DATABASE_URI"] = "postgres://wiruisxmoktlwj:3d4337c024090a3677e6fa43571b041c6d9cd978a3d1d4c43878871534fd9ebe@ec2-54-195-246-55.eu-west-1.compute.amazonaws.com:5432/d3hs5t3ohu0s0g"
     db.create_all()
