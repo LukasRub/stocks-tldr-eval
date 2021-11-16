@@ -51,7 +51,7 @@ def get_stock(stocks_file=Path(STOCKS_PATH), ticker_symbol=None):
         stock["count"] = 0
 
     # Fetching rating counts
-    for (ticker_symbol_, count) in fetching_eval_counts(db):
+    for (ticker_symbol_, count) in fetching_eval_counts():
         stocks_dict[ticker_symbol_]["count"] = count
     stocks_list = sorted(stocks_dict.values(), key=lambda x: x["count"])
 
@@ -78,7 +78,7 @@ def get_stock(stocks_file=Path(STOCKS_PATH), ticker_symbol=None):
                 db.session.commit()
             
             # Fetching rating counts
-            for (ticker_symbol_, count) in fetching_eval_counts(db):
+            for (ticker_symbol_, count) in fetching_eval_counts():
                 stocks_dict[ticker_symbol_]["count"] = count
             stocks_list = sorted(stocks_dict.values(), key=lambda x: x["count"])
 
