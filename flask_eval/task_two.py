@@ -27,7 +27,7 @@ def read_json_file(path, keys=None):
                     if k in keys}
 
 
-def fetching_eval_counts(db):
+def fetching_eval_counts():
     with app.app_context():
         evaluations = (StockEval
                         .query
@@ -51,7 +51,6 @@ def get_stock(stocks_file=Path(STOCKS_PATH), ticker_symbol=None):
         stock["count"] = 0
 
     # Fetching rating counts
-    db = SQLAlchemy(current_app)
     for (ticker_symbol_, count) in fetching_eval_counts(db):
         stocks_dict[ticker_symbol_]["count"] = count
     stocks_list = sorted(stocks_dict.values(), key=lambda x: x["count"])
