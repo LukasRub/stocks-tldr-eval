@@ -2,6 +2,7 @@ import os
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 
+db = SQLAlchemy()
 
 def create_app(test_config=None):
     # create and configure the app
@@ -31,7 +32,7 @@ def create_app(test_config=None):
     except OSError:
         pass
 
-    db = SQLAlchemy(app)
+    db.init_app(app)
 
     from . import task_one
     app.register_blueprint(task_one.bp)
