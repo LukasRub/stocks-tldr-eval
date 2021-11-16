@@ -23,6 +23,7 @@ def create_app(test_config=None):
     uri = os.getenv("DATABASE_URL")
     if uri.startswith("postgres://"):
         uri = uri.replace("postgres://", "postgresql://", 1)
+    app.config["SQLALCHEMY_DATABASE_URI"] = uri
 
     # ensure the instance folder exists
     try:
