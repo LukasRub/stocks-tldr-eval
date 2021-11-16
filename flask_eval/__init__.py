@@ -20,6 +20,10 @@ def create_app(test_config=None):
         # load the test config if passed in
         app.config.from_mapping(test_config)
 
+    uri = os.getenv("DATABASE_URL")  # or other relevant config var
+        if uri.startswith("postgres://"):
+            uri = uri.replace("postgres://", "postgresql://", 1)
+
     # ensure the instance folder exists
     try:
         os.makedirs(app.instance_path)
