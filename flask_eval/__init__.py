@@ -41,6 +41,6 @@ def create_app(test_config=None):
 
     @app.route("/")
     def index():
-        return redirect(url_for(task_one.get_article))
+        return redirect(url_for('task_one.get_article'))
 
     return app
