@@ -25,12 +25,6 @@ def create_app(test_config=None):
         os.makedirs(app.instance_path)
     except OSError:
         pass
-    
-    app.config["SQLALCHEMY_DATABASE_URI"] = "postgresql://wiruisxmoktlwj:3d4337c024090a3677e6fa43571b041c6d9cd978a3d1d4c43878871534fd9ebe@ec2-54-195-246-55.eu-west-1.compute.amazonaws.com:5432/d3hs5t3ohu0s0g"
-
-    db = SQLAlchemy()
-    db.init_app(app)
-
 
     from . import task_one
     app.register_blueprint(task_one.bp)
