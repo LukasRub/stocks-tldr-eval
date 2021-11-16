@@ -32,8 +32,8 @@ def create_app(test_config=None):
     from . import task_two
     app.register_blueprint(task_two.bp)
 
-    @app.route("/")
-    def index():
-        return "Nice"
+    # @app.route("/")
+    # def index():
+    #     return "Nice"
 
     return app
