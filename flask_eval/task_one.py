@@ -97,7 +97,7 @@ def get_article(article_dir=str(ARTICLE_DIR), doc_id=None):
         if str(doc_id) in articles_dict.keys() and rating in VALID_RATINGS:
             with app.app_context():
                 evaluation = ArticleEval(doc_id=doc_id, rating=rating, 
-                                        optional_reason=str(optional_reasons))
+                                         optional_reasons=str(optional_reasons))
                 db.session.add(evaluation)
                 db.session.commit()
 

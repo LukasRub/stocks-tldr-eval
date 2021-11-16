@@ -74,7 +74,7 @@ def get_stock(stocks_file=Path(STOCKS_PATH), ticker_symbol=None):
         if str(ticker_symbol) in stocks_dict.keys() and rating in VALID_RATINGS:
             with app.app_context():
                 evaluation = StockEval(ticker_symbol=ticker_symbol, rating=rating, 
-                                       optional_reason=str(optional_reasons))
+                                       optional_reasons=str(optional_reasons))
                 db.session.add(evaluation)
                 db.session.commit()
             
