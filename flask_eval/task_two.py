@@ -12,7 +12,7 @@ STOCKS_PATH = "data/stocks/stocks.json"
 VALID_RATINGS = ["rating-none", "rating-1", "rating-2", "rating-3", "rating-4", 
                  "rating-5"]
 VALID_OPTIONAL = ["optional-reason-1", "optional-reason-2", "optional-reason-3",
-                  "optional-reason-4", "optional-reason-5"]
+                  "optional-reason-4", "optional-reason-5", "optional-reason-6"]
 
 bp = Blueprint('task_two', __name__, url_prefix='/task-two')
 app = current_app

@@ -43,11 +43,12 @@
                                 <h3>Relevant articles to the stock</h3>
                             </div>
                             <div style="height:95%; overflow-y:auto;">
-                                {% for article in stock.in_articles %}
+                                {% for article in stock.relevant_articles %}
                                     {% set url = url_for("task_one.get_article", doc_id=article.doc_id) %}                                        
                                     <div class="card" onclick="window.location.href='{{url}}'">
                                         <div class="card-body table-hover">
                                             <h5 class="card-title">{{article.title}}</h5>
+                                            <h6 class="card-subtitile mb-2 text-muted">Rank: {{loop.index}}</h5>
                                             <p class="card-text">{{article.summary}}</p>
                                         </div>
                                     </div>
@@ -59,7 +60,7 @@
                                 <h3 >Irrelevant articles to the stock</h3>
                             </div>
                             <div style="height:95%; overflow-y:scroll;">
-                                {% for article in stock.not_in_articles %}
+                                {% for article in stock.irrelevant_articles %}
                                     {% set url = url_for("task_one.get_article", doc_id=article.doc_id) %}                                        
                                     <div class="card" onclick="window.location.href='{{url}}'">
                                         <div class="card-body table-hover">
@@ -74,7 +75,7 @@
                     <div id="likert-scale" class="h-10 row"></div>
                 </div>
                 <div id="right-column" class="col" style="height:100vh">
-                    <div id="stock-metadata" style="height:35%; overflow-y:auto">
+                    <div id="stock-metadata" style="height:30%; overflow-y:auto">
                         <table class="table">
                             <thead>
                                 <tr>
@@ -109,20 +110,19 @@
                     </div>
                     <div id="evaluation-instructions" style="height: 50%; overflow-y:auto">
                         <h3> Evaluation instructions: Task Two </h3>
-                        <p>You are asked to evaluate model performance on an `article retrieval` task for a given stock.</p>
-                        <p>Model results are inverted and for each stock the model outputs a list of `relevant` articles and `irrelevant` articles.</p>
-                        <p>Task Two is to evaluate the accuracy and coherence of such lists.</p>
+                        <p>You are asked to evaluate model performance on an `article ranking` task for a given stock. Model results are inverted and for each stock the model outputs a list of `relevant` articles (those in which this specific stock was present in model results) and `irrelevant` articles (those which did not). Task Two is to evaluate the accuracy, ranking and coherence of such lists.</p>
                         <p>You can use stock metadata table (see: above) to learn about the stock and click on a news article to read it in full.</p>
                         <p>An additional `Not Sure` evaluation rating is added in case there are no apparent cases whether the article should be (or not) included in either of the lists and/or the evaluator is not familiar with the topic enough to answer.</p>
                         <p>You should use the following evaluation criteria in your evaluations as well as fill optional checklist below.</p>
                         <ul>
                             <li><strong>Are articles in the `Relevant` column truly relevant to the stock in question?</strong></li>
-                            <li><strong>Are articles in the `Irrelevant` column truly irrelevant to the stock in question?</strong></li>
+                            <li><strong>Are articles that are directly about the stock in question in the `Relevant` column?</strong>
                             <li><strong>Do articles in the `Relevant` reflect the sector and industry of the stock in question?</strong></li>
                             <li><strong>Personal knowledge on the stock and/or sector and/or industry</strong></li>
                         </ul>
+                        <strong> IMPORTANT: In this task, consider only articles in the `Relevant` column unless as specified in the evaluation criteria no. 2</strong>
                     </div>
-                    <div id="optional-questionnaire" style="height: 15%; overflow-y:auto">
+                    <div id="optional-questionnaire" style="height: 20%; overflow-y:auto">
                         <h5>Reasons for evaluation (optional):</h5>
                         <div class="form-check">
                             <input class="form-check-input" type="checkbox" value="optional-reason-1" id="optional-reason-1">
@@ -137,6 +137,11 @@
                         <div class="form-check">
                             <input class="form-check-input" type="checkbox" value="optional-reason-3" id="optional-reason-3">
                             <label class="form-check-label" for="optional-reason-3">Topics of articles in the relevant column are not about stock sector or industry</label>
+                        </div>
+
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" value="optional-reason-5" id="optional-reason-5">
+                            <label class="form-check-label" for="optional-reason-5">Clearly related articles to the stock in the irrelevant column (evaluation criteria no. 2)</label>
                         </div>
 
                         <div class="form-check">

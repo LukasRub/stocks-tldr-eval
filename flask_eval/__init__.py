@@ -1,12 +1,13 @@
 import os
+
 from flask import Flask, redirect, url_for
 from flask_sqlalchemy import SQLAlchemy
+
 
 def create_app(test_config=None):
     # create and configure the app
     app = Flask(__name__, instance_relative_config=True)
 
-    
     app.config.from_mapping(
         SECRET_KEY='dev',
         SQLALCHEMY_TRACK_MODIFICATIONS=False
@@ -19,10 +20,12 @@ def create_app(test_config=None):
         # load the test config if passed in
         app.config.from_mapping(test_config)
 
-    uri = os.getenv("DATABASE_URL")
+
+    uri = os.getenv("DATABASE_URL") 
     if uri.startswith("postgres://"):
         uri = uri.replace("postgres://", "postgresql://", 1)
     app.config["SQLALCHEMY_DATABASE_URI"] = uri
+
 
     # ensure the instance folder exists
     try:
